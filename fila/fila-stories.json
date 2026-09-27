@@ -12,7 +12,7 @@
       "id": "story-20260927-8a911e6faa",
       "data": "2026-09-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 01 - Salario nao e o problema.mp4",
         "sha256": "8a911e6faab918fe520da18bdf21e1be0393d519d60b7f95bb31f5950b04dd3b",
@@ -22,7 +22,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-8a911e6faa-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-8a911e6faa-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
@@ -31,13 +31,30 @@
             "duracao_segundos": 28.795
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18142904152518121",
+            "publish_iniciado_em": "2026-09-27T15:14:21-03:00",
+            "id": "18121483859316951",
+            "publicado_em": "2026-09-27T15:14:27-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1354874189785695",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-27T15:14:34-03:00",
+            "post_id_candidato": "1425896179424044",
+            "finish_em": "2026-09-27T15:14:40-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE0MjU4OTYxODk0MjQwNDM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1425896179424044",
+            "publicado_em": "2026-09-27T15:15:16-03:00"
+          },
+          "concluido_em": "2026-09-27T15:15:16-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-27T15:15:16-03:00"
     },
     {
       "id": "story-20260928-f1b55f5fcc",
