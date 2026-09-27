@@ -7,5 +7,68 @@
   "estoque_minimo_dias": 30,
   "estoque_alvo_dias": 30,
   "reposicao_em_andamento": false,
-  "pacotes": []
+  "pacotes": [
+    {
+      "id": "story-20260927-8a911e6faa",
+      "data": "2026-09-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 01 - Salario nao e o problema.mp4",
+        "sha256": "8a911e6faab918fe520da18bdf21e1be0393d519d60b7f95bb31f5950b04dd3b",
+        "pacote": "Pai Rico 01 - Salario nao e o problema",
+        "pacote_id": "story-8a911e6faab9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8a911e6faa-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-8a911e6faa-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
+            "sha256": "8a911e6faab918fe520da18bdf21e1be0393d519d60b7f95bb31f5950b04dd3b",
+            "tamanho_bytes": 6863766,
+            "duracao_segundos": 28.795
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260928-f1b55f5fcc",
+      "data": "2026-09-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 02 - Eu nao posso pagar.mp4",
+        "sha256": "f1b55f5fccc6805e00d886de2bfc2be24eff1ca9eaac768f49de7943cb58cbac",
+        "pacote": "Pai Rico 02 - Eu nao posso pagar",
+        "pacote_id": "story-f1b55f5fccc6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f1b55f5fcc-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f1b55f5fcc-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
+            "sha256": "f1b55f5fccc6805e00d886de2bfc2be24eff1ca9eaac768f49de7943cb58cbac",
+            "tamanho_bytes": 6012518,
+            "duracao_segundos": 26.767
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    }
+  ]
 }
