@@ -28,7 +28,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-8a911e6faa-Pai-Rico-01---Salario-nao-e-o-problema.mp4",
             "sha256": "8a911e6faab918fe520da18bdf21e1be0393d519d60b7f95bb31f5950b04dd3b",
             "tamanho_bytes": 6863766,
-            "duracao_segundos": 28.795
+            "duracao_segundos": 28.795,
+            "removido_da_release_em": "2026-09-27T15:15:19.165843-03:00"
           },
           "instagram": {
             "status": "publicado",
