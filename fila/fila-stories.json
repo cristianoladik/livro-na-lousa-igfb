@@ -87,6 +87,564 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20260929-113613ef73",
+      "data": "2026-09-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 03 - O conselho do emprego seguro.mp4",
+        "sha256": "113613ef73386083056e45a7fb2e246522ff09b62651083b86103048dd9513f5",
+        "pacote": "Pai Rico 03 - O conselho do emprego seguro",
+        "pacote_id": "story-113613ef7338"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-113613ef73-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-113613ef73-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
+            "sha256": "113613ef73386083056e45a7fb2e246522ff09b62651083b86103048dd9513f5",
+            "tamanho_bytes": 7437987,
+            "duracao_segundos": 32.467
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260930-51f2a4110b",
+      "data": "2026-09-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 04 - Trabalhando de graca.mp4",
+        "sha256": "51f2a4110bc0d227445f476e4bf5c9ac5bfcadb2aabe05da8b4254c36dd37b4d",
+        "pacote": "Pai Rico 04 - Trabalhando de graca",
+        "pacote_id": "story-51f2a4110bc0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-51f2a4110b-Pai-Rico-04---Trabalhando-de-graca.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-51f2a4110b-Pai-Rico-04---Trabalhando-de-graca.mp4",
+            "sha256": "51f2a4110bc0d227445f476e4bf5c9ac5bfcadb2aabe05da8b4254c36dd37b4d",
+            "tamanho_bytes": 9074534,
+            "duracao_segundos": 34.567
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261001-693b2192c0",
+      "data": "2026-10-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 05 - A biblioteca de gibis.mp4",
+        "sha256": "693b2192c0cec5c0ec96d56880183125e7be2abd5d4dc855e6cdea63ff1ac9e4",
+        "pacote": "Pai Rico 05 - A biblioteca de gibis",
+        "pacote_id": "story-693b2192c0ce"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-693b2192c0-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-693b2192c0-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
+            "sha256": "693b2192c0cec5c0ec96d56880183125e7be2abd5d4dc855e6cdea63ff1ac9e4",
+            "tamanho_bytes": 9013518,
+            "duracao_segundos": 31.467
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261002-44509485f1",
+      "data": "2026-10-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 06 - Corrida dos ratos.mp4",
+        "sha256": "44509485f16b62535130fe9a902aac189f105616af9acaee738569072592ee67",
+        "pacote": "Pai Rico 06 - Corrida dos ratos",
+        "pacote_id": "story-44509485f16b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-44509485f1-Pai-Rico-06---Corrida-dos-ratos.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-44509485f1-Pai-Rico-06---Corrida-dos-ratos.mp4",
+            "sha256": "44509485f16b62535130fe9a902aac189f105616af9acaee738569072592ee67",
+            "tamanho_bytes": 7358242,
+            "duracao_segundos": 28.99
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261003-03778d7f71",
+      "data": "2026-10-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 07 - O aumento que some.mp4",
+        "sha256": "03778d7f71b0e0694fa580874792508d15a8eac9fdbe9e5c282d84697057bcb4",
+        "pacote": "Pai Rico 07 - O aumento que some",
+        "pacote_id": "story-03778d7f71b0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-03778d7f71-Pai-Rico-07---O-aumento-que-some.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-03778d7f71-Pai-Rico-07---O-aumento-que-some.mp4",
+            "sha256": "03778d7f71b0e0694fa580874792508d15a8eac9fdbe9e5c282d84697057bcb4",
+            "tamanho_bytes": 7071737,
+            "duracao_segundos": 29.72
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261004-aec4bdc24f",
+      "data": "2026-10-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 08 - Ativo x passivo.mp4",
+        "sha256": "aec4bdc24f38c9948c2ab57ed269c77ef87d3c42638cece02952474d838dfed3",
+        "pacote": "Pai Rico 08 - Ativo x passivo",
+        "pacote_id": "story-aec4bdc24f38"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-aec4bdc24f-Pai-Rico-08---Ativo-x-passivo.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-aec4bdc24f-Pai-Rico-08---Ativo-x-passivo.mp4",
+            "sha256": "aec4bdc24f38c9948c2ab57ed269c77ef87d3c42638cece02952474d838dfed3",
+            "tamanho_bytes": 6566094,
+            "duracao_segundos": 30.4
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261005-ad5c5b4386",
+      "data": "2026-10-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 09 - A casa onde voce mora.mp4",
+        "sha256": "ad5c5b4386b704f6474bfaf68461f06eaeb80a39d0f2627089284ec5fc2e1862",
+        "pacote": "Pai Rico 09 - A casa onde voce mora",
+        "pacote_id": "story-ad5c5b4386b7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-ad5c5b4386-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-ad5c5b4386-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
+            "sha256": "ad5c5b4386b704f6474bfaf68461f06eaeb80a39d0f2627089284ec5fc2e1862",
+            "tamanho_bytes": 8146022,
+            "duracao_segundos": 32.967
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261006-408f357f5e",
+      "data": "2026-10-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
+        "sha256": "408f357f5ee18085e1960ed64e038300c90526de97aedce5e4f657265704a099",
+        "pacote": "Pai Rico 10 - A casa que te paga",
+        "pacote_id": "story-408f357f5ee1"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-408f357f5e-Pai-Rico-10---A-casa-que-te-paga.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-408f357f5e-Pai-Rico-10---A-casa-que-te-paga.mp4",
+            "sha256": "408f357f5ee18085e1960ed64e038300c90526de97aedce5e4f657265704a099",
+            "tamanho_bytes": 7175158,
+            "duracao_segundos": 30.733
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261007-635b487b1b",
+      "data": "2026-10-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 11 - Passivos disfarcados.mp4",
+        "sha256": "635b487b1bbfc21fe31f6791d4b09b5dae7bca79f148e0e8c942857d3185a05e",
+        "pacote": "Pai Rico 11 - Passivos disfarcados",
+        "pacote_id": "story-635b487b1bbf"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-635b487b1b-Pai-Rico-11---Passivos-disfarcados.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-635b487b1b-Pai-Rico-11---Passivos-disfarcados.mp4",
+            "sha256": "635b487b1bbfc21fe31f6791d4b09b5dae7bca79f148e0e8c942857d3185a05e",
+            "tamanho_bytes": 7001359,
+            "duracao_segundos": 32.25
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261008-b1663d3fd1",
+      "data": "2026-10-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 12 - Pobre classe media rico.mp4",
+        "sha256": "b1663d3fd13d0c1b6000207695a72b0498803e53ea6274717afc71776d22e5d8",
+        "pacote": "Pai Rico 12 - Pobre classe media rico",
+        "pacote_id": "story-b1663d3fd13d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b1663d3fd1-Pai-Rico-12---Pobre-classe-media-rico.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-b1663d3fd1-Pai-Rico-12---Pobre-classe-media-rico.mp4",
+            "sha256": "b1663d3fd13d0c1b6000207695a72b0498803e53ea6274717afc71776d22e5d8",
+            "tamanho_bytes": 7278707,
+            "duracao_segundos": 34.3
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261009-c98cf6cb38",
+      "data": "2026-10-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
+        "sha256": "c98cf6cb38ffd54b696c7ea195948bb410afdfb9e1570468ed00f36f5d0c03d8",
+        "pacote": "Pai Rico 13 - O negocio de quem",
+        "pacote_id": "story-c98cf6cb38ff"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c98cf6cb38-Pai-Rico-13---O-negocio-de-quem.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c98cf6cb38-Pai-Rico-13---O-negocio-de-quem.mp4",
+            "sha256": "c98cf6cb38ffd54b696c7ea195948bb410afdfb9e1570468ed00f36f5d0c03d8",
+            "tamanho_bytes": 6844800,
+            "duracao_segundos": 31.333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261010-7948a778f1",
+      "data": "2026-10-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 14 - O decimo terceiro.mp4",
+        "sha256": "7948a778f1b43acb39e93c87e0f95522957b159ed2169abe5a0956f6da0c1428",
+        "pacote": "Pai Rico 14 - O decimo terceiro",
+        "pacote_id": "story-7948a778f1b4"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7948a778f1-Pai-Rico-14---O-decimo-terceiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7948a778f1-Pai-Rico-14---O-decimo-terceiro.mp4",
+            "sha256": "7948a778f1b43acb39e93c87e0f95522957b159ed2169abe5a0956f6da0c1428",
+            "tamanho_bytes": 6345119,
+            "duracao_segundos": 28.367
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261011-afb4879639",
+      "data": "2026-10-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 15 - A ordem dos impostos.mp4",
+        "sha256": "afb4879639b0c20f610b343ee8e094a3357ccab8fdedbe38a06fc25370f2a972",
+        "pacote": "Pai Rico 15 - A ordem dos impostos",
+        "pacote_id": "story-afb4879639b0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-afb4879639-Pai-Rico-15---A-ordem-dos-impostos.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-afb4879639-Pai-Rico-15---A-ordem-dos-impostos.mp4",
+            "sha256": "afb4879639b0c20f610b343ee8e094a3357ccab8fdedbe38a06fc25370f2a972",
+            "tamanho_bytes": 7675552,
+            "duracao_segundos": 32.585
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261012-3c1a93483a",
+      "data": "2026-10-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
+        "sha256": "3c1a93483a9f6fe23ecc8b26053c14aaf098fcfc997e00e00f2b16e05949141b",
+        "pacote": "Pai Rico 16 - Comprar na crise",
+        "pacote_id": "story-3c1a93483a9f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-3c1a93483a-Pai-Rico-16---Comprar-na-crise.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-3c1a93483a-Pai-Rico-16---Comprar-na-crise.mp4",
+            "sha256": "3c1a93483a9f6fe23ecc8b26053c14aaf098fcfc997e00e00f2b16e05949141b",
+            "tamanho_bytes": 7474927,
+            "duracao_segundos": 31.233
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261013-f9f469ca40",
+      "data": "2026-10-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
+        "sha256": "f9f469ca40d960500e7b8325d9f2889aa04a8fa2c494f7d927781612395f8643",
+        "pacote": "Pai Rico 17 - Garimpar oportunidade",
+        "pacote_id": "story-f9f469ca40d9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f9f469ca40-Pai-Rico-17---Garimpar-oportunidade.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f9f469ca40-Pai-Rico-17---Garimpar-oportunidade.mp4",
+            "sha256": "f9f469ca40d960500e7b8325d9f2889aa04a8fa2c494f7d927781612395f8643",
+            "tamanho_bytes": 9317525,
+            "duracao_segundos": 32.09
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261014-1df511652f",
+      "data": "2026-10-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 18 - O timido que foi vender.mp4",
+        "sha256": "1df511652fb82cb6b2005c77e36c7cc041ec57f52659f565a15437dbed989b50",
+        "pacote": "Pai Rico 18 - O timido que foi vender",
+        "pacote_id": "story-1df511652fb8"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1df511652f-Pai-Rico-18---O-timido-que-foi-vender.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-1df511652f-Pai-Rico-18---O-timido-que-foi-vender.mp4",
+            "sha256": "1df511652fb82cb6b2005c77e36c7cc041ec57f52659f565a15437dbed989b50",
+            "tamanho_bytes": 6610462,
+            "duracao_segundos": 28.26
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261015-4b7f3bee8a",
+      "data": "2026-10-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 19 - Paga voce primeiro.mp4",
+        "sha256": "4b7f3bee8ad3436c2c71b4bc8c7483ddb0b6db71c00e2908fa2dc63ed4fa4c15",
+        "pacote": "Pai Rico 19 - Paga voce primeiro",
+        "pacote_id": "story-4b7f3bee8ad3"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-4b7f3bee8a-Pai-Rico-19---Paga-voce-primeiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-4b7f3bee8a-Pai-Rico-19---Paga-voce-primeiro.mp4",
+            "sha256": "4b7f3bee8ad3436c2c71b4bc8c7483ddb0b6db71c00e2908fa2dc63ed4fa4c15",
+            "tamanho_bytes": 6319516,
+            "duracao_segundos": 28.867
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261016-b33accef65",
+      "data": "2026-10-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Pai Rico 20 - O que trava as pessoas.mp4",
+        "sha256": "b33accef65628a525088d4f7ad600731514da8fd2c011f780e1ea792395a2fdb",
+        "pacote": "Pai Rico 20 - O que trava as pessoas",
+        "pacote_id": "story-b33accef6562"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b33accef65-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-b33accef65-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+            "sha256": "b33accef65628a525088d4f7ad600731514da8fd2c011f780e1ea792395a2fdb",
+            "tamanho_bytes": 6882983,
+            "duracao_segundos": 30.59
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
