@@ -36,7 +36,7 @@
       "id": "reel-20260927-1900-51f2a4110b",
       "data": "2026-09-27",
       "horario": "19:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 04 - Trabalhando de graca.mp4",
         "sha256": "51f2a4110bc0d227445f476e4bf5c9ac5bfcadb2aabe05da8b4254c36dd37b4d"
@@ -49,12 +49,17 @@
       },
       "instagram": {
         "legenda": "Um menino de nove anos trabalhou quase de graça numa mercearia e aprendeu mais do que na escola.\n\nÉ uma história do livro Pai Rico, Pai Pobre: o pai rico parou de pagar de propósito, pra ele não virar mais um esperando aumento.\n\nSem pagamento, o menino teve que procurar outra saída, e achou.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17911560846494069",
+        "publicado_em": "2026-09-27T19:17:40.713672-03:00"
       },
       "facebook": {
         "legenda": "Um menino de nove anos trabalhou quase de graça numa mercearia e aprendeu mais do que na escola.\n\nÉ uma história do livro Pai Rico, Pai Pobre: o pai rico parou de pagar de propósito, pra ele não virar mais um esperando aumento.\n\nSem pagamento, o menino teve que procurar outra saída, e achou.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4341223252761895",
+        "publicado_em": "2026-09-27T19:17:51.411597-03:00"
+      },
+      "concluido_em": "2026-09-27T19:17:51.412785-03:00"
     },
     {
       "id": "reel-20260928-1100-693b2192c0",
