@@ -6,7 +6,7 @@
       "id": "reel-20260927-1457-113613ef73",
       "data": "2026-09-27",
       "horario": "14:57",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 03 - O conselho do emprego seguro.mp4",
         "sha256": "113613ef73386083056e45a7fb2e246522ff09b62651083b86103048dd9513f5"
@@ -19,12 +19,17 @@
       },
       "instagram": {
         "legenda": "Estudar e arrumar um emprego seguro pode te deixar pobre. No livro Pai Rico, Pai Pobre, o autor teve dois pais: um queria segurança, o outro queria liberdade. Qual dessas duas vozes você escuta hoje?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18222193444340371",
+        "publicado_em": "2026-09-27T15:13:22.941955-03:00"
       },
       "facebook": {
         "legenda": "Estudar e arrumar um emprego seguro pode te deixar pobre. No livro Pai Rico, Pai Pobre, o autor teve dois pais: um queria segurança, o outro queria liberdade. Qual dessas duas vozes você escuta hoje?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1993915064558234",
+        "publicado_em": "2026-09-27T15:13:34.393120-03:00"
+      },
+      "concluido_em": "2026-09-27T15:13:34.393914-03:00"
     },
     {
       "id": "reel-20260927-1900-51f2a4110b",
