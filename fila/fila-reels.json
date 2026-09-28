@@ -239,7 +239,7 @@
     {
       "id": "reel-20261001-1900-b1663d3fd1",
       "data": "2026-10-01",
-      "horario": "19:00",
+      "horario": "15:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 12 - Pobre classe media rico.mp4",
@@ -262,8 +262,8 @@
     },
     {
       "id": "reel-20261002-1100-c98cf6cb38",
-      "data": "2026-10-02",
-      "horario": "11:00",
+      "data": "2026-10-01",
+      "horario": "19:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
@@ -287,7 +287,7 @@
     {
       "id": "reel-20261002-1900-7948a778f1",
       "data": "2026-10-02",
-      "horario": "19:00",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 14 - O decimo terceiro.mp4",
@@ -310,7 +310,7 @@
     },
     {
       "id": "reel-20261003-1100-afb4879639",
-      "data": "2026-10-03",
+      "data": "2026-10-02",
       "horario": "11:00",
       "status": "pendente",
       "origem": {
@@ -334,8 +334,8 @@
     },
     {
       "id": "reel-20261003-1900-3c1a93483a",
-      "data": "2026-10-03",
-      "horario": "19:00",
+      "data": "2026-10-02",
+      "horario": "15:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
@@ -358,8 +358,8 @@
     },
     {
       "id": "reel-20261004-1100-f9f469ca40",
-      "data": "2026-10-04",
-      "horario": "11:00",
+      "data": "2026-10-02",
+      "horario": "19:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
@@ -382,8 +382,8 @@
     },
     {
       "id": "reel-20261004-1900-1df511652f",
-      "data": "2026-10-04",
-      "horario": "19:00",
+      "data": "2026-10-03",
+      "horario": "08:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 18 - O timido que foi vender.mp4",
@@ -406,7 +406,7 @@
     },
     {
       "id": "reel-20261005-1100-4b7f3bee8a",
-      "data": "2026-10-05",
+      "data": "2026-10-03",
       "horario": "11:00",
       "status": "pendente",
       "origem": {
@@ -430,8 +430,8 @@
     },
     {
       "id": "reel-20261005-1900-b33accef65",
-      "data": "2026-10-05",
-      "horario": "19:00",
+      "data": "2026-10-03",
+      "horario": "14:00",
       "status": "pendente",
       "origem": {
         "arquivo": "Pai Rico 20 - O que trava as pessoas.mp4",
