@@ -77,7 +77,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f1b55f5fcc-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
             "sha256": "f1b55f5fccc6805e00d886de2bfc2be24eff1ca9eaac768f49de7943cb58cbac",
             "tamanho_bytes": 6012518,
-            "duracao_segundos": 26.767
+            "duracao_segundos": 26.767,
+            "removido_da_release_em": "2026-09-28T09:18:15.348102-03:00"
           },
           "instagram": {
             "status": "publicado",
