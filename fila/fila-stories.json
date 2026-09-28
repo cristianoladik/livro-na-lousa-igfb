@@ -61,7 +61,7 @@
       "id": "story-20260928-f1b55f5fcc",
       "data": "2026-09-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 02 - Eu nao posso pagar.mp4",
         "sha256": "f1b55f5fccc6805e00d886de2bfc2be24eff1ca9eaac768f49de7943cb58cbac",
@@ -71,7 +71,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f1b55f5fcc-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f1b55f5fcc-Pai-Rico-02---Eu-nao-posso-pagar.mp4",
@@ -80,13 +80,30 @@
             "duracao_segundos": 26.767
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18143071555518121",
+            "publish_iniciado_em": "2026-09-28T09:16:46-03:00",
+            "id": "18115951276992993",
+            "publicado_em": "2026-09-28T09:16:54-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1579390080590422",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-28T09:17:01-03:00",
+            "post_id_candidato": "1726829061947846",
+            "finish_em": "2026-09-28T09:17:07-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE3MjY4MjkwNjUyODExNzk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1726829061947846",
+            "publicado_em": "2026-09-28T09:18:13-03:00"
+          },
+          "concluido_em": "2026-09-28T09:18:13-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-28T09:18:13-03:00"
     },
     {
       "id": "story-20260929-113613ef73",
