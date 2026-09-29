@@ -663,6 +663,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261017-7424b13482",
+      "data": "2026-10-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 01 - As muralhas da Babilonia.mp4",
+        "sha256": "7424b13482025beff2eb713c57f3c8e10ddc806fb02bede7ff3c7fab44fa140a",
+        "pacote": "Babilonia 01 - As muralhas da Babilonia",
+        "pacote_id": "story-7424b1348202"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7424b13482-Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7424b13482-Babilonia-01---As-muralhas-da-Babilonia.mp4",
+            "sha256": "7424b13482025beff2eb713c57f3c8e10ddc806fb02bede7ff3c7fab44fa140a",
+            "tamanho_bytes": 7300932,
+            "duracao_segundos": 29.542
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
