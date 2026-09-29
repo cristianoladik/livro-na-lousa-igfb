@@ -110,7 +110,7 @@
       "id": "story-20260929-113613ef73",
       "data": "2026-09-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 03 - O conselho do emprego seguro.mp4",
         "sha256": "113613ef73386083056e45a7fb2e246522ff09b62651083b86103048dd9513f5",
@@ -120,7 +120,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-113613ef73-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-113613ef73-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
@@ -129,13 +129,30 @@
             "duracao_segundos": 32.467
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18143341339518121",
+            "publish_iniciado_em": "2026-09-29T09:16:27-03:00",
+            "id": "17913044382532337",
+            "publicado_em": "2026-09-29T09:16:35-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1777550373452872",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-29T09:16:44-03:00",
+            "post_id_candidato": "1281040774106589",
+            "finish_em": "2026-09-29T09:16:49-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjEyODEwNDA3Nzc0Mzk5MjI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1281040774106589",
+            "publicado_em": "2026-09-29T09:17:26-03:00"
+          },
+          "concluido_em": "2026-09-29T09:17:26-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-29T09:17:26-03:00"
     },
     {
       "id": "story-20260930-51f2a4110b",
