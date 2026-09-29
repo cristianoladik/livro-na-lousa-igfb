@@ -165,7 +165,8 @@
         "asset": "reel-aec4bdc24f-Pai-Rico-08---Ativo-x-passivo.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-aec4bdc24f-Pai-Rico-08---Ativo-x-passivo.mp4",
         "sha256": "aec4bdc24f38c9948c2ab57ed269c77ef87d3c42638cece02952474d838dfed3",
-        "tamanho_bytes": 6566094
+        "tamanho_bytes": 6566094,
+        "removido_da_release_em": "2026-09-29T19:11:33.063832-03:00"
       },
       "instagram": {
         "legenda": "A lição mais importante de finanças do livro Pai Rico, Pai Pobre cabe em duas frases: ativo é tudo que coloca dinheiro no seu bolso, passivo é tudo que tira.\n\nA maioria compra passivo achando que é ativo, e o mais comum de todos pode ser a casa onde você mora.\n\nSegue a página pra ver mais livros assim: @livronalousa",
