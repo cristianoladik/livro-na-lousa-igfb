@@ -126,7 +126,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-113613ef73-Pai-Rico-03---O-conselho-do-emprego-seguro.mp4",
             "sha256": "113613ef73386083056e45a7fb2e246522ff09b62651083b86103048dd9513f5",
             "tamanho_bytes": 7437987,
-            "duracao_segundos": 32.467
+            "duracao_segundos": 32.467,
+            "removido_da_release_em": "2026-09-29T09:17:29.566399-03:00"
           },
           "instagram": {
             "status": "publicado",
