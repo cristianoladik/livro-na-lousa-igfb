@@ -159,7 +159,7 @@
       "id": "story-20260930-51f2a4110b",
       "data": "2026-09-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 04 - Trabalhando de graca.mp4",
         "sha256": "51f2a4110bc0d227445f476e4bf5c9ac5bfcadb2aabe05da8b4254c36dd37b4d",
@@ -169,7 +169,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-51f2a4110b-Pai-Rico-04---Trabalhando-de-graca.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-51f2a4110b-Pai-Rico-04---Trabalhando-de-graca.mp4",
@@ -178,13 +178,30 @@
             "duracao_segundos": 34.567
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18143603470518121",
+            "publish_iniciado_em": "2026-09-30T09:16:17-03:00",
+            "id": "18130662565792018",
+            "publicado_em": "2026-09-30T09:16:26-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2529138244258351",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-09-30T09:16:35-03:00",
+            "post_id_candidato": "1335205431858020",
+            "finish_em": "2026-09-30T09:16:42-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjEzMzUyMDU0Mzg1MjQ2ODY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1335205431858020",
+            "publicado_em": "2026-09-30T09:17:48-03:00"
+          },
+          "concluido_em": "2026-09-30T09:17:48-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-09-30T09:17:48-03:00"
     },
     {
       "id": "story-20261001-693b2192c0",
