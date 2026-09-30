@@ -175,7 +175,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-51f2a4110b-Pai-Rico-04---Trabalhando-de-graca.mp4",
             "sha256": "51f2a4110bc0d227445f476e4bf5c9ac5bfcadb2aabe05da8b4254c36dd37b4d",
             "tamanho_bytes": 9074534,
-            "duracao_segundos": 34.567
+            "duracao_segundos": 34.567,
+            "removido_da_release_em": "2026-09-30T09:18:18.620886-03:00"
           },
           "instagram": {
             "status": "publicado",
