@@ -712,6 +712,1308 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261018-23095436ad",
+      "data": "2026-10-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 01 - A vela e a fogueira.mp4",
+        "sha256": "23095436ad46eecf2b44b37e960190d59bc2e686431e907f77f4e6ed95a2815f",
+        "pacote": "Antifragil 01 - A vela e a fogueira",
+        "pacote_id": "story-23095436ad46"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-23095436ad-Antifragil-01---A-vela-e-a-fogueira.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-23095436ad-Antifragil-01---A-vela-e-a-fogueira.mp4",
+            "sha256": "23095436ad46eecf2b44b37e960190d59bc2e686431e907f77f4e6ed95a2815f",
+            "tamanho_bytes": 4923519,
+            "duracao_segundos": 32.62
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261019-0d28ea5597",
+      "data": "2026-10-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 01 - Brigas disfarcadas.mp4",
+        "sha256": "0d28ea55979282a3d36c65041c96768af165819e4a9820fe73590945d8049007",
+        "pacote": "Casais Inteligentes 01 - Brigas disfarcadas",
+        "pacote_id": "story-0d28ea559792"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0d28ea5597-Casais-Inteligentes-01---Brigas-disfarcadas.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0d28ea5597-Casais-Inteligentes-01---Brigas-disfarcadas.mp4",
+            "sha256": "0d28ea55979282a3d36c65041c96768af165819e4a9820fe73590945d8049007",
+            "tamanho_bytes": 5601391,
+            "duracao_segundos": 36.48
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261020-4e47d7d731",
+      "data": "2026-10-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Ciclo de Mercado 01 - O pendulo que nunca para.mp4",
+        "sha256": "4e47d7d731ec138fe40d1aa837585d0780fdde356570cb7a28c42e9908601cca",
+        "pacote": "Ciclo de Mercado 01 - O pendulo que nunca para",
+        "pacote_id": "story-4e47d7d731ec"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-4e47d7d731-Ciclo-de-Mercado-01---O-pendulo-que-nunca-para.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-4e47d7d731-Ciclo-de-Mercado-01---O-pendulo-que-nunca-para.mp4",
+            "sha256": "4e47d7d731ec138fe40d1aa837585d0780fdde356570cb7a28c42e9908601cca",
+            "tamanho_bytes": 7588490,
+            "duracao_segundos": 48.32
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261021-e944fff380",
+      "data": "2026-10-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Credito Vale Mais 01 - Duas dividas diferentes.mp4",
+        "sha256": "e944fff38015f03fb0cd1647746a1195df1f3b2262e9ca9ff368b16a9e31ad70",
+        "pacote": "Credito Vale Mais 01 - Duas dividas diferentes",
+        "pacote_id": "story-e944fff38015"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-e944fff380-Credito-Vale-Mais-01---Duas-dividas-diferentes.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-e944fff380-Credito-Vale-Mais-01---Duas-dividas-diferentes.mp4",
+            "sha256": "e944fff38015f03fb0cd1647746a1195df1f3b2262e9ca9ff368b16a9e31ad70",
+            "tamanho_bytes": 7214720,
+            "duracao_segundos": 49.48
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261022-19d8d0b78c",
+      "data": "2026-10-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 01 - A folha de papel dobrada.mp4",
+        "sha256": "19d8d0b78ced8ec0d2e359eb16af622a50ec9bb7d1e4b7bc4e750a4947090138",
+        "pacote": "Dinheiro Segredos 01 - A folha de papel dobrada",
+        "pacote_id": "story-19d8d0b78ced"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-19d8d0b78c-Dinheiro-Segredos-01---A-folha-de-papel-dobrada.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-19d8d0b78c-Dinheiro-Segredos-01---A-folha-de-papel-dobrada.mp4",
+            "sha256": "19d8d0b78ced8ec0d2e359eb16af622a50ec9bb7d1e4b7bc4e750a4947090138",
+            "tamanho_bytes": 5879886,
+            "duracao_segundos": 34.19
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261023-53bcbef1eb",
+      "data": "2026-10-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 02 - Hamurabi e a pele em jogo.mp4",
+        "sha256": "53bcbef1eba7f9d7e8bb928fadc6b673311de2280ebdba487a7fe3afc52d1d80",
+        "pacote": "Antifragil 02 - Hamurabi e a pele em jogo",
+        "pacote_id": "story-53bcbef1eba7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-53bcbef1eb-Antifragil-02---Hamurabi-e-a-pele-em-jogo.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-53bcbef1eb-Antifragil-02---Hamurabi-e-a-pele-em-jogo.mp4",
+            "sha256": "53bcbef1eba7f9d7e8bb928fadc6b673311de2280ebdba487a7fe3afc52d1d80",
+            "tamanho_bytes": 5538321,
+            "duracao_segundos": 35.78
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261024-5427d2b5d8",
+      "data": "2026-10-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 02 - Bansir e Kobbi.mp4",
+        "sha256": "5427d2b5d8d5356d6aa3b6023939aa41f2a7cd7c569231b4c0fb66140b62c8a9",
+        "pacote": "Babilonia 02 - Bansir e Kobbi",
+        "pacote_id": "story-5427d2b5d8d5"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-5427d2b5d8-Babilonia-02---Bansir-e-Kobbi.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-5427d2b5d8-Babilonia-02---Bansir-e-Kobbi.mp4",
+            "sha256": "5427d2b5d8d5356d6aa3b6023939aa41f2a7cd7c569231b4c0fb66140b62c8a9",
+            "tamanho_bytes": 7044200,
+            "duracao_segundos": 34.708
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261025-d9d18ebfbf",
+      "data": "2026-10-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 02 - O poupador.mp4",
+        "sha256": "d9d18ebfbfb2eb4ed276c102394fc116f397935970ddadd6ad1cb7fa632d30ca",
+        "pacote": "Casais Inteligentes 02 - O poupador",
+        "pacote_id": "story-d9d18ebfbfb2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d9d18ebfbf-Casais-Inteligentes-02---O-poupador.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-d9d18ebfbf-Casais-Inteligentes-02---O-poupador.mp4",
+            "sha256": "d9d18ebfbfb2eb4ed276c102394fc116f397935970ddadd6ad1cb7fa632d30ca",
+            "tamanho_bytes": 4540000,
+            "duracao_segundos": 28.74
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261026-28c76df243",
+      "data": "2026-10-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Ciclo de Mercado 02 - A febre das tulipas.mp4",
+        "sha256": "28c76df24308153b2348854d2e3c7a214f9677695155ec2cb3d2a1847073b3cc",
+        "pacote": "Ciclo de Mercado 02 - A febre das tulipas",
+        "pacote_id": "story-28c76df24308"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-28c76df243-Ciclo-de-Mercado-02---A-febre-das-tulipas.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-28c76df243-Ciclo-de-Mercado-02---A-febre-das-tulipas.mp4",
+            "sha256": "28c76df24308153b2348854d2e3c7a214f9677695155ec2cb3d2a1847073b3cc",
+            "tamanho_bytes": 4748940,
+            "duracao_segundos": 31.833
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261027-bf235b013f",
+      "data": "2026-10-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Credito Vale Mais 02 - O preco que foge.mp4",
+        "sha256": "bf235b013fcbd766ed54d7beef43a2158cc9613fc9ee96a1ae63f40924c482fd",
+        "pacote": "Credito Vale Mais 02 - O preco que foge",
+        "pacote_id": "story-bf235b013fcb"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-bf235b013f-Credito-Vale-Mais-02---O-preco-que-foge.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-bf235b013f-Credito-Vale-Mais-02---O-preco-que-foge.mp4",
+            "sha256": "bf235b013fcbd766ed54d7beef43a2158cc9613fc9ee96a1ae63f40924c482fd",
+            "tamanho_bytes": 5032203,
+            "duracao_segundos": 34.82
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261028-3423cbc833",
+      "data": "2026-10-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 02 - A frase do Dickens.mp4",
+        "sha256": "3423cbc833100ccdcb6d7c25193354dc8cfc27d3cfcb489b5d75aa88329a6e1a",
+        "pacote": "Dinheiro Segredos 02 - A frase do Dickens",
+        "pacote_id": "story-3423cbc83310"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-3423cbc833-Dinheiro-Segredos-02---A-frase-do-Dickens.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-3423cbc833-Dinheiro-Segredos-02---A-frase-do-Dickens.mp4",
+            "sha256": "3423cbc833100ccdcb6d7c25193354dc8cfc27d3cfcb489b5d75aa88329a6e1a",
+            "tamanho_bytes": 5244370,
+            "duracao_segundos": 34.792
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261029-c1a4aeaf50",
+      "data": "2026-10-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 03 - Damocles, Fenix e Hidra.mp4",
+        "sha256": "c1a4aeaf500544572a0a57ef495c987bb02539b9f3ec417af0fe50bf1cab2b3b",
+        "pacote": "Antifragil 03 - Damocles, Fenix e Hidra",
+        "pacote_id": "story-c1a4aeaf5005"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c1a4aeaf50-Antifragil-03---Damocles-Fenix-e-Hidra.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c1a4aeaf50-Antifragil-03---Damocles-Fenix-e-Hidra.mp4",
+            "sha256": "c1a4aeaf500544572a0a57ef495c987bb02539b9f3ec417af0fe50bf1cab2b3b",
+            "tamanho_bytes": 5815420,
+            "duracao_segundos": 35.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261030-69202ae2b9",
+      "data": "2026-10-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 03 - Comeu os filhos do ouro.mp4",
+        "sha256": "69202ae2b90546dce95b7ff74e16e7c4bf5f45fe623e37d1b0fa4c44508d00fe",
+        "pacote": "Babilonia 03 - Comeu os filhos do ouro",
+        "pacote_id": "story-69202ae2b905"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-69202ae2b9-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-69202ae2b9-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
+            "sha256": "69202ae2b90546dce95b7ff74e16e7c4bf5f45fe623e37d1b0fa4c44508d00fe",
+            "tamanho_bytes": 4831451,
+            "duracao_segundos": 29.042
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261031-0c5b759fa2",
+      "data": "2026-10-31",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 03 - O gastador.mp4",
+        "sha256": "0c5b759fa22f4890c2b094da2480593cccbbfc5ee3eab20bd316e9e92e400866",
+        "pacote": "Casais Inteligentes 03 - O gastador",
+        "pacote_id": "story-0c5b759fa22f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0c5b759fa2-Casais-Inteligentes-03---O-gastador.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0c5b759fa2-Casais-Inteligentes-03---O-gastador.mp4",
+            "sha256": "0c5b759fa22f4890c2b094da2480593cccbbfc5ee3eab20bd316e9e92e400866",
+            "tamanho_bytes": 4971333,
+            "duracao_segundos": 30.125
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261101-e0245c2818",
+      "data": "2026-11-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 03 - Os dois tipos de pobre.mp4",
+        "sha256": "e0245c28184ff5cb174ea720f14196338918bcd246d39750647bde69582bc0e8",
+        "pacote": "Dinheiro Segredos 03 - Os dois tipos de pobre",
+        "pacote_id": "story-e0245c28184f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-e0245c2818-Dinheiro-Segredos-03---Os-dois-tipos-de-pobre.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-e0245c2818-Dinheiro-Segredos-03---Os-dois-tipos-de-pobre.mp4",
+            "sha256": "e0245c28184ff5cb174ea720f14196338918bcd246d39750647bde69582bc0e8",
+            "tamanho_bytes": 6920435,
+            "duracao_segundos": 33.458
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261102-31ab73394f",
+      "data": "2026-11-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 04 - Mitridates e a hormese.mp4",
+        "sha256": "31ab73394ff3c8752a26de2d4e6e264186c88a7e3a9e58d38fbc54913487e562",
+        "pacote": "Antifragil 04 - Mitridates e a hormese",
+        "pacote_id": "story-31ab73394ff3"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-31ab73394f-Antifragil-04---Mitridates-e-a-hormese.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-31ab73394f-Antifragil-04---Mitridates-e-a-hormese.mp4",
+            "sha256": "31ab73394ff3c8752a26de2d4e6e264186c88a7e3a9e58d38fbc54913487e562",
+            "tamanho_bytes": 5045103,
+            "duracao_segundos": 32.625
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261103-7faeda6531",
+      "data": "2026-11-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 04 - Voce paga todo mundo.mp4",
+        "sha256": "7faeda65311fd41b13174444a01997c9423ab93df4e642f9778fb006342b555c",
+        "pacote": "Babilonia 04 - Voce paga todo mundo",
+        "pacote_id": "story-7faeda65311f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7faeda6531-Babilonia-04---Voce-paga-todo-mundo.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7faeda6531-Babilonia-04---Voce-paga-todo-mundo.mp4",
+            "sha256": "7faeda65311fd41b13174444a01997c9423ab93df4e642f9778fb006342b555c",
+            "tamanho_bytes": 4968168,
+            "duracao_segundos": 28.25
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261104-f036347542",
+      "data": "2026-11-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 04 - O descontrolado.mp4",
+        "sha256": "f0363475422f78737cc3b92cded80e80086376421d229b12aa88d3c28d2dce91",
+        "pacote": "Casais Inteligentes 04 - O descontrolado",
+        "pacote_id": "story-f0363475422f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f036347542-Casais-Inteligentes-04---O-descontrolado.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f036347542-Casais-Inteligentes-04---O-descontrolado.mp4",
+            "sha256": "f0363475422f78737cc3b92cded80e80086376421d229b12aa88d3c28d2dce91",
+            "tamanho_bytes": 4890765,
+            "duracao_segundos": 30.94
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261105-391fe50cae",
+      "data": "2026-11-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Ciclo de Mercado 04 - A economia sussurra e o mercado grita.mp4",
+        "sha256": "391fe50caec15af3380b1a5acfd604491eac55b5ed1e03b771db2712076e5f18",
+        "pacote": "Ciclo de Mercado 04 - A economia sussurra e o mercado grita",
+        "pacote_id": "story-391fe50caec1"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-391fe50cae-Ciclo-de-Mercado-04---A-economia-sussurra-e-o-mercado-grita.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-391fe50cae-Ciclo-de-Mercado-04---A-economia-sussurra-e-o-mercado-grita.mp4",
+            "sha256": "391fe50caec15af3380b1a5acfd604491eac55b5ed1e03b771db2712076e5f18",
+            "tamanho_bytes": 5207695,
+            "duracao_segundos": 35.98
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261106-97fbd9db94",
+      "data": "2026-11-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Credito Vale Mais 04 - Aluguel ou parcela.mp4",
+        "sha256": "97fbd9db94085bde9edbeb63f47d1faf539bd2cecd99de4e8c8e4a6e9fcb8e54",
+        "pacote": "Credito Vale Mais 04 - Aluguel ou parcela",
+        "pacote_id": "story-97fbd9db9408"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-97fbd9db94-Credito-Vale-Mais-04---Aluguel-ou-parcela.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-97fbd9db94-Credito-Vale-Mais-04---Aluguel-ou-parcela.mp4",
+            "sha256": "97fbd9db94085bde9edbeb63f47d1faf539bd2cecd99de4e8c8e4a6e9fcb8e54",
+            "tamanho_bytes": 6413530,
+            "duracao_segundos": 47.75
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261107-d2cb3fa80c",
+      "data": "2026-11-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 04 - O carro bonito.mp4",
+        "sha256": "d2cb3fa80c749b825da3a8e0559d238da41c9e9aaf13faee4c6a83e8ce3400be",
+        "pacote": "Dinheiro Segredos 04 - O carro bonito",
+        "pacote_id": "story-d2cb3fa80c74"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d2cb3fa80c-Dinheiro-Segredos-04---O-carro-bonito.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-d2cb3fa80c-Dinheiro-Segredos-04---O-carro-bonito.mp4",
+            "sha256": "d2cb3fa80c749b825da3a8e0559d238da41c9e9aaf13faee4c6a83e8ce3400be",
+            "tamanho_bytes": 4723919,
+            "duracao_segundos": 29.875
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261108-d7761c27ef",
+      "data": "2026-11-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 05 - Os dois rins e a reserva.mp4",
+        "sha256": "d7761c27efd0bfac23b6bb44efbd7fe50fcfd819adb3f5390b89e3fd557a0d54",
+        "pacote": "Antifragil 05 - Os dois rins e a reserva",
+        "pacote_id": "story-d7761c27efd0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-d7761c27ef-Antifragil-05---Os-dois-rins-e-a-reserva.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-d7761c27ef-Antifragil-05---Os-dois-rins-e-a-reserva.mp4",
+            "sha256": "d7761c27efd0bfac23b6bb44efbd7fe50fcfd819adb3f5390b89e3fd557a0d54",
+            "tamanho_bytes": 4635153,
+            "duracao_segundos": 28.9
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261109-bfacb61587",
+      "data": "2026-11-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 05 - As joias de vidro.mp4",
+        "sha256": "bfacb615875fd7c884cb7abf30736a31f2a47c3a9f74cbe3f6cbdf3a2d82a50f",
+        "pacote": "Babilonia 05 - As joias de vidro",
+        "pacote_id": "story-bfacb615875f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-bfacb61587-Babilonia-05---As-joias-de-vidro.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-bfacb61587-Babilonia-05---As-joias-de-vidro.mp4",
+            "sha256": "bfacb615875fd7c884cb7abf30736a31f2a47c3a9f74cbe3f6cbdf3a2d82a50f",
+            "tamanho_bytes": 5548809,
+            "duracao_segundos": 30.32
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261110-0ebf564624",
+      "data": "2026-11-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 05 - O desligado.mp4",
+        "sha256": "0ebf564624b3e72ea6e64eebbe9a41d8956c6bb0a2a81d4f556e6f50db11b2cd",
+        "pacote": "Casais Inteligentes 05 - O desligado",
+        "pacote_id": "story-0ebf564624b3"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0ebf564624-Casais-Inteligentes-05---O-desligado.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0ebf564624-Casais-Inteligentes-05---O-desligado.mp4",
+            "sha256": "0ebf564624b3e72ea6e64eebbe9a41d8956c6bb0a2a81d4f556e6f50db11b2cd",
+            "tamanho_bytes": 4619549,
+            "duracao_segundos": 28.333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261111-c2cf9b0a10",
+      "data": "2026-11-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Credito Vale Mais 05 - Consorcio ou financiamento.mp4",
+        "sha256": "c2cf9b0a10b970f265d057eb5a874b802c91d659854db911487c98da11d1b42d",
+        "pacote": "Credito Vale Mais 05 - Consorcio ou financiamento",
+        "pacote_id": "story-c2cf9b0a10b9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c2cf9b0a10-Credito-Vale-Mais-05---Consorcio-ou-financiamento.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c2cf9b0a10-Credito-Vale-Mais-05---Consorcio-ou-financiamento.mp4",
+            "sha256": "c2cf9b0a10b970f265d057eb5a874b802c91d659854db911487c98da11d1b42d",
+            "tamanho_bytes": 5225947,
+            "duracao_segundos": 34.73
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261112-8121f2b18c",
+      "data": "2026-11-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 05 - Do carro zero a casa de praia.mp4",
+        "sha256": "8121f2b18cca59bdae895edabce1c72e7475cf8493248b3215301bc6b8098bb1",
+        "pacote": "Dinheiro Segredos 05 - Do carro zero a casa de praia",
+        "pacote_id": "story-8121f2b18cca"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8121f2b18c-Dinheiro-Segredos-05---Do-carro-zero-a-casa-de-praia.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-8121f2b18c-Dinheiro-Segredos-05---Do-carro-zero-a-casa-de-praia.mp4",
+            "sha256": "8121f2b18cca59bdae895edabce1c72e7475cf8493248b3215301bc6b8098bb1",
+            "tamanho_bytes": 6414939,
+            "duracao_segundos": 36.542
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261113-b2078c0a57",
+      "data": "2026-11-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 06 - O banqueiro em Dubai.mp4",
+        "sha256": "b2078c0a57ce6411d48be2f7f95fa9de9b5f042f71eeabc32169de8803e6b81b",
+        "pacote": "Antifragil 06 - O banqueiro em Dubai",
+        "pacote_id": "story-b2078c0a57ce"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-b2078c0a57-Antifragil-06---O-banqueiro-em-Dubai.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-b2078c0a57-Antifragil-06---O-banqueiro-em-Dubai.mp4",
+            "sha256": "b2078c0a57ce6411d48be2f7f95fa9de9b5f042f71eeabc32169de8803e6b81b",
+            "tamanho_bytes": 5598990,
+            "duracao_segundos": 34.11
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261114-aa6974d1be",
+      "data": "2026-11-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 06 - Emprestar pra parente.mp4",
+        "sha256": "aa6974d1be65d6e3687300e4c483d8734613da31ff351a4c605fcbf9563477c3",
+        "pacote": "Babilonia 06 - Emprestar pra parente",
+        "pacote_id": "story-aa6974d1be65"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-aa6974d1be-Babilonia-06---Emprestar-pra-parente.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-aa6974d1be-Babilonia-06---Emprestar-pra-parente.mp4",
+            "sha256": "aa6974d1be65d6e3687300e4c483d8734613da31ff351a4c605fcbf9563477c3",
+            "tamanho_bytes": 6197429,
+            "duracao_segundos": 32.917
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261115-48a5c3ed27",
+      "data": "2026-11-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 06 - O financista.mp4",
+        "sha256": "48a5c3ed27c870ff2214465ecfab86f3e27d4d356742e6193effcc795a21c046",
+        "pacote": "Casais Inteligentes 06 - O financista",
+        "pacote_id": "story-48a5c3ed27c8"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-48a5c3ed27-Casais-Inteligentes-06---O-financista.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-48a5c3ed27-Casais-Inteligentes-06---O-financista.mp4",
+            "sha256": "48a5c3ed27c870ff2214465ecfab86f3e27d4d356742e6193effcc795a21c046",
+            "tamanho_bytes": 4995647,
+            "duracao_segundos": 31.625
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261116-0cc701dd86",
+      "data": "2026-11-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Ciclo de Mercado 06 - Quando ponto com valia fortunas.mp4",
+        "sha256": "0cc701dd860e85d9a224fc6def54a7e259f86e66249c3880c3e0c62951b7af37",
+        "pacote": "Ciclo de Mercado 06 - Quando ponto com valia fortunas",
+        "pacote_id": "story-0cc701dd860e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0cc701dd86-Ciclo-de-Mercado-06---Quando-ponto-com-valia-fortunas.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0cc701dd86-Ciclo-de-Mercado-06---Quando-ponto-com-valia-fortunas.mp4",
+            "sha256": "0cc701dd860e85d9a224fc6def54a7e259f86e66249c3880c3e0c62951b7af37",
+            "tamanho_bytes": 7690956,
+            "duracao_segundos": 50.75
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261117-cd995fa151",
+      "data": "2026-11-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Credito Vale Mais 06 - O engenheiro que virou o jogo.mp4",
+        "sha256": "cd995fa1512f23bc30a6bf09edecef6a43d4cd540e4247aef20933cd2a590fd9",
+        "pacote": "Credito Vale Mais 06 - O engenheiro que virou o jogo",
+        "pacote_id": "story-cd995fa1512f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-cd995fa151-Credito-Vale-Mais-06---O-engenheiro-que-virou-o-jogo.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-cd995fa151-Credito-Vale-Mais-06---O-engenheiro-que-virou-o-jogo.mp4",
+            "sha256": "cd995fa1512f23bc30a6bf09edecef6a43d4cd540e4247aef20933cd2a590fd9",
+            "tamanho_bytes": 7708493,
+            "duracao_segundos": 49.62
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261118-51266765ca",
+      "data": "2026-11-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 06 - O homem-holerite.mp4",
+        "sha256": "51266765caf4462ecf84813a38afccda05b06295f05fd86d96f20e0cf2d1ee30",
+        "pacote": "Dinheiro Segredos 06 - O homem-holerite",
+        "pacote_id": "story-51266765caf4"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-51266765ca-Dinheiro-Segredos-06---O-homem-holerite.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-51266765ca-Dinheiro-Segredos-06---O-homem-holerite.mp4",
+            "sha256": "51266765caf4462ecf84813a38afccda05b06295f05fd86d96f20e0cf2d1ee30",
+            "tamanho_bytes": 6491433,
+            "duracao_segundos": 34.58
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261119-7e7e75c1cd",
+      "data": "2026-11-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 07 - Restaurantes, avioes e o Titanic.mp4",
+        "sha256": "7e7e75c1cd0cbf011ed80768a31cad906399a2082be1f32ac0c9ec31e5aa6957",
+        "pacote": "Antifragil 07 - Restaurantes, avioes e o Titanic",
+        "pacote_id": "story-7e7e75c1cd0c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7e7e75c1cd-Antifragil-07---Restaurantes-avioes-e-o-Titanic.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7e7e75c1cd-Antifragil-07---Restaurantes-avioes-e-o-Titanic.mp4",
+            "sha256": "7e7e75c1cd0cbf011ed80768a31cad906399a2082be1f32ac0c9ec31e5aa6957",
+            "tamanho_bytes": 5643798,
+            "duracao_segundos": 34.792
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261120-3a3964934f",
+      "data": "2026-11-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 07 - Ganhou mais gastou mais.mp4",
+        "sha256": "3a3964934ffd980d28e659bc56024c2a7496ae69904b5cb65a6deb17093a13f3",
+        "pacote": "Babilonia 07 - Ganhou mais gastou mais",
+        "pacote_id": "story-3a3964934ffd"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-3a3964934f-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-3a3964934f-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
+            "sha256": "3a3964934ffd980d28e659bc56024c2a7496ae69904b5cb65a6deb17093a13f3",
+            "tamanho_bytes": 4278229,
+            "duracao_segundos": 29.458
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261121-cd482339f1",
+      "data": "2026-11-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 07 - Os tres apelidos do horoscopo.mp4",
+        "sha256": "cd482339f11162654d1fd28bc8685678574045c7d8c2d2bc10d3414dce7014b1",
+        "pacote": "Casais Inteligentes 07 - Os tres apelidos do horoscopo",
+        "pacote_id": "story-cd482339f111"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-cd482339f1-Casais-Inteligentes-07---Os-tres-apelidos-do-horoscopo.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-cd482339f1-Casais-Inteligentes-07---Os-tres-apelidos-do-horoscopo.mp4",
+            "sha256": "cd482339f11162654d1fd28bc8685678574045c7d8c2d2bc10d3414dce7014b1",
+            "tamanho_bytes": 5001929,
+            "duracao_segundos": 28.99
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261122-7307825cc7",
+      "data": "2026-11-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Ciclo de Mercado 07 - Contrata e demite em ondas.mp4",
+        "sha256": "7307825cc77ac3f326ce4aafc9f5cff2cc10784101011f9e8161783f590c134d",
+        "pacote": "Ciclo de Mercado 07 - Contrata e demite em ondas",
+        "pacote_id": "story-7307825cc77a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7307825cc7-Ciclo-de-Mercado-07---Contrata-e-demite-em-ondas.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7307825cc7-Ciclo-de-Mercado-07---Contrata-e-demite-em-ondas.mp4",
+            "sha256": "7307825cc77ac3f326ce4aafc9f5cff2cc10784101011f9e8161783f590c134d",
+            "tamanho_bytes": 3992791,
+            "duracao_segundos": 34.66
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261123-c7e3603658",
+      "data": "2026-11-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 07 - O que e se aposentar.mp4",
+        "sha256": "c7e360365882217cf73067e6852c8822a20c7af51f67dde0eabb08e0bafe14e5",
+        "pacote": "Dinheiro Segredos 07 - O que e se aposentar",
+        "pacote_id": "story-c7e360365882"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c7e3603658-Dinheiro-Segredos-07---O-que-e-se-aposentar.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c7e3603658-Dinheiro-Segredos-07---O-que-e-se-aposentar.mp4",
+            "sha256": "c7e360365882217cf73067e6852c8822a20c7af51f67dde0eabb08e0bafe14e5",
+            "tamanho_bytes": 6191354,
+            "duracao_segundos": 29.417
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261124-49759cabb4",
+      "data": "2026-11-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 08 - John e George.mp4",
+        "sha256": "49759cabb4c385f2363902575465fd6918f8eb0b483548321c149ec3123d8cfc",
+        "pacote": "Antifragil 08 - John e George",
+        "pacote_id": "story-49759cabb4c3"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-49759cabb4-Antifragil-08---John-e-George.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-49759cabb4-Antifragil-08---John-e-George.mp4",
+            "sha256": "49759cabb4c385f2363902575465fd6918f8eb0b483548321c149ec3123d8cfc",
+            "tamanho_bytes": 5304507,
+            "duracao_segundos": 35.53
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261125-7935e52fd2",
+      "data": "2026-11-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
+        "sha256": "7935e52fd22496e53062ddf24de1b0abe3b2b479c010610b0d309c93b0000a26",
+        "pacote": "Babilonia 08 - Moeda funcionaria",
+        "pacote_id": "story-7935e52fd224"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-7935e52fd2-Babilonia-08---Moeda-funcionaria.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7935e52fd2-Babilonia-08---Moeda-funcionaria.mp4",
+            "sha256": "7935e52fd22496e53062ddf24de1b0abe3b2b479c010610b0d309c93b0000a26",
+            "tamanho_bytes": 4982912,
+            "duracao_segundos": 31.54
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261126-bd82b72198",
+      "data": "2026-11-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 08 - Poupador com gastador.mp4",
+        "sha256": "bd82b7219859373eb0da6e91dc0f24cc98e045d093c9216edfb5a6c50be30837",
+        "pacote": "Casais Inteligentes 08 - Poupador com gastador",
+        "pacote_id": "story-bd82b7219859"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-bd82b72198-Casais-Inteligentes-08---Poupador-com-gastador.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-bd82b72198-Casais-Inteligentes-08---Poupador-com-gastador.mp4",
+            "sha256": "bd82b7219859373eb0da6e91dc0f24cc98e045d093c9216edfb5a6c50be30837",
+            "tamanho_bytes": 6259448,
+            "duracao_segundos": 34.208
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261127-89a7e15df9",
+      "data": "2026-11-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Credito Vale Mais 08 - Imovel nao sobe pra sempre.mp4",
+        "sha256": "89a7e15df9b04da7dde57c4c23e2caf108c36fa26380477a84d6da119d0acd69",
+        "pacote": "Credito Vale Mais 08 - Imovel nao sobe pra sempre",
+        "pacote_id": "story-89a7e15df9b0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-89a7e15df9-Credito-Vale-Mais-08---Imovel-nao-sobe-pra-sempre.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-89a7e15df9-Credito-Vale-Mais-08---Imovel-nao-sobe-pra-sempre.mp4",
+            "sha256": "89a7e15df9b04da7dde57c4c23e2caf108c36fa26380477a84d6da119d0acd69",
+            "tamanho_bytes": 4513929,
+            "duracao_segundos": 30.87
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261128-f10ca313c7",
+      "data": "2026-11-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 08 - O Milionario Mora ao Lado.mp4",
+        "sha256": "f10ca313c798053d79a3156675eb060f0a58a5dc27b0421b753a2a1faa9775d5",
+        "pacote": "Dinheiro Segredos 08 - O Milionario Mora ao Lado",
+        "pacote_id": "story-f10ca313c798"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-f10ca313c7-Dinheiro-Segredos-08---O-Milionario-Mora-ao-Lado.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f10ca313c7-Dinheiro-Segredos-08---O-Milionario-Mora-ao-Lado.mp4",
+            "sha256": "f10ca313c798053d79a3156675eb060f0a58a5dc27b0421b753a2a1faa9775d5",
+            "tamanho_bytes": 7008088,
+            "duracao_segundos": 30.958
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
