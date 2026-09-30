@@ -186,7 +186,7 @@
       "id": "reel-20260930-1100-ad5c5b4386",
       "data": "2026-09-30",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 09 - A casa onde voce mora.mp4",
         "sha256": "ad5c5b4386b704f6474bfaf68461f06eaeb80a39d0f2627089284ec5fc2e1862"
@@ -199,12 +199,17 @@
       },
       "instagram": {
         "legenda": "A sua casa não é investimento, pelo menos não pelo livro Pai Rico, Pai Pobre.\n\nTodo mês ela cobra parcela, imposto, luz, água e manutenção, então é dinheiro saindo do bolso, não entrando.\n\nIsso não quer dizer que você não deva ter a sua casa, só que ela não vai te deixar rico sozinha.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18132279727668721",
+        "publicado_em": "2026-09-30T11:11:14.391436-03:00"
       },
       "facebook": {
         "legenda": "A sua casa não é investimento, pelo menos não pelo livro Pai Rico, Pai Pobre.\n\nTodo mês ela cobra parcela, imposto, luz, água e manutenção, então é dinheiro saindo do bolso, não entrando.\n\nIsso não quer dizer que você não deva ter a sua casa, só que ela não vai te deixar rico sozinha.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1813863130068867",
+        "publicado_em": "2026-09-30T11:11:33.706269-03:00"
+      },
+      "concluido_em": "2026-09-30T11:11:33.711952-03:00"
     },
     {
       "id": "reel-20260930-1900-408f357f5e",
