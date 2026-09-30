@@ -2014,6 +2014,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261129-87730e4b40",
+      "data": "2026-11-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 09 - O burro de Buridan.mp4",
+        "sha256": "87730e4b40fa8db12b1820219464deca3fcb773f5a5e986b5daef4c2d44d8de1",
+        "pacote": "Antifragil 09 - O burro de Buridan",
+        "pacote_id": "story-87730e4b40fa"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-87730e4b40-Antifragil-09---O-burro-de-Buridan.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-87730e4b40-Antifragil-09---O-burro-de-Buridan.mp4",
+            "sha256": "87730e4b40fa8db12b1820219464deca3fcb773f5a5e986b5daef4c2d44d8de1",
+            "tamanho_bytes": 5142049,
+            "duracao_segundos": 32.75
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
