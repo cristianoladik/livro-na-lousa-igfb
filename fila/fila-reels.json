@@ -225,7 +225,8 @@
         "asset": "reel-408f357f5e-Pai-Rico-10---A-casa-que-te-paga.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-408f357f5e-Pai-Rico-10---A-casa-que-te-paga.mp4",
         "sha256": "408f357f5ee18085e1960ed64e038300c90526de97aedce5e4f657265704a099",
-        "tamanho_bytes": 7175158
+        "tamanho_bytes": 7175158,
+        "removido_da_release_em": "2026-09-30T19:11:22.969855-03:00"
       },
       "instagram": {
         "legenda": "Existe um tipo de casa que coloca dinheiro no seu bolso todo mês, e não é a casa onde você mora, é a casa alugada.\n\nNo livro Pai Rico, Pai Pobre, esse é o exemplo perfeito de ativo: o aluguel entra em vez de sair, e o rico usa esse dinheiro pra comprar outro ativo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
