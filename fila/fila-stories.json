@@ -224,7 +224,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-693b2192c0-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
             "sha256": "693b2192c0cec5c0ec96d56880183125e7be2abd5d4dc855e6cdea63ff1ac9e4",
             "tamanho_bytes": 9013518,
-            "duracao_segundos": 31.467
+            "duracao_segundos": 31.467,
+            "removido_da_release_em": "2026-10-01T09:17:23.749934-03:00"
           },
           "instagram": {
             "status": "publicado",
