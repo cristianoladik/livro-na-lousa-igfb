@@ -246,7 +246,7 @@
       "id": "reel-20261001-1100-635b487b1b",
       "data": "2026-10-01",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 11 - Passivos disfarcados.mp4",
         "sha256": "635b487b1bbfc21fe31f6791d4b09b5dae7bca79f148e0e8c942857d3185a05e"
@@ -259,12 +259,17 @@
       },
       "instagram": {
         "legenda": "O carro zero, a moto e o celular do ano parecem conquista, mas no livro Pai Rico, Pai Pobre todos são passivo: perdem valor no dia da compra e ainda tiram dinheiro seu todo mês.\n\nAntes de comprar, faz a pergunta do pai rico: isso coloca ou tira dinheiro do meu bolso?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18099287558067566",
+        "publicado_em": "2026-10-01T11:11:30.357592-03:00"
       },
       "facebook": {
         "legenda": "O carro zero, a moto e o celular do ano parecem conquista, mas no livro Pai Rico, Pai Pobre todos são passivo: perdem valor no dia da compra e ainda tiram dinheiro seu todo mês.\n\nAntes de comprar, faz a pergunta do pai rico: isso coloca ou tira dinheiro do meu bolso?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1075081715427839",
+        "publicado_em": "2026-10-01T11:11:48.856022-03:00"
+      },
+      "concluido_em": "2026-10-01T11:11:48.864892-03:00"
     },
     {
       "id": "reel-20261001-1900-b1663d3fd1",
