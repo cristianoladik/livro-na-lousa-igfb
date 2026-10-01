@@ -306,7 +306,7 @@
       "id": "reel-20261002-1100-c98cf6cb38",
       "data": "2026-10-01",
       "horario": "19:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
         "sha256": "c98cf6cb38ffd54b696c7ea195948bb410afdfb9e1570468ed00f36f5d0c03d8"
@@ -319,12 +319,17 @@
       },
       "instagram": {
         "legenda": "O seu emprego não é o seu negócio, é o negócio do seu patrão.\n\nNo livro Pai Rico, Pai Pobre, o negócio de verdade é a sua lista de ativos, aquilo que coloca dinheiro no seu bolso mesmo sem você trabalhar.\n\nQuantos itens tem a sua lista hoje?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17890621650682308",
+        "publicado_em": "2026-10-01T19:11:04.398152-03:00"
       },
       "facebook": {
         "legenda": "O seu emprego não é o seu negócio, é o negócio do seu patrão.\n\nNo livro Pai Rico, Pai Pobre, o negócio de verdade é a sua lista de ativos, aquilo que coloca dinheiro no seu bolso mesmo sem você trabalhar.\n\nQuantos itens tem a sua lista hoje?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1590192379258121",
+        "publicado_em": "2026-10-01T19:11:12.962689-03:00"
+      },
+      "concluido_em": "2026-10-01T19:11:12.971552-03:00"
     },
     {
       "id": "reel-20261002-1900-7948a778f1",
