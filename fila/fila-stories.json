@@ -208,7 +208,7 @@
       "id": "story-20261001-693b2192c0",
       "data": "2026-10-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 05 - A biblioteca de gibis.mp4",
         "sha256": "693b2192c0cec5c0ec96d56880183125e7be2abd5d4dc855e6cdea63ff1ac9e4",
@@ -218,7 +218,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-693b2192c0-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-693b2192c0-Pai-Rico-05---A-biblioteca-de-gibis.mp4",
@@ -227,13 +227,30 @@
             "duracao_segundos": 31.467
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18143862808518121",
+            "publish_iniciado_em": "2026-10-01T09:16:30-03:00",
+            "id": "18106961267612297",
+            "publicado_em": "2026-10-01T09:16:35-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1403733341872288",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-01T09:16:41-03:00",
+            "post_id_candidato": "1072835842188880",
+            "finish_em": "2026-10-01T09:16:45-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjEwNzI4MzU4NDU1MjIyMTM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1072835842188880",
+            "publicado_em": "2026-10-01T09:17:21-03:00"
+          },
+          "concluido_em": "2026-10-01T09:17:21-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-01T09:17:21-03:00"
     },
     {
       "id": "story-20261002-44509485f1",
