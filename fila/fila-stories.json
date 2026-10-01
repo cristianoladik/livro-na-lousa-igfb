@@ -2063,6 +2063,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261130-774ac65852",
+      "data": "2026-11-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 09 - Lucro facil e armadilha.mp4",
+        "sha256": "774ac65852e727b3008c67a32dd12622e7b1f7b5ded7e4ce599d2b4ece628b23",
+        "pacote": "Babilonia 09 - Lucro facil e armadilha",
+        "pacote_id": "story-774ac65852e7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-774ac65852-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-774ac65852-Babilonia-09---Lucro-facil-e-armadilha.mp4",
+            "sha256": "774ac65852e727b3008c67a32dd12622e7b1f7b5ded7e4ce599d2b4ece628b23",
+            "tamanho_bytes": 4510947,
+            "duracao_segundos": 30.12
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
