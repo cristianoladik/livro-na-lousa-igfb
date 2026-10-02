@@ -2112,6 +2112,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261201-0249553890",
+      "data": "2026-12-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 09 - Gastador com descontrolado.mp4",
+        "sha256": "0249553890ee8d5e7d21835df441379c318a4f95a23d4759d106e9a738b27912",
+        "pacote": "Casais Inteligentes 09 - Gastador com descontrolado",
+        "pacote_id": "story-0249553890ee"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-0249553890-Casais-Inteligentes-09---Gastador-com-descontrolado.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0249553890-Casais-Inteligentes-09---Gastador-com-descontrolado.mp4",
+            "sha256": "0249553890ee8d5e7d21835df441379c318a4f95a23d4759d106e9a738b27912",
+            "tamanho_bytes": 5344859,
+            "duracao_segundos": 28.125
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
