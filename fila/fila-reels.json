@@ -405,7 +405,8 @@
         "asset": "reel-3c1a93483a-Pai-Rico-16---Comprar-na-crise.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-3c1a93483a-Pai-Rico-16---Comprar-na-crise.mp4",
         "sha256": "3c1a93483a9f6fe23ecc8b26053c14aaf098fcfc997e00e00f2b16e05949141b",
-        "tamanho_bytes": 7474927
+        "tamanho_bytes": 7474927,
+        "removido_da_release_em": "2026-10-02T15:44:32.858889-03:00"
       },
       "instagram": {
         "legenda": "Na crise, enquanto todo mundo fugia, o autor do livro Pai Rico, Pai Pobre comprou casas baratas e depois vendeu com lucro.\n\nNão foi sorte: ele estudou o mercado e teve coragem na hora certa.\n\nA oportunidade aparece pra todo mundo, só entra quem tá preparado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
