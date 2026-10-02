@@ -273,7 +273,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-44509485f1-Pai-Rico-06---Corrida-dos-ratos.mp4",
             "sha256": "44509485f16b62535130fe9a902aac189f105616af9acaee738569072592ee67",
             "tamanho_bytes": 7358242,
-            "duracao_segundos": 28.99
+            "duracao_segundos": 28.99,
+            "removido_da_release_em": "2026-10-02T09:17:55.052314-03:00"
           },
           "instagram": {
             "status": "publicado",
