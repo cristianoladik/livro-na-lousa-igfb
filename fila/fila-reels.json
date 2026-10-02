@@ -426,7 +426,7 @@
       "id": "reel-20261004-1100-f9f469ca40",
       "data": "2026-10-02",
       "horario": "19:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
         "sha256": "f9f469ca40d960500e7b8325d9f2889aa04a8fa2c494f7d927781612395f8643"
@@ -439,12 +439,17 @@
       },
       "instagram": {
         "legenda": "Onde você vê um problema, alguém tá vendo um negócio.\n\nO livro Pai Rico, Pai Pobre chama isso de criar dinheiro: a maior ferramenta pra garimpar oportunidade não é dinheiro, é conhecimento.\n\nQuem sabe olha um terreno largado e vê casas vendidas.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18157368952516084",
+        "publicado_em": "2026-10-02T19:11:05.761158-03:00"
       },
       "facebook": {
         "legenda": "Onde você vê um problema, alguém tá vendo um negócio.\n\nO livro Pai Rico, Pai Pobre chama isso de criar dinheiro: a maior ferramenta pra garimpar oportunidade não é dinheiro, é conhecimento.\n\nQuem sabe olha um terreno largado e vê casas vendidas.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28576189755395590",
+        "publicado_em": "2026-10-02T19:11:15.595681-03:00"
+      },
+      "concluido_em": "2026-10-02T19:11:15.604451-03:00"
     },
     {
       "id": "reel-20261004-1900-1df511652f",
