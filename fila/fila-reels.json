@@ -456,7 +456,7 @@
       "id": "reel-20261004-1900-1df511652f",
       "data": "2026-10-03",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 18 - O timido que foi vender.mp4",
         "sha256": "1df511652fb82cb6b2005c77e36c7cc041ec57f52659f565a15437dbed989b50"
@@ -469,12 +469,17 @@
       },
       "instagram": {
         "legenda": "O autor do livro Pai Rico, Pai Pobre era tímido e foi vender de porta em porta de propósito, não pelo salário, mas pra aprender a vender e perder o medo de ouvir não.\n\nPensa no seu emprego como uma escola paga: a pergunta certa não é quanto eu ganho aqui, é o que eu estou aprendendo aqui.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18001471883806139",
+        "publicado_em": "2026-10-03T08:33:21.969264-03:00"
       },
       "facebook": {
         "legenda": "O autor do livro Pai Rico, Pai Pobre era tímido e foi vender de porta em porta de propósito, não pelo salário, mas pra aprender a vender e perder o medo de ouvir não.\n\nPensa no seu emprego como uma escola paga: a pergunta certa não é quanto eu ganho aqui, é o que eu estou aprendendo aqui.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "916484094660804",
+        "publicado_em": "2026-10-03T08:33:31.348930-03:00"
+      },
+      "concluido_em": "2026-10-03T08:33:31.358366-03:00"
     },
     {
       "id": "reel-20261005-1100-4b7f3bee8a",
