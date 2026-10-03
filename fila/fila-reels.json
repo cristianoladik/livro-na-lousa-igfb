@@ -495,7 +495,8 @@
         "asset": "reel-4b7f3bee8a-Pai-Rico-19---Paga-voce-primeiro.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-4b7f3bee8a-Pai-Rico-19---Paga-voce-primeiro.mp4",
         "sha256": "4b7f3bee8ad3436c2c71b4bc8c7483ddb0b6db71c00e2908fa2dc63ed4fa4c15",
-        "tamanho_bytes": 6319516
+        "tamanho_bytes": 6319516,
+        "removido_da_release_em": "2026-10-03T11:11:26.299055-03:00"
       },
       "instagram": {
         "legenda": "Você paga todo mundo e investe o que sobra?\n\nPor isso nunca sobra.\n\nO livro Pai Rico, Pai Pobre ensina o contrário: paga você primeiro, separa a parte de investir antes de qualquer conta, e deixa a pressão te empurrar pra buscar renda nova.\n\nSegue a página pra ver mais livros assim: @livronalousa",
