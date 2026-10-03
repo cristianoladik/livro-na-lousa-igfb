@@ -2161,6 +2161,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261202-e3875e8131",
+      "data": "2026-12-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Ciclo de Mercado 09 - A onda dos imoveis.mp4",
+        "sha256": "e3875e8131fda9b8e13644a40819576edee87a44d18596e77acf39651cca75ee",
+        "pacote": "Ciclo de Mercado 09 - A onda dos imoveis",
+        "pacote_id": "story-e3875e8131fd"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-e3875e8131-Ciclo-de-Mercado-09---A-onda-dos-imoveis.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-e3875e8131-Ciclo-de-Mercado-09---A-onda-dos-imoveis.mp4",
+            "sha256": "e3875e8131fda9b8e13644a40819576edee87a44d18596e77acf39651cca75ee",
+            "tamanho_bytes": 7880913,
+            "duracao_segundos": 49.458
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
