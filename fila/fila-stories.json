@@ -306,7 +306,7 @@
       "id": "story-20261003-03778d7f71",
       "data": "2026-10-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 07 - O aumento que some.mp4",
         "sha256": "03778d7f71b0e0694fa580874792508d15a8eac9fdbe9e5c282d84697057bcb4",
@@ -316,7 +316,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-03778d7f71-Pai-Rico-07---O-aumento-que-some.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-03778d7f71-Pai-Rico-07---O-aumento-que-some.mp4",
@@ -325,13 +325,30 @@
             "duracao_segundos": 29.72
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18144437326518121",
+            "publish_iniciado_em": "2026-10-03T09:27:53-03:00",
+            "id": "18107027126459453",
+            "publicado_em": "2026-10-03T09:28:00-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1117009494100444",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-03T09:28:06-03:00",
+            "post_id_candidato": "1434903691904782",
+            "finish_em": "2026-10-03T09:28:10-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE0MzQ5MDM3MDE5MDQ3ODE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1434903691904782",
+            "publicado_em": "2026-10-03T09:28:47-03:00"
+          },
+          "concluido_em": "2026-10-03T09:28:47-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-03T09:28:47-03:00"
     },
     {
       "id": "story-20261004-aec4bdc24f",
