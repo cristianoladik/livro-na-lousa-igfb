@@ -465,7 +465,8 @@
         "asset": "reel-1df511652f-Pai-Rico-18---O-timido-que-foi-vender.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-1df511652f-Pai-Rico-18---O-timido-que-foi-vender.mp4",
         "sha256": "1df511652fb82cb6b2005c77e36c7cc041ec57f52659f565a15437dbed989b50",
-        "tamanho_bytes": 6610462
+        "tamanho_bytes": 6610462,
+        "removido_da_release_em": "2026-10-03T08:33:35.019210-03:00"
       },
       "instagram": {
         "legenda": "O autor do livro Pai Rico, Pai Pobre era tímido e foi vender de porta em porta de propósito, não pelo salário, mas pra aprender a vender e perder o medo de ouvir não.\n\nPensa no seu emprego como uma escola paga: a pergunta certa não é quanto eu ganho aqui, é o que eu estou aprendendo aqui.\n\nSegue a página pra ver mais livros assim: @livronalousa",
