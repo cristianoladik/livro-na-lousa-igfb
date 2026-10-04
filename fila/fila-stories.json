@@ -355,7 +355,7 @@
       "id": "story-20261004-aec4bdc24f",
       "data": "2026-10-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 08 - Ativo x passivo.mp4",
         "sha256": "aec4bdc24f38c9948c2ab57ed269c77ef87d3c42638cece02952474d838dfed3",
@@ -365,7 +365,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-aec4bdc24f-Pai-Rico-08---Ativo-x-passivo.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-aec4bdc24f-Pai-Rico-08---Ativo-x-passivo.mp4",
@@ -374,13 +374,30 @@
             "duracao_segundos": 30.4
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18144715771518121",
+            "publish_iniciado_em": "2026-10-04T09:15:59-03:00",
+            "id": "18075850184716146",
+            "publicado_em": "2026-10-04T09:16:07-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1129016206233790",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-04T09:16:13-03:00",
+            "post_id_candidato": "920493360899394",
+            "finish_em": "2026-10-04T09:16:18-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjkyMDQ5MzM2NzU2NjA2MA==/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "920493360899394",
+            "publicado_em": "2026-10-04T09:16:55-03:00"
+          },
+          "concluido_em": "2026-10-04T09:16:55-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-04T09:16:55-03:00"
     },
     {
       "id": "story-20261005-ad5c5b4386",
