@@ -647,7 +647,8 @@
         "asset": "reel-4e47d7d731-Ciclo-de-Mercado-01---O-pendulo-que-nunca-para.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-4e47d7d731-Ciclo-de-Mercado-01---O-pendulo-que-nunca-para.mp4",
         "sha256": "4e47d7d731ec138fe40d1aa837585d0780fdde356570cb7a28c42e9908601cca",
-        "tamanho_bytes": 7588490
+        "tamanho_bytes": 7588490,
+        "removido_da_release_em": "2026-10-04T11:12:12.299597-03:00"
       },
       "instagram": {
         "legenda": "O mercado tem um defeito: ele nunca fica no ponto certo.\n\nEssa ideia é o coração do livro Dominando o Ciclo de Mercado.\n\nE quem entra na euforia paga caro demais.\n\nQuando a festa tá boa demais, é hora de você ficar atento.\n\nSegue a página pra ver mais livros assim: @livronalousa",
