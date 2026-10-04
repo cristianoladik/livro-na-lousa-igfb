@@ -698,7 +698,7 @@
       "id": "reel-20261004-1700-19d8d0b78c",
       "data": "2026-10-04",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 01 - A folha de papel dobrada.mp4",
         "sha256": "19d8d0b78ced8ec0d2e359eb16af622a50ec9bb7d1e4b7bc4e750a4947090138"
@@ -711,12 +711,17 @@
       },
       "instagram": {
         "legenda": "Dobra uma folha de papel cinquenta vezes e ela dá milhares de voltas na Terra.\n\nEssa conta tá no livro Dinheiro, os Segredos de Quem Tem.\n\nO centavo desprezado todo dia vira muito dinheiro perdido.\n\nE o juro que vem em cima do juro vira uma pilha cada vez mais alta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17945753712076123",
+        "publicado_em": "2026-10-04T17:30:47.748013-03:00"
       },
       "facebook": {
         "legenda": "Dobra uma folha de papel cinquenta vezes e ela dá milhares de voltas na Terra.\n\nEssa conta tá no livro Dinheiro, os Segredos de Quem Tem.\n\nO centavo desprezado todo dia vira muito dinheiro perdido.\n\nE o juro que vem em cima do juro vira uma pilha cada vez mais alta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1748486372870977",
+        "publicado_em": "2026-10-04T17:31:03.173537-03:00"
+      },
+      "concluido_em": "2026-10-04T17:31:03.183141-03:00"
     },
     {
       "id": "reel-20261004-2000-53bcbef1eb",
