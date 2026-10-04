@@ -668,7 +668,7 @@
       "id": "reel-20261004-1400-e944fff380",
       "data": "2026-10-04",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 01 - Duas dividas diferentes.mp4",
         "sha256": "e944fff38015f03fb0cd1647746a1195df1f3b2262e9ca9ff368b16a9e31ad70"
@@ -681,12 +681,17 @@
       },
       "instagram": {
         "legenda": "Tem dívida que te deixa mais pobre.\n\nE tem dívida que te deixa mais rico.\n\nQuem separa as duas é o livro Crédito Vale Mais que Dinheiro.\n\nEssa dívida me deixa com algo que vale mais amanhã, ou só some com o meu dinheiro?\n\nSe a resposta for a segunda, respira e pensa de novo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17910724071478234",
+        "publicado_em": "2026-10-04T14:48:49.645372-03:00"
       },
       "facebook": {
         "legenda": "Tem dívida que te deixa mais pobre.\n\nE tem dívida que te deixa mais rico.\n\nQuem separa as duas é o livro Crédito Vale Mais que Dinheiro.\n\nEssa dívida me deixa com algo que vale mais amanhã, ou só some com o meu dinheiro?\n\nSe a resposta for a segunda, respira e pensa de novo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1409067964074713",
+        "publicado_em": "2026-10-04T14:48:58.421128-03:00"
+      },
+      "concluido_em": "2026-10-04T14:48:58.429106-03:00"
     },
     {
       "id": "reel-20261004-1700-19d8d0b78c",
