@@ -638,7 +638,7 @@
       "id": "reel-20261004-1100-4e47d7d731",
       "data": "2026-10-04",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 01 - O pendulo que nunca para.mp4",
         "sha256": "4e47d7d731ec138fe40d1aa837585d0780fdde356570cb7a28c42e9908601cca"
@@ -651,12 +651,17 @@
       },
       "instagram": {
         "legenda": "O mercado tem um defeito: ele nunca fica no ponto certo.\n\nEssa ideia é o coração do livro Dominando o Ciclo de Mercado.\n\nE quem entra na euforia paga caro demais.\n\nQuando a festa tá boa demais, é hora de você ficar atento.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17887504440619735",
+        "publicado_em": "2026-10-04T11:11:58.377175-03:00"
       },
       "facebook": {
         "legenda": "O mercado tem um defeito: ele nunca fica no ponto certo.\n\nEssa ideia é o coração do livro Dominando o Ciclo de Mercado.\n\nE quem entra na euforia paga caro demais.\n\nQuando a festa tá boa demais, é hora de você ficar atento.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1439929748283910",
+        "publicado_em": "2026-10-04T11:12:09.572128-03:00"
+      },
+      "concluido_em": "2026-10-04T11:12:09.580082-03:00"
     },
     {
       "id": "reel-20261004-1400-e944fff380",
