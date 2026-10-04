@@ -2210,6 +2210,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261203-096e98d5a3",
+      "data": "2026-12-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 09 - O chiclete de troco.mp4",
+        "sha256": "096e98d5a3c08618aad776daab7d810a4c3b846c39f1ac327e6822aa3409493a",
+        "pacote": "Dinheiro Segredos 09 - O chiclete de troco",
+        "pacote_id": "story-096e98d5a3c0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-096e98d5a3-Dinheiro-Segredos-09---O-chiclete-de-troco.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-096e98d5a3-Dinheiro-Segredos-09---O-chiclete-de-troco.mp4",
+            "sha256": "096e98d5a3c08618aad776daab7d810a4c3b846c39f1ac327e6822aa3409493a",
+            "tamanho_bytes": 7052337,
+            "duracao_segundos": 34.08
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
