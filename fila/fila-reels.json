@@ -728,7 +728,7 @@
       "id": "reel-20261004-2000-53bcbef1eb",
       "data": "2026-10-04",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 02 - Hamurabi e a pele em jogo.mp4",
         "sha256": "53bcbef1eba7f9d7e8bb928fadc6b673311de2280ebdba487a7fe3afc52d1d80"
@@ -741,12 +741,17 @@
       },
       "instagram": {
         "legenda": "Há uns três mil e oitocentos anos, construir casa era coisa séria.\n\nSe a casa desabasse e matasse o dono, o construtor pagava com a própria vida.\n\nEssa lição está no livro Antifrágil.\n\nAntes de seguir um conselho de dinheiro, pergunta: essa pessoa perde alguma coisa se der errado?\n\nSe não perde, desconfia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17914979844460540",
+        "publicado_em": "2026-10-04T20:33:26.659295-03:00"
       },
       "facebook": {
         "legenda": "Há uns três mil e oitocentos anos, construir casa era coisa séria.\n\nSe a casa desabasse e matasse o dono, o construtor pagava com a própria vida.\n\nEssa lição está no livro Antifrágil.\n\nAntes de seguir um conselho de dinheiro, pergunta: essa pessoa perde alguma coisa se der errado?\n\nSe não perde, desconfia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1006276405806451",
+        "publicado_em": "2026-10-04T20:33:37.435847-03:00"
+      },
+      "concluido_em": "2026-10-04T20:33:37.445225-03:00"
     },
     {
       "id": "reel-20261005-0800-5427d2b5d8",
