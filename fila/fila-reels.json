@@ -608,7 +608,7 @@
       "id": "reel-20261004-0800-0d28ea5597",
       "data": "2026-10-04",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 01 - Brigas disfarcadas.mp4",
         "sha256": "0d28ea55979282a3d36c65041c96768af165819e4a9820fe73590945d8049007"
@@ -621,12 +621,17 @@
       },
       "instagram": {
         "legenda": "Quando falta dinheiro num casamento, a briga quase nunca começa pelo dinheiro.\n\nComeça pela falta de romantismo, pelo desleixo, pela falta de carinho.\n\nEssa lição está no livro Casais Inteligentes Enriquecem Juntos.\n\nE os problemas de dinheiro da família vêm, na maior parte, de escolhas ruins.\n\nA saída é conversar sobre dinheiro antes da crise, e não depois.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18218366260350850",
+        "publicado_em": "2026-10-04T09:14:39.516540-03:00"
       },
       "facebook": {
         "legenda": "Quando falta dinheiro num casamento, a briga quase nunca começa pelo dinheiro.\n\nComeça pela falta de romantismo, pelo desleixo, pela falta de carinho.\n\nEssa lição está no livro Casais Inteligentes Enriquecem Juntos.\n\nE os problemas de dinheiro da família vêm, na maior parte, de escolhas ruins.\n\nA saída é conversar sobre dinheiro antes da crise, e não depois.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1438036268253966",
+        "publicado_em": "2026-10-04T09:14:55.808904-03:00"
+      },
+      "concluido_em": "2026-10-04T09:14:55.820144-03:00"
     },
     {
       "id": "reel-20261004-1100-4e47d7d731",
