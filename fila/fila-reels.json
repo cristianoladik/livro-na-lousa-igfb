@@ -797,7 +797,8 @@
         "asset": "reel-d9d18ebfbf-Casais-Inteligentes-02---O-poupador.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-d9d18ebfbf-Casais-Inteligentes-02---O-poupador.mp4",
         "sha256": "d9d18ebfbfb2eb4ed276c102394fc116f397935970ddadd6ad1cb7fa632d30ca",
-        "tamanho_bytes": 4540000
+        "tamanho_bytes": 4540000,
+        "removido_da_release_em": "2026-10-05T11:11:39.423119-03:00"
       },
       "instagram": {
         "legenda": "Tem gente que guarda tanto dinheiro que ganha fama de pão-duro.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o perfil do poupador.\n\nE deixar passar experiências que não voltam.\n\nGuardar é bom.\n\nEsquecer de viver, não.\n\nSegue a página pra ver mais livros assim: @livronalousa",
