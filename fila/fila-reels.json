@@ -818,7 +818,7 @@
       "id": "reel-20261005-1400-28c76df243",
       "data": "2026-10-05",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 02 - A febre das tulipas.mp4",
         "sha256": "28c76df24308153b2348854d2e3c7a214f9677695155ec2cb3d2a1847073b3cc"
@@ -831,12 +831,17 @@
       },
       "instagram": {
         "legenda": "Já teve gente que vendeu a casa pra comprar uma flor.\n\nSério.\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nO livro mostra que o objeto muda: flor, internet, casa.\n\nO que se repete é a gente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18152570086542082",
+        "publicado_em": "2026-10-05T15:32:14.831598-03:00"
       },
       "facebook": {
         "legenda": "Já teve gente que vendeu a casa pra comprar uma flor.\n\nSério.\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nO livro mostra que o objeto muda: flor, internet, casa.\n\nO que se repete é a gente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28791075670525509",
+        "publicado_em": "2026-10-05T15:32:29.517870-03:00"
+      },
+      "concluido_em": "2026-10-05T15:32:29.524080-03:00"
     },
     {
       "id": "reel-20261005-1700-bf235b013f",
