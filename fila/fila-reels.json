@@ -848,7 +848,7 @@
       "id": "reel-20261005-1700-bf235b013f",
       "data": "2026-10-05",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 02 - O preco que foge.mp4",
         "sha256": "bf235b013fcbd766ed54d7beef43a2158cc9613fc9ee96a1ae63f40924c482fd"
@@ -861,12 +861,17 @@
       },
       "instagram": {
         "legenda": "Você junta dinheiro todo mês pra comprar a casa à vista.\n\nE a casa foge.\n\nEsse é um alerta do livro Crédito Vale Mais que Dinheiro.\n\nE vai pagando aos poucos, com o salário que ainda vai receber lá na frente.\n\nO livro não diz que isso serve pra todo mundo.\n\nDiz que esperar também tem custo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17982229562906121",
+        "publicado_em": "2026-10-05T18:28:03.872356-03:00"
       },
       "facebook": {
         "legenda": "Você junta dinheiro todo mês pra comprar a casa à vista.\n\nE a casa foge.\n\nEsse é um alerta do livro Crédito Vale Mais que Dinheiro.\n\nE vai pagando aos poucos, com o salário que ainda vai receber lá na frente.\n\nO livro não diz que isso serve pra todo mundo.\n\nDiz que esperar também tem custo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1604277064512982",
+        "publicado_em": "2026-10-05T18:28:13.633864-03:00"
+      },
+      "concluido_em": "2026-10-05T18:28:13.642592-03:00"
     },
     {
       "id": "reel-20261005-2000-3423cbc833",
