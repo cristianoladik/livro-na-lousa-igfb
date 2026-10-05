@@ -857,7 +857,8 @@
         "asset": "reel-bf235b013f-Credito-Vale-Mais-02---O-preco-que-foge.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-bf235b013f-Credito-Vale-Mais-02---O-preco-que-foge.mp4",
         "sha256": "bf235b013fcbd766ed54d7beef43a2158cc9613fc9ee96a1ae63f40924c482fd",
-        "tamanho_bytes": 5032203
+        "tamanho_bytes": 5032203,
+        "removido_da_release_em": "2026-10-05T18:28:16.652094-03:00"
       },
       "instagram": {
         "legenda": "Você junta dinheiro todo mês pra comprar a casa à vista.\n\nE a casa foge.\n\nEsse é um alerta do livro Crédito Vale Mais que Dinheiro.\n\nE vai pagando aos poucos, com o salário que ainda vai receber lá na frente.\n\nO livro não diz que isso serve pra todo mundo.\n\nDiz que esperar também tem custo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
