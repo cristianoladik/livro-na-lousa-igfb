@@ -420,7 +420,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-ad5c5b4386-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
             "sha256": "ad5c5b4386b704f6474bfaf68461f06eaeb80a39d0f2627089284ec5fc2e1862",
             "tamanho_bytes": 8146022,
-            "duracao_segundos": 32.967
+            "duracao_segundos": 32.967,
+            "removido_da_release_em": "2026-10-05T09:17:24.415902-03:00"
           },
           "instagram": {
             "status": "publicado",
