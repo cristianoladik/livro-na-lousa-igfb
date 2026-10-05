@@ -2259,6 +2259,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261204-8d5eeec88a",
+      "data": "2026-12-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 10 - O peru dos mil dias.mp4",
+        "sha256": "8d5eeec88a338caaee862c07948371a19c1597ab821687d16da730e7d00c45d4",
+        "pacote": "Antifragil 10 - O peru dos mil dias",
+        "pacote_id": "story-8d5eeec88a33"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8d5eeec88a-Antifragil-10---O-peru-dos-mil-dias.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-8d5eeec88a-Antifragil-10---O-peru-dos-mil-dias.mp4",
+            "sha256": "8d5eeec88a338caaee862c07948371a19c1597ab821687d16da730e7d00c45d4",
+            "tamanho_bytes": 5163210,
+            "duracao_segundos": 30.94
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
