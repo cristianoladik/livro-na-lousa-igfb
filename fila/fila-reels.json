@@ -758,7 +758,7 @@
       "id": "reel-20261005-0800-5427d2b5d8",
       "data": "2026-10-05",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 02 - Bansir e Kobbi.mp4",
         "sha256": "5427d2b5d8d5356d6aa3b6023939aa41f2a7cd7c569231b4c0fb66140b62c8a9"
@@ -771,12 +771,17 @@
       },
       "instagram": {
         "legenda": "Bansir e Kobbi trabalharam a vida inteira e não tinham nada guardado.\n\nEssa é a abertura do livro O Homem Mais Rico da Babilônia.\n\nA resposta não era falta de trabalho nem de salário: ninguém tinha ensinado pra eles as regras do jogo do dinheiro.\n\nE pra você, alguém ensinou?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18114103886105480",
+        "publicado_em": "2026-10-05T09:19:06.500405-03:00"
       },
       "facebook": {
         "legenda": "Bansir e Kobbi trabalharam a vida inteira e não tinham nada guardado.\n\nEssa é a abertura do livro O Homem Mais Rico da Babilônia.\n\nA resposta não era falta de trabalho nem de salário: ninguém tinha ensinado pra eles as regras do jogo do dinheiro.\n\nE pra você, alguém ensinou?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1071006905557432",
+        "publicado_em": "2026-10-05T09:19:16.539148-03:00"
+      },
+      "concluido_em": "2026-10-05T09:19:16.549299-03:00"
     },
     {
       "id": "reel-20261005-1100-d9d18ebfbf",
