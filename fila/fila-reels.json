@@ -788,7 +788,7 @@
       "id": "reel-20261005-1100-d9d18ebfbf",
       "data": "2026-10-05",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 02 - O poupador.mp4",
         "sha256": "d9d18ebfbfb2eb4ed276c102394fc116f397935970ddadd6ad1cb7fa632d30ca"
@@ -801,12 +801,17 @@
       },
       "instagram": {
         "legenda": "Tem gente que guarda tanto dinheiro que ganha fama de pão-duro.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o perfil do poupador.\n\nE deixar passar experiências que não voltam.\n\nGuardar é bom.\n\nEsquecer de viver, não.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18112995335467688",
+        "publicado_em": "2026-10-05T11:11:24.010751-03:00"
       },
       "facebook": {
         "legenda": "Tem gente que guarda tanto dinheiro que ganha fama de pão-duro.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o perfil do poupador.\n\nE deixar passar experiências que não voltam.\n\nGuardar é bom.\n\nEsquecer de viver, não.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1065255296388365",
+        "publicado_em": "2026-10-05T11:11:36.896752-03:00"
+      },
+      "concluido_em": "2026-10-05T11:11:36.904917-03:00"
     },
     {
       "id": "reel-20261005-1400-28c76df243",
