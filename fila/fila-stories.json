@@ -404,7 +404,7 @@
       "id": "story-20261005-ad5c5b4386",
       "data": "2026-10-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 09 - A casa onde voce mora.mp4",
         "sha256": "ad5c5b4386b704f6474bfaf68461f06eaeb80a39d0f2627089284ec5fc2e1862",
@@ -414,7 +414,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-ad5c5b4386-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-ad5c5b4386-Pai-Rico-09---A-casa-onde-voce-mora.mp4",
@@ -423,13 +423,30 @@
             "duracao_segundos": 32.967
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18144990259518121",
+            "publish_iniciado_em": "2026-10-05T09:16:22-03:00",
+            "id": "17955128685252864",
+            "publicado_em": "2026-10-05T09:16:29-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1556985473141271",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-05T09:16:40-03:00",
+            "post_id_candidato": "2511443732688069",
+            "finish_em": "2026-10-05T09:16:44-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjI1MTE0NDM3MzYwMjE0MDI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2511443732688069",
+            "publicado_em": "2026-10-05T09:17:21-03:00"
+          },
+          "concluido_em": "2026-10-05T09:17:21-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-05T09:17:21-03:00"
     },
     {
       "id": "story-20261006-408f357f5e",
