@@ -453,7 +453,7 @@
       "id": "story-20261006-408f357f5e",
       "data": "2026-10-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 10 - A casa que te paga.mp4",
         "sha256": "408f357f5ee18085e1960ed64e038300c90526de97aedce5e4f657265704a099",
@@ -463,7 +463,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-408f357f5e-Pai-Rico-10---A-casa-que-te-paga.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-408f357f5e-Pai-Rico-10---A-casa-que-te-paga.mp4",
@@ -472,13 +472,30 @@
             "duracao_segundos": 30.733
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18145262191518121",
+            "publish_iniciado_em": "2026-10-06T09:17:23-03:00",
+            "id": "18020384060724356",
+            "publicado_em": "2026-10-06T09:17:31-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1856229448868724",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-06T09:17:40-03:00",
+            "post_id_candidato": "1814353263243443",
+            "finish_em": "2026-10-06T09:17:49-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE4MTQzNTMyNjY1NzY3NzY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1814353263243443",
+            "publicado_em": "2026-10-06T09:18:26-03:00"
+          },
+          "concluido_em": "2026-10-06T09:18:26-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-06T09:18:26-03:00"
     },
     {
       "id": "story-20261007-635b487b1b",
