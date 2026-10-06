@@ -968,7 +968,7 @@
       "id": "reel-20261006-1400-0c5b759fa2",
       "data": "2026-10-06",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 03 - O gastador.mp4",
         "sha256": "0c5b759fa22f4890c2b094da2480593cccbbfc5ee3eab20bd316e9e92e400866"
@@ -981,12 +981,17 @@
       },
       "instagram": {
         "legenda": "Tem gente que vive o hoje e deixa o amanhã pra depois.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o gastador.\n\nPra esse perfil, o livro dá truques simples.\n\nDeixar o cartão de crédito em casa e sair com o dinheiro contado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18117367511284218",
+        "publicado_em": "2026-10-06T14:36:10.800967-03:00"
       },
       "facebook": {
         "legenda": "Tem gente que vive o hoje e deixa o amanhã pra depois.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o gastador.\n\nPra esse perfil, o livro dá truques simples.\n\nDeixar o cartão de crédito em casa e sair com o dinheiro contado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1551230106756564",
+        "publicado_em": "2026-10-06T14:36:21.272586-03:00"
+      },
+      "concluido_em": "2026-10-06T14:36:21.278614-03:00"
     },
     {
       "id": "reel-20261006-1700-e4bbccfa63",
