@@ -998,7 +998,7 @@
       "id": "reel-20261006-1700-e4bbccfa63",
       "data": "2026-10-06",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 03 - O emprestimo facil de dois mil e oito.mp4",
         "sha256": "e4bbccfa63d82e61e12249357a60a063895ca0812d5a82ac7bab42c28112f50b"
@@ -1011,12 +1011,17 @@
       },
       "instagram": {
         "legenda": "Em dois mil e oito, o mundo quase quebrou por causa de empréstimo fácil.\n\nE o livro Dominando o Ciclo de Mercado explica como isso aconteceu.\n\nEsse é o sinal que eu prometi.\n\nSe você vê todo mundo emprestando pra qualquer um, sem pergunta nenhuma, o pêndulo foi longe demais.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17993127483024697",
+        "publicado_em": "2026-10-06T19:11:46.733221-03:00"
       },
       "facebook": {
         "legenda": "Em dois mil e oito, o mundo quase quebrou por causa de empréstimo fácil.\n\nE o livro Dominando o Ciclo de Mercado explica como isso aconteceu.\n\nEsse é o sinal que eu prometi.\n\nSe você vê todo mundo emprestando pra qualquer um, sem pergunta nenhuma, o pêndulo foi longe demais.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1405959805033986",
+        "publicado_em": "2026-10-06T19:11:58.893567-03:00"
+      },
+      "concluido_em": "2026-10-06T19:11:58.900045-03:00"
     },
     {
       "id": "reel-20261006-2000-0fd2661818",
