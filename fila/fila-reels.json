@@ -917,7 +917,8 @@
         "asset": "reel-c1a4aeaf50-Antifragil-03---Damocles-Fenix-e-Hidra.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-c1a4aeaf50-Antifragil-03---Damocles-Fenix-e-Hidra.mp4",
         "sha256": "c1a4aeaf500544572a0a57ef495c987bb02539b9f3ec417af0fe50bf1cab2b3b",
-        "tamanho_bytes": 5815420
+        "tamanho_bytes": 5815420,
+        "removido_da_release_em": "2026-10-06T09:16:44.992206-03:00"
       },
       "instagram": {
         "legenda": "Uma espada, uma ave e um monstro de muitas cabeças.\n\nÉ assim que o livro Antifrágil explica os três jeitos de lidar com o choque.\n\nEsse é o antifrágil: ganha com o choque.\n\nE o livro mostra como ficar do lado que ganha com o choque.\n\nSegue a página pra ver mais livros assim: @livronalousa",
