@@ -878,7 +878,7 @@
       "id": "reel-20261005-2000-3423cbc833",
       "data": "2026-10-05",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 02 - A frase do Dickens.mp4",
         "sha256": "3423cbc833100ccdcb6d7c25193354dc8cfc27d3cfcb489b5d75aa88329a6e1a"
@@ -891,12 +891,17 @@
       },
       "instagram": {
         "legenda": "A diferença entre felicidade e miséria pode ser de uns trocados.\n\nQuem diz isso é um escritor inglês antigo, numa frase que abre um capítulo do livro Dinheiro, os Segredos de Quem Tem.\n\nO que muda tudo é o lado da balança em que você cai.\n\nPro autor, riqueza não vem do quanto se ganha, vem do quanto se gasta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18031125290851227",
+        "publicado_em": "2026-10-05T21:17:34.786598-03:00"
       },
       "facebook": {
         "legenda": "A diferença entre felicidade e miséria pode ser de uns trocados.\n\nQuem diz isso é um escritor inglês antigo, numa frase que abre um capítulo do livro Dinheiro, os Segredos de Quem Tem.\n\nO que muda tudo é o lado da balança em que você cai.\n\nPro autor, riqueza não vem do quanto se ganha, vem do quanto se gasta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2881007088922241",
+        "publicado_em": "2026-10-05T21:17:45.305535-03:00"
+      },
+      "concluido_em": "2026-10-05T21:17:45.314960-03:00"
     },
     {
       "id": "reel-20261006-0800-c1a4aeaf50",
