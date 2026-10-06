@@ -2308,6 +2308,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261205-fd6669c58a",
+      "data": "2026-12-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 10 - Tijolo e moeda forte.mp4",
+        "sha256": "fd6669c58ac027b401c083699c6de3956bebfbc9b78aff47e08211e5e7b8b4ed",
+        "pacote": "Babilonia 10 - Tijolo e moeda forte",
+        "pacote_id": "story-fd6669c58ac0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-fd6669c58a-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-fd6669c58a-Babilonia-10---Tijolo-e-moeda-forte.mp4",
+            "sha256": "fd6669c58ac027b401c083699c6de3956bebfbc9b78aff47e08211e5e7b8b4ed",
+            "tamanho_bytes": 4273082,
+            "duracao_segundos": 28.94
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
