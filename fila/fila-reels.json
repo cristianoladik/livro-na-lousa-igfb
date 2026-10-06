@@ -1028,7 +1028,7 @@
       "id": "reel-20261006-2000-0fd2661818",
       "data": "2026-10-06",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 03 - A conta da entrada.mp4",
         "sha256": "0fd2661818ce4cdeeb7b18e909d1087694c948a72d10993520ada76dd3a1acfe"
@@ -1041,12 +1041,17 @@
       },
       "instagram": {
         "legenda": "Com sessenta mil reais, dá pra controlar uma casa de trezentos mil.\n\nParece truque, mas tem nome: alavancagem.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nE o livro lembra que imóvel nem sempre valoriza.\n\nEntão, dica minha: faz a conta completa, com tudo, antes de assinar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18079518065372270",
+        "publicado_em": "2026-10-06T20:13:21.158563-03:00"
       },
       "facebook": {
         "legenda": "Com sessenta mil reais, dá pra controlar uma casa de trezentos mil.\n\nParece truque, mas tem nome: alavancagem.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nE o livro lembra que imóvel nem sempre valoriza.\n\nEntão, dica minha: faz a conta completa, com tudo, antes de assinar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "964477046081480",
+        "publicado_em": "2026-10-06T20:13:36.382104-03:00"
+      },
+      "concluido_em": "2026-10-06T20:13:36.392087-03:00"
     },
     {
       "id": "reel-20261007-0800-e0245c2818",
