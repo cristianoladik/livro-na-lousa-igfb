@@ -908,7 +908,7 @@
       "id": "reel-20261006-0800-c1a4aeaf50",
       "data": "2026-10-06",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 03 - Damocles, Fenix e Hidra.mp4",
         "sha256": "c1a4aeaf500544572a0a57ef495c987bb02539b9f3ec417af0fe50bf1cab2b3b"
@@ -921,12 +921,17 @@
       },
       "instagram": {
         "legenda": "Uma espada, uma ave e um monstro de muitas cabeças.\n\nÉ assim que o livro Antifrágil explica os três jeitos de lidar com o choque.\n\nEsse é o antifrágil: ganha com o choque.\n\nE o livro mostra como ficar do lado que ganha com o choque.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18072363758770950",
+        "publicado_em": "2026-10-06T09:16:33.891210-03:00"
       },
       "facebook": {
         "legenda": "Uma espada, uma ave e um monstro de muitas cabeças.\n\nÉ assim que o livro Antifrágil explica os três jeitos de lidar com o choque.\n\nEsse é o antifrágil: ganha com o choque.\n\nE o livro mostra como ficar do lado que ganha com o choque.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2344689562946365",
+        "publicado_em": "2026-10-06T09:16:42.503226-03:00"
+      },
+      "concluido_em": "2026-10-06T09:16:42.509339-03:00"
     },
     {
       "id": "reel-20261006-1100-69202ae2b9",
