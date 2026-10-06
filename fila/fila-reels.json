@@ -1037,7 +1037,8 @@
         "asset": "reel-0fd2661818-Credito-Vale-Mais-03---A-conta-da-entrada.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-0fd2661818-Credito-Vale-Mais-03---A-conta-da-entrada.mp4",
         "sha256": "0fd2661818ce4cdeeb7b18e909d1087694c948a72d10993520ada76dd3a1acfe",
-        "tamanho_bytes": 9433284
+        "tamanho_bytes": 9433284,
+        "removido_da_release_em": "2026-10-06T20:13:39.269933-03:00"
       },
       "instagram": {
         "legenda": "Com sessenta mil reais, dá pra controlar uma casa de trezentos mil.\n\nParece truque, mas tem nome: alavancagem.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nE o livro lembra que imóvel nem sempre valoriza.\n\nEntão, dica minha: faz a conta completa, com tudo, antes de assinar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
