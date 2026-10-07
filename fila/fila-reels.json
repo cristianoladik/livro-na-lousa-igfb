@@ -1127,7 +1127,8 @@
         "asset": "reel-7faeda6531-Babilonia-04---Voce-paga-todo-mundo.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-7faeda6531-Babilonia-04---Voce-paga-todo-mundo.mp4",
         "sha256": "7faeda65311fd41b13174444a01997c9423ab93df4e642f9778fb006342b555c",
-        "tamanho_bytes": 4968168
+        "tamanho_bytes": 4968168,
+        "removido_da_release_em": "2026-10-07T15:07:21.034850-03:00"
       },
       "instagram": {
         "legenda": "Você paga aluguel, mercado, cartão, e sempre esquece de pagar uma pessoa: você mesmo.\n\nNo livro O Homem Mais Rico da Babilônia, Arkad aprende que uma parte de tudo que você ganha, pelo menos dez por cento, é sua pra guardar, antes de qualquer conta.\n\nVocê tem que ser a primeira conta do mês, não a última.\n\nSegue a página pra ver mais livros assim: @livronalousa",
