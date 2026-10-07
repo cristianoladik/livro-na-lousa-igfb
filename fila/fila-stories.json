@@ -2357,6 +2357,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261206-8acbb5d6a2",
+      "data": "2026-12-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 10 - Descontrolado com desligado.mp4",
+        "sha256": "8acbb5d6a28968d499477c9d966ccff164f1e9aa7cb854513dbebab1d7f26dfd",
+        "pacote": "Casais Inteligentes 10 - Descontrolado com desligado",
+        "pacote_id": "story-8acbb5d6a289"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-8acbb5d6a2-Casais-Inteligentes-10---Descontrolado-com-desligado.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-8acbb5d6a2-Casais-Inteligentes-10---Descontrolado-com-desligado.mp4",
+            "sha256": "8acbb5d6a28968d499477c9d966ccff164f1e9aa7cb854513dbebab1d7f26dfd",
+            "tamanho_bytes": 4977780,
+            "duracao_segundos": 28.78
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
