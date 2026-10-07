@@ -502,7 +502,7 @@
       "id": "story-20261007-635b487b1b",
       "data": "2026-10-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 11 - Passivos disfarcados.mp4",
         "sha256": "635b487b1bbfc21fe31f6791d4b09b5dae7bca79f148e0e8c942857d3185a05e",
@@ -512,7 +512,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-635b487b1b-Pai-Rico-11---Passivos-disfarcados.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-635b487b1b-Pai-Rico-11---Passivos-disfarcados.mp4",
@@ -521,13 +521,30 @@
             "duracao_segundos": 32.25
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18145542778518121",
+            "publish_iniciado_em": "2026-10-07T09:17:18-03:00",
+            "id": "18144116932576012",
+            "publicado_em": "2026-10-07T09:17:26-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1135851852293634",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-07T09:17:33-03:00",
+            "post_id_candidato": "1788587762339256",
+            "finish_em": "2026-10-07T09:17:37-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE3ODg1ODc3NzIzMzkyNTU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1788587762339256",
+            "publicado_em": "2026-10-07T09:18:13-03:00"
+          },
+          "concluido_em": "2026-10-07T09:18:13-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-07T09:18:13-03:00"
     },
     {
       "id": "story-20261008-b1663d3fd1",
