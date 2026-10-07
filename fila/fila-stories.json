@@ -518,7 +518,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-635b487b1b-Pai-Rico-11---Passivos-disfarcados.mp4",
             "sha256": "635b487b1bbfc21fe31f6791d4b09b5dae7bca79f148e0e8c942857d3185a05e",
             "tamanho_bytes": 7001359,
-            "duracao_segundos": 32.25
+            "duracao_segundos": 32.25,
+            "removido_da_release_em": "2026-10-07T09:18:16.364420-03:00"
           },
           "instagram": {
             "status": "publicado",
