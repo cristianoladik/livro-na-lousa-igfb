@@ -1277,7 +1277,8 @@
         "asset": "reel-d7761c27ef-Antifragil-05---Os-dois-rins-e-a-reserva.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-d7761c27ef-Antifragil-05---Os-dois-rins-e-a-reserva.mp4",
         "sha256": "d7761c27efd0bfac23b6bb44efbd7fe50fcfd819adb3f5390b89e3fd557a0d54",
-        "tamanho_bytes": 4635153
+        "tamanho_bytes": 4635153,
+        "removido_da_release_em": "2026-10-08T15:09:42.799858-03:00"
       },
       "instagram": {
         "legenda": "Você nasceu com dois rins.\n\nE com folga nos pulmões e em vários outros órgãos.\n\nEssa lição está no livro Antifrágil.\n\nMas é ela que te segura no dia ruim.\n\nSobra não é desperdício.\n\nÉ o que te deixa de pé quando vem o susto.\n\nSegue a página pra ver mais livros assim: @livronalousa",
