@@ -8283,6 +8283,126 @@
         "legenda": "Ele ganhou cinquenta moedas de ouro do rei.\n\nE a primeira pessoa a pedir emprestado foi a irmã.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nGuarda o resto.\n\nE só empresta se tiver um jeito seguro de o dinheiro voltar.\n\nNa tampa da caixa tava gravado: melhor um pouco de cuidado do que um grande arrependimento.\n\nSegue a página pra ver mais livros assim: @livronalousa",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261206-0800-26eb99a5f6",
+      "data": "2026-12-06",
+      "horario": "08:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 3m00 - Pai Rico 06 - Corrida dos ratos.mp4",
+        "sha256": "26eb99a5f6eaeb2cf46312eae19ba17757e8eb1fe4b45ef2b2d949129c172812"
+      },
+      "midia": {
+        "asset": "reel-26eb99a5f6-Tamanho-3m00---Pai-Rico-06---Corrida-dos-ratos.mp4",
+        "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-26eb99a5f6-Tamanho-3m00---Pai-Rico-06---Corrida-dos-ratos.mp4",
+        "sha256": "26eb99a5f6eaeb2cf46312eae19ba17757e8eb1fe4b45ef2b2d949129c172812",
+        "tamanho_bytes": 22900603
+      },
+      "instagram": {
+        "legenda": "Você corre o mês inteiro e não sai do lugar.\n\nIsso tem nome.\n\nE tem saída.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nAté isso pagar as suas contas no lugar do salário.\n\nAí sim você sai da roda.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Você corre o mês inteiro e não sai do lugar.\n\nIsso tem nome.\n\nE tem saída.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nAté isso pagar as suas contas no lugar do salário.\n\nAí sim você sai da roda.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261206-1100-68af26d95a",
+      "data": "2026-12-06",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 2m00 - Mente Milionaria 07 - Conta de padeiro.mp4",
+        "sha256": "68af26d95a589056152fbe0d9a4c67fe4e480061930b54955b3c8d9fc769d108"
+      },
+      "midia": {
+        "asset": "reel-68af26d95a-Tamanho-2m00---Mente-Milionaria-07---Conta-de-padeiro.mp4",
+        "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-68af26d95a-Tamanho-2m00---Mente-Milionaria-07---Conta-de-padeiro.mp4",
+        "sha256": "68af26d95a589056152fbe0d9a4c67fe4e480061930b54955b3c8d9fc769d108",
+        "tamanho_bytes": 18728467
+      },
+      "instagram": {
+        "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nNo final eu te conto a pergunta que muda o tamanho da sua renda.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nSó que jogando pequeno, o resultado também fica pequeno.\n\nResumindo: esforço é importante, mas quem manda na renda é o alcance.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nNo final eu te conto a pergunta que muda o tamanho da sua renda.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nSó que jogando pequeno, o resultado também fica pequeno.\n\nResumindo: esforço é importante, mas quem manda na renda é o alcance.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261206-1400-421d01a6ea",
+      "data": "2026-12-06",
+      "horario": "14:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 2m30 - Mente Milionaria 07 - Conta de padeiro.mp4",
+        "sha256": "421d01a6ea0afd25529361e0289cd2a624190bfc0f856ca310c83a49f96e2b72"
+      },
+      "midia": {
+        "asset": "reel-421d01a6ea-Tamanho-2m30---Mente-Milionaria-07---Conta-de-padeiro.mp4",
+        "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-421d01a6ea-Tamanho-2m30---Mente-Milionaria-07---Conta-de-padeiro.mp4",
+        "sha256": "421d01a6ea0afd25529361e0289cd2a624190bfc0f856ca310c83a49f96e2b72",
+        "tamanho_bytes": 21957045
+      },
+      "instagram": {
+        "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nNo final eu te conto a pergunta que muda o tamanho da sua renda.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nA pergunta muda o caminho.\n\nResumindo: esforço é importante, mas quem manda na renda é o alcance.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nNo final eu te conto a pergunta que muda o tamanho da sua renda.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nA pergunta muda o caminho.\n\nResumindo: esforço é importante, mas quem manda na renda é o alcance.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261206-1700-411ae4881d",
+      "data": "2026-12-06",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 3m00 - Mente Milionaria 07 - Conta de padeiro.mp4",
+        "sha256": "411ae4881d63056fbb7b24cfca5f7e8657a0f3fc34670cfda6156249d840590b"
+      },
+      "midia": {
+        "asset": "reel-411ae4881d-Tamanho-3m00---Mente-Milionaria-07---Conta-de-padeiro.mp4",
+        "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-411ae4881d-Tamanho-3m00---Mente-Milionaria-07---Conta-de-padeiro.mp4",
+        "sha256": "411ae4881d63056fbb7b24cfca5f7e8657a0f3fc34670cfda6156249d840590b",
+        "tamanho_bytes": 23305803
+      },
+      "instagram": {
+        "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nNo final eu te conto a pergunta que muda o tamanho da sua renda.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nQuando o foco sai de você e vai pra quantas pessoas você ajuda, a renda vai junto.\n\nResumindo: esforço é importante, mas quem manda na renda é o alcance.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A sua renda tem o tamanho de uma coisa.\n\nE não é o seu esforço.\n\nNo final eu te conto a pergunta que muda o tamanho da sua renda.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nQuando o foco sai de você e vai pra quantas pessoas você ajuda, a renda vai junto.\n\nResumindo: esforço é importante, mas quem manda na renda é o alcance.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261206-2000-289dfcb5b6",
+      "data": "2026-12-06",
+      "horario": "20:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 2m00 - Pai Rico 08 - Ativo x passivo.mp4",
+        "sha256": "289dfcb5b60d28ae5f38ac877f460931b549459b7091fa65a165e01fc717ad6d"
+      },
+      "midia": {
+        "asset": "reel-289dfcb5b6-Tamanho-2m00---Pai-Rico-08---Ativo-x-passivo.mp4",
+        "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-289dfcb5b6-Tamanho-2m00---Pai-Rico-08---Ativo-x-passivo.mp4",
+        "sha256": "289dfcb5b60d28ae5f38ac877f460931b549459b7091fa65a165e01fc717ad6d",
+        "tamanho_bytes": 15890692
+      },
+      "instagram": {
+        "legenda": "A lição mais importante de finanças cabe em duas frases.\n\nE no final eu te mostro o passivo que quase todo mundo tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nÉ dinheiro saindo do bolso.\n\nPelo livro, isso é passivo.\n\nCompra primeiro o que coloca dinheiro no bolso.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "A lição mais importante de finanças cabe em duas frases.\n\nE no final eu te mostro o passivo que quase todo mundo tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nÉ dinheiro saindo do bolso.\n\nPelo livro, isso é passivo.\n\nCompra primeiro o que coloca dinheiro no bolso.\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      }
     }
   ]
 }

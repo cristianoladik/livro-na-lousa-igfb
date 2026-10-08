@@ -2406,6 +2406,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261207-6c21d8b80d",
+      "data": "2026-12-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 10 - A nota de cinquenta.mp4",
+        "sha256": "6c21d8b80dfdd59c2da12bc790a39cd745a61ec6f579e03c89aa064f4f114d45",
+        "pacote": "Dinheiro Segredos 10 - A nota de cinquenta",
+        "pacote_id": "story-6c21d8b80dfd"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-6c21d8b80d-Dinheiro-Segredos-10---A-nota-de-cinquenta.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-6c21d8b80d-Dinheiro-Segredos-10---A-nota-de-cinquenta.mp4",
+            "sha256": "6c21d8b80dfdd59c2da12bc790a39cd745a61ec6f579e03c89aa064f4f114d45",
+            "tamanho_bytes": 6317817,
+            "duracao_segundos": 36.4
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
