@@ -1298,7 +1298,7 @@
       "id": "reel-20261008-1700-bfacb61587",
       "data": "2026-10-08",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 05 - As joias de vidro.mp4",
         "sha256": "bfacb615875fd7c884cb7abf30736a31f2a47c3a9f74cbe3f6cbdf3a2d82a50f"
@@ -1311,12 +1311,17 @@
       },
       "instagram": {
         "legenda": "Ele juntou dinheiro por um ano e perdeu tudo numa viagem.\n\nNo livro O Homem Mais Rico da Babilônia, Arkad confia as economias a um fabricante de tijolos que ia comprar joias pra revender, e volta só com pedaços de vidro.\n\nA lição: se quer investir, pergunta pra quem realmente entende do assunto, nunca pro achismo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18466936225142393",
+        "publicado_em": "2026-10-08T17:06:20.372340-03:00"
       },
       "facebook": {
         "legenda": "Ele juntou dinheiro por um ano e perdeu tudo numa viagem.\n\nNo livro O Homem Mais Rico da Babilônia, Arkad confia as economias a um fabricante de tijolos que ia comprar joias pra revender, e volta só com pedaços de vidro.\n\nA lição: se quer investir, pergunta pra quem realmente entende do assunto, nunca pro achismo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1126903179865238",
+        "publicado_em": "2026-10-08T17:06:30.874923-03:00"
+      },
+      "concluido_em": "2026-10-08T17:06:30.881689-03:00"
     },
     {
       "id": "reel-20261008-2000-0ebf564624",
