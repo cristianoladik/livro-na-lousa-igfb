@@ -1238,7 +1238,7 @@
       "id": "reel-20261008-1100-d2cb3fa80c",
       "data": "2026-10-08",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 04 - O carro bonito.mp4",
         "sha256": "d2cb3fa80c749b825da3a8e0559d238da41c9e9aaf13faee4c6a83e8ce3400be"
@@ -1251,12 +1251,17 @@
       },
       "instagram": {
         "legenda": "O que você pensa quando vê um carro bonito passando?\n\nO livro Dinheiro, os Segredos de Quem Tem usa essa cena pra separar dois jeitos de pensar.\n\nPro autor, o que separa os dois é a capacidade de empreender e de fazer planos.\n\nÉ por isso que um reclama e o outro faz plano.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18460801252185563",
+        "publicado_em": "2026-10-08T11:11:07.585428-03:00"
       },
       "facebook": {
         "legenda": "O que você pensa quando vê um carro bonito passando?\n\nO livro Dinheiro, os Segredos de Quem Tem usa essa cena pra separar dois jeitos de pensar.\n\nPro autor, o que separa os dois é a capacidade de empreender e de fazer planos.\n\nÉ por isso que um reclama e o outro faz plano.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1047847014971334",
+        "publicado_em": "2026-10-08T11:11:17.726520-03:00"
+      },
+      "concluido_em": "2026-10-08T11:11:17.736397-03:00"
     },
     {
       "id": "reel-20261008-1400-d7761c27ef",
