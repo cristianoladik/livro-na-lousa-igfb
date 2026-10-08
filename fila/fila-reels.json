@@ -1178,7 +1178,7 @@
       "id": "reel-20261007-2000-391fe50cae",
       "data": "2026-10-07",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 04 - A economia sussurra e o mercado grita.mp4",
         "sha256": "391fe50caec15af3380b1a5acfd604491eac55b5ed1e03b771db2712076e5f18"
@@ -1191,12 +1191,17 @@
       },
       "instagram": {
         "legenda": "A economia de um país costuma mudar pouco de um ano pro outro.\n\nEntão por que a bolsa pula tanto?\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nUm lucro um pouco menor vira pânico, e um lucro um pouco maior vira euforia.\n\nA economia sussurra, e o mercado grita.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17910328497476872",
+        "publicado_em": "2026-10-07T22:02:03.507389-03:00"
       },
       "facebook": {
         "legenda": "A economia de um país costuma mudar pouco de um ano pro outro.\n\nEntão por que a bolsa pula tanto?\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nUm lucro um pouco menor vira pânico, e um lucro um pouco maior vira euforia.\n\nA economia sussurra, e o mercado grita.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3552154924949196",
+        "publicado_em": "2026-10-07T22:02:13.217613-03:00"
+      },
+      "concluido_em": "2026-10-07T22:02:13.228372-03:00"
     },
     {
       "id": "reel-20261008-0800-97fbd9db94",
