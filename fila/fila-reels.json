@@ -1208,7 +1208,7 @@
       "id": "reel-20261008-0800-97fbd9db94",
       "data": "2026-10-08",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 04 - Aluguel ou parcela.mp4",
         "sha256": "97fbd9db94085bde9edbeb63f47d1faf539bd2cecd99de4e8c8e4a6e9fcb8e54"
@@ -1221,12 +1221,17 @@
       },
       "instagram": {
         "legenda": "Dez anos pagando aluguel.\n\nNo dia que você sai, entrega a chave e leva o quê?\n\nEssa comparação está no livro Crédito Vale Mais que Dinheiro.\n\nA defesa dele é outra: pra quem quer montar patrimônio, comprar financiado com cabeça tende a compensar com o passar dos anos.\n\nE com cabeça quer dizer uma parcela que cabe no orçamento, sem sufoco.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18065880692788742",
+        "publicado_em": "2026-10-08T09:17:31.267324-03:00"
       },
       "facebook": {
         "legenda": "Dez anos pagando aluguel.\n\nNo dia que você sai, entrega a chave e leva o quê?\n\nEssa comparação está no livro Crédito Vale Mais que Dinheiro.\n\nA defesa dele é outra: pra quem quer montar patrimônio, comprar financiado com cabeça tende a compensar com o passar dos anos.\n\nE com cabeça quer dizer uma parcela que cabe no orçamento, sem sufoco.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2521346131705308",
+        "publicado_em": "2026-10-08T09:17:41.304281-03:00"
+      },
+      "concluido_em": "2026-10-08T09:17:41.312365-03:00"
     },
     {
       "id": "reel-20261008-1100-d2cb3fa80c",
