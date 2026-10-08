@@ -551,7 +551,7 @@
       "id": "story-20261008-b1663d3fd1",
       "data": "2026-10-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 12 - Pobre classe media rico.mp4",
         "sha256": "b1663d3fd13d0c1b6000207695a72b0498803e53ea6274717afc71776d22e5d8",
@@ -561,7 +561,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-b1663d3fd1-Pai-Rico-12---Pobre-classe-media-rico.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-b1663d3fd1-Pai-Rico-12---Pobre-classe-media-rico.mp4",
@@ -570,13 +570,30 @@
             "duracao_segundos": 34.3
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18145838074518121",
+            "publish_iniciado_em": "2026-10-08T09:15:48-03:00",
+            "id": "18023032307712940",
+            "publicado_em": "2026-10-08T09:15:55-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1409591714048443",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-08T09:16:03-03:00",
+            "post_id_candidato": "1786617169346024",
+            "finish_em": "2026-10-08T09:16:07-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE3ODY2MTcxNzI2NzkzNTc=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1786617169346024",
+            "publicado_em": "2026-10-08T09:16:43-03:00"
+          },
+          "concluido_em": "2026-10-08T09:16:43-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-08T09:16:43-03:00"
     },
     {
       "id": "story-20261009-c98cf6cb38",
