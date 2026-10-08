@@ -567,7 +567,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-b1663d3fd1-Pai-Rico-12---Pobre-classe-media-rico.mp4",
             "sha256": "b1663d3fd13d0c1b6000207695a72b0498803e53ea6274717afc71776d22e5d8",
             "tamanho_bytes": 7278707,
-            "duracao_segundos": 34.3
+            "duracao_segundos": 34.3,
+            "removido_da_release_em": "2026-10-08T09:16:45.732752-03:00"
           },
           "instagram": {
             "status": "publicado",
