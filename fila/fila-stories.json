@@ -600,7 +600,7 @@
       "id": "story-20261009-c98cf6cb38",
       "data": "2026-10-09",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 13 - O negocio de quem.mp4",
         "sha256": "c98cf6cb38ffd54b696c7ea195948bb410afdfb9e1570468ed00f36f5d0c03d8",
@@ -610,7 +610,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-c98cf6cb38-Pai-Rico-13---O-negocio-de-quem.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c98cf6cb38-Pai-Rico-13---O-negocio-de-quem.mp4",
@@ -619,13 +619,30 @@
             "duracao_segundos": 31.333
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18146132938518121",
+            "publish_iniciado_em": "2026-10-09T10:47:05-03:00",
+            "id": "18009933437972171",
+            "publicado_em": "2026-10-09T10:47:14-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1831835617947219",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-09T10:47:20-03:00",
+            "post_id_candidato": "1112329007964267",
+            "finish_em": "2026-10-09T10:47:24-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjExMTIzMjkwMTQ2MzA5MzM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1112329007964267",
+            "publicado_em": "2026-10-09T10:48:00-03:00"
+          },
+          "concluido_em": "2026-10-09T10:48:00-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-09T10:48:00-03:00"
     },
     {
       "id": "story-20261010-7948a778f1",
