@@ -1457,7 +1457,8 @@
         "asset": "reel-b2078c0a57-Antifragil-06---O-banqueiro-em-Dubai.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-b2078c0a57-Antifragil-06---O-banqueiro-em-Dubai.mp4",
         "sha256": "b2078c0a57ce6411d48be2f7f95fa9de9b5f042f71eeabc32169de8803e6b81b",
-        "tamanho_bytes": 5598990
+        "tamanho_bytes": 5598990,
+        "removido_da_release_em": "2026-10-09T19:11:16.909089-03:00"
       },
       "instagram": {
         "legenda": "Um homem com cara de banqueiro chegou num hotel em Dubai.\n\nE deixou um carregador levar as malas dele.\n\nEssa lição está no livro Antifrágil.\n\nIsso tem nome: lei de Wolff, de um cirurgião alemão.\n\nE o homem pagou justamente pra fugir do tranco que ia buscar na academia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
