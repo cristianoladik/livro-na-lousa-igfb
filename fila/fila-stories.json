@@ -2455,6 +2455,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261208-a5a8acfbc3",
+      "data": "2026-12-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 11 - As amigdalas de Nova York.mp4",
+        "sha256": "a5a8acfbc3ad926474240f4e726d93053e6d2441ac60ee65e4cbe66dfac5e1e1",
+        "pacote": "Antifragil 11 - As amigdalas de Nova York",
+        "pacote_id": "story-a5a8acfbc3ad"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-a5a8acfbc3-Antifragil-11---As-amigdalas-de-Nova-York.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-a5a8acfbc3-Antifragil-11---As-amigdalas-de-Nova-York.mp4",
+            "sha256": "a5a8acfbc3ad926474240f4e726d93053e6d2441ac60ee65e4cbe66dfac5e1e1",
+            "tamanho_bytes": 5863532,
+            "duracao_segundos": 34.583
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
