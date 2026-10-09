@@ -1388,7 +1388,7 @@
       "id": "reel-20261009-1100-c2cf9b0a10",
       "data": "2026-10-09",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 05 - Consorcio ou financiamento.mp4",
         "sha256": "c2cf9b0a10b970f265d057eb5a874b802c91d659854db911487c98da11d1b42d"
@@ -1401,12 +1401,17 @@
       },
       "instagram": {
         "legenda": "Consórcio ou financiamento?\n\nMuita gente escolhe só pelo nome.\n\nO livro Crédito Vale Mais que Dinheiro compara os dois com calma.\n\nA lição do livro é simples: coloca as duas opções lado a lado antes de decidir.\n\nE não escolhe pela que soa mais bonita.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18396802330162659",
+        "publicado_em": "2026-10-09T11:11:15.427851-03:00"
       },
       "facebook": {
         "legenda": "Consórcio ou financiamento?\n\nMuita gente escolhe só pelo nome.\n\nO livro Crédito Vale Mais que Dinheiro compara os dois com calma.\n\nA lição do livro é simples: coloca as duas opções lado a lado antes de decidir.\n\nE não escolhe pela que soa mais bonita.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4454018714909940",
+        "publicado_em": "2026-10-09T11:11:26.072751-03:00"
+      },
+      "concluido_em": "2026-10-09T11:11:26.083496-03:00"
     },
     {
       "id": "reel-20261009-1400-8121f2b18c",
