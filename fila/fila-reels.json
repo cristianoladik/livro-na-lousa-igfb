@@ -1448,7 +1448,7 @@
       "id": "reel-20261009-1700-b2078c0a57",
       "data": "2026-10-09",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 06 - O banqueiro em Dubai.mp4",
         "sha256": "b2078c0a57ce6411d48be2f7f95fa9de9b5f042f71eeabc32169de8803e6b81b"
@@ -1461,12 +1461,17 @@
       },
       "instagram": {
         "legenda": "Um homem com cara de banqueiro chegou num hotel em Dubai.\n\nE deixou um carregador levar as malas dele.\n\nEssa lição está no livro Antifrágil.\n\nIsso tem nome: lei de Wolff, de um cirurgião alemão.\n\nE o homem pagou justamente pra fugir do tranco que ia buscar na academia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18099545915310177",
+        "publicado_em": "2026-10-09T19:11:04.140088-03:00"
       },
       "facebook": {
         "legenda": "Um homem com cara de banqueiro chegou num hotel em Dubai.\n\nE deixou um carregador levar as malas dele.\n\nEssa lição está no livro Antifrágil.\n\nIsso tem nome: lei de Wolff, de um cirurgião alemão.\n\nE o homem pagou justamente pra fugir do tranco que ia buscar na academia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "944192565004750",
+        "publicado_em": "2026-10-09T19:11:14.278994-03:00"
+      },
+      "concluido_em": "2026-10-09T19:11:14.289986-03:00"
     },
     {
       "id": "reel-20261009-2000-aa6974d1be",
