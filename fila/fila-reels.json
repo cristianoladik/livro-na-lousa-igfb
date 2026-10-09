@@ -1418,7 +1418,7 @@
       "id": "reel-20261009-1400-8121f2b18c",
       "data": "2026-10-09",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 05 - Do carro zero a casa de praia.mp4",
         "sha256": "8121f2b18cca59bdae895edabce1c72e7475cf8493248b3215301bc6b8098bb1"
@@ -1431,12 +1431,17 @@
       },
       "instagram": {
         "legenda": "Carro zero, casa própria, casa de praia.\n\nPra muita gente, isso é ficar rico.\n\nO livro Dinheiro, os Segredos de Quem Tem chama isso de problema cultural.\n\nDepois, casa de praia, casa de campo, clube e carros cada vez maiores.\n\nLá na frente, esses bens só cobram: imposto, manutenção e seguro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17937264114364381",
+        "publicado_em": "2026-10-09T14:43:29.087803-03:00"
       },
       "facebook": {
         "legenda": "Carro zero, casa própria, casa de praia.\n\nPra muita gente, isso é ficar rico.\n\nO livro Dinheiro, os Segredos de Quem Tem chama isso de problema cultural.\n\nDepois, casa de praia, casa de campo, clube e carros cada vez maiores.\n\nLá na frente, esses bens só cobram: imposto, manutenção e seguro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1768306021085242",
+        "publicado_em": "2026-10-09T14:43:38.946746-03:00"
+      },
+      "concluido_em": "2026-10-09T14:43:38.956058-03:00"
     },
     {
       "id": "reel-20261009-1700-b2078c0a57",
