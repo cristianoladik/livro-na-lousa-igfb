@@ -1358,7 +1358,7 @@
       "id": "reel-20261009-0800-6803b447dd",
       "data": "2026-10-09",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 05 - A febre do mercado.mp4",
         "sha256": "6803b447ddbdf655bfaf8b6720d9583d6fa2e14809960ea004102ec233426f18"
@@ -1371,12 +1371,17 @@
       },
       "instagram": {
         "legenda": "Ninguém sabe o que o mercado vai fazer amanhã.\n\nMas dá pra medir a febre dele hoje.\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nEntra na febre e foge no frio.\n\nPor isso paga caro na alta e vende barato na baixa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18024867062875220",
+        "publicado_em": "2026-10-09T10:06:22.866732-03:00"
       },
       "facebook": {
         "legenda": "Ninguém sabe o que o mercado vai fazer amanhã.\n\nMas dá pra medir a febre dele hoje.\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nEntra na febre e foge no frio.\n\nPor isso paga caro na alta e vende barato na baixa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1112953761433668",
+        "publicado_em": "2026-10-09T10:06:36.469012-03:00"
+      },
+      "concluido_em": "2026-10-09T10:06:36.477791-03:00"
     },
     {
       "id": "reel-20261009-1100-c2cf9b0a10",
