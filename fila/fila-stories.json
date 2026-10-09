@@ -616,7 +616,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c98cf6cb38-Pai-Rico-13---O-negocio-de-quem.mp4",
             "sha256": "c98cf6cb38ffd54b696c7ea195948bb410afdfb9e1570468ed00f36f5d0c03d8",
             "tamanho_bytes": 6844800,
-            "duracao_segundos": 31.333
+            "duracao_segundos": 31.333,
+            "removido_da_release_em": "2026-10-09T10:48:03.834239-03:00"
           },
           "instagram": {
             "status": "publicado",
