@@ -1328,7 +1328,7 @@
       "id": "reel-20261008-2000-0ebf564624",
       "data": "2026-10-08",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 05 - O desligado.mp4",
         "sha256": "0ebf564624b3e72ea6e64eebbe9a41d8956c6bb0a2a81d4f556e6f50db11b2cd"
@@ -1341,12 +1341,17 @@
       },
       "instagram": {
         "legenda": "Tem gente que gasta menos do que ganha e mesmo assim tem um problema.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o perfil desligado.\n\nA boa notícia: casado com um poupador, quase não tem briga.\n\nO desligado costuma concordar que é preciso poupar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18010081643994550",
+        "publicado_em": "2026-10-08T21:18:11.663810-03:00"
       },
       "facebook": {
         "legenda": "Tem gente que gasta menos do que ganha e mesmo assim tem um problema.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o perfil desligado.\n\nA boa notícia: casado com um poupador, quase não tem briga.\n\nO desligado costuma concordar que é preciso poupar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1427260866048879",
+        "publicado_em": "2026-10-08T21:18:19.697535-03:00"
+      },
+      "concluido_em": "2026-10-08T21:18:19.708023-03:00"
     },
     {
       "id": "reel-20261009-0800-6803b447dd",
