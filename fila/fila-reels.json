@@ -1478,7 +1478,7 @@
       "id": "reel-20261009-2000-aa6974d1be",
       "data": "2026-10-09",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "aa6974d1be65d6e3687300e4c483d8734613da31ff351a4c605fcbf9563477c3"
@@ -1491,12 +1491,17 @@
       },
       "instagram": {
         "legenda": "Seu parente já pediu dinheiro emprestado pra abrir um negócio?\n\nNo livro O Homem Mais Rico da Babilônia, um emprestador de ouro dá um conselho de cem anos: antes de emprestar, veja se existe um jeito seguro de o dinheiro voltar.\n\nQuer ajudar a família?\n\nÓtimo, mas procure outro jeito que não seja arriscar o que você levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18100317608378653",
+        "publicado_em": "2026-10-09T20:27:56.304426-03:00"
       },
       "facebook": {
         "legenda": "Seu parente já pediu dinheiro emprestado pra abrir um negócio?\n\nNo livro O Homem Mais Rico da Babilônia, um emprestador de ouro dá um conselho de cem anos: antes de emprestar, veja se existe um jeito seguro de o dinheiro voltar.\n\nQuer ajudar a família?\n\nÓtimo, mas procure outro jeito que não seja arriscar o que você levou anos pra juntar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1143156248666373",
+        "publicado_em": "2026-10-09T20:28:06.159488-03:00"
+      },
+      "concluido_em": "2026-10-09T20:28:06.166588-03:00"
     },
     {
       "id": "reel-20261010-0800-48a5c3ed27",
