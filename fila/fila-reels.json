@@ -1508,7 +1508,7 @@
       "id": "reel-20261010-0800-48a5c3ed27",
       "data": "2026-10-10",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 06 - O financista.mp4",
         "sha256": "48a5c3ed27c870ff2214465ecfab86f3e27d4d356742e6193effcc795a21c046"
@@ -1521,12 +1521,17 @@
       },
       "instagram": {
         "legenda": "Tem um perfil que entende de juros, de inflação e de onde colocar cada real.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o financista.\n\nCom um parceiro desligado, ele assume as contas sem ninguém atrapalhar.\n\nDesde que não vire um controlador, esse casal tende ao sucesso.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17949860115337715",
+        "publicado_em": "2026-10-10T09:17:40.965521-03:00"
       },
       "facebook": {
         "legenda": "Tem um perfil que entende de juros, de inflação e de onde colocar cada real.\n\nNo livro Casais Inteligentes Enriquecem Juntos, esse é o financista.\n\nCom um parceiro desligado, ele assume as contas sem ninguém atrapalhar.\n\nDesde que não vire um controlador, esse casal tende ao sucesso.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1675389904109332",
+        "publicado_em": "2026-10-10T09:17:49.320911-03:00"
+      },
+      "concluido_em": "2026-10-10T09:17:49.331668-03:00"
     },
     {
       "id": "reel-20261010-1100-0cc701dd86",
