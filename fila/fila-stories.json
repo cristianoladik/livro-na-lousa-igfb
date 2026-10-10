@@ -2504,6 +2504,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261209-efdaa0dc19",
+      "data": "2026-12-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 11 - Quem paga suas contas no futuro.mp4",
+        "sha256": "efdaa0dc19c1880e1d6c4856ba5ba96c51890304be082d605f66d435015b57fa",
+        "pacote": "Babilonia 11 - Quem paga suas contas no futuro",
+        "pacote_id": "story-efdaa0dc19c1"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-efdaa0dc19-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-efdaa0dc19-Babilonia-11---Quem-paga-suas-contas-no-futuro.mp4",
+            "sha256": "efdaa0dc19c1880e1d6c4856ba5ba96c51890304be082d605f66d435015b57fa",
+            "tamanho_bytes": 4405656,
+            "duracao_segundos": 30.583
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
