@@ -649,7 +649,7 @@
       "id": "story-20261010-7948a778f1",
       "data": "2026-10-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 14 - O decimo terceiro.mp4",
         "sha256": "7948a778f1b43acb39e93c87e0f95522957b159ed2169abe5a0956f6da0c1428",
@@ -659,7 +659,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7948a778f1-Pai-Rico-14---O-decimo-terceiro.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7948a778f1-Pai-Rico-14---O-decimo-terceiro.mp4",
@@ -668,13 +668,30 @@
             "duracao_segundos": 28.367
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18146411119518121",
+            "publish_iniciado_em": "2026-10-10T09:15:56-03:00",
+            "id": "18107376649963692",
+            "publicado_em": "2026-10-10T09:16:04-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "28507214448899845",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-10T09:16:13-03:00",
+            "post_id_candidato": "1621677132577271",
+            "finish_em": "2026-10-10T09:16:18-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE2MjE2NzcxMzU5MTA2MDQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1621677132577271",
+            "publicado_em": "2026-10-10T09:16:54-03:00"
+          },
+          "concluido_em": "2026-10-10T09:16:54-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-10T09:16:54-03:00"
     },
     {
       "id": "story-20261011-afb4879639",
