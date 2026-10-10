@@ -1538,7 +1538,7 @@
       "id": "reel-20261010-1100-0cc701dd86",
       "data": "2026-10-10",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 06 - Quando ponto com valia fortunas.mp4",
         "sha256": "0cc701dd860e85d9a224fc6def54a7e259f86e66249c3880c3e0c62951b7af37"
@@ -1551,12 +1551,17 @@
       },
       "instagram": {
         "legenda": "Teve uma época em que bastava colocar ponto com no nome pra empresa valer uma fortuna.\n\nMesmo sem lucro nenhum.\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nPro livro, essa frase é um alarme.\n\nQuando alguém disser isso perto de você, lembra do ponto com.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18041554484832003",
+        "publicado_em": "2026-10-10T11:11:05.181205-03:00"
       },
       "facebook": {
         "legenda": "Teve uma época em que bastava colocar ponto com no nome pra empresa valer uma fortuna.\n\nMesmo sem lucro nenhum.\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nPro livro, essa frase é um alarme.\n\nQuando alguém disser isso perto de você, lembra do ponto com.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1097273723232702",
+        "publicado_em": "2026-10-10T11:11:13.202983-03:00"
+      },
+      "concluido_em": "2026-10-10T11:11:13.213599-03:00"
     },
     {
       "id": "reel-20261010-1400-cd995fa151",
