@@ -665,7 +665,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7948a778f1-Pai-Rico-14---O-decimo-terceiro.mp4",
             "sha256": "7948a778f1b43acb39e93c87e0f95522957b159ed2169abe5a0956f6da0c1428",
             "tamanho_bytes": 6345119,
-            "duracao_segundos": 28.367
+            "duracao_segundos": 28.367,
+            "removido_da_release_em": "2026-10-10T09:16:56.558491-03:00"
           },
           "instagram": {
             "status": "publicado",
