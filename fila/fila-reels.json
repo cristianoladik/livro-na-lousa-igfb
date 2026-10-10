@@ -1598,7 +1598,7 @@
       "id": "reel-20261010-1700-51266765ca",
       "data": "2026-10-10",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 06 - O homem-holerite.mp4",
         "sha256": "51266765caf4462ecf84813a38afccda05b06295f05fd86d96f20e0cf2d1ee30"
@@ -1611,12 +1611,17 @@
       },
       "instagram": {
         "legenda": "Dá pra ter um milhão em bens e mesmo assim rebaixar a vida na aposentadoria.\n\nO exemplo tá no livro Dinheiro, os Segredos de Quem Tem.\n\nO autor chama essa pessoa de homem-holerite.\n\nAlguém que só corre atrás do próximo salário.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18426321979149218",
+        "publicado_em": "2026-10-10T19:11:20.530924-03:00"
       },
       "facebook": {
         "legenda": "Dá pra ter um milhão em bens e mesmo assim rebaixar a vida na aposentadoria.\n\nO exemplo tá no livro Dinheiro, os Segredos de Quem Tem.\n\nO autor chama essa pessoa de homem-holerite.\n\nAlguém que só corre atrás do próximo salário.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3360922157423135",
+        "publicado_em": "2026-10-10T19:11:31.642604-03:00"
+      },
+      "concluido_em": "2026-10-10T19:11:31.649727-03:00"
     },
     {
       "id": "reel-20261010-2000-7e7e75c1cd",
