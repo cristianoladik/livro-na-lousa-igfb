@@ -1628,7 +1628,7 @@
       "id": "reel-20261010-2000-7e7e75c1cd",
       "data": "2026-10-10",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 07 - Restaurantes, avioes e o Titanic.mp4",
         "sha256": "7e7e75c1cd0cbf011ed80768a31cad906399a2082be1f32ac0c9ec31e5aa6957"
@@ -1641,12 +1641,17 @@
       },
       "instagram": {
         "legenda": "Cada restaurante é frágil.\n\nCompete com os outros, erra e fecha.\n\nEssa lição está no livro Antifrágil.\n\nJá com banco é o contrário: um tá amarrado no outro.\n\nCada banco que quebra deixa a quebra do próximo mais provável.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18131008783689373",
+        "publicado_em": "2026-10-10T21:52:55.155257-03:00"
       },
       "facebook": {
         "legenda": "Cada restaurante é frágil.\n\nCompete com os outros, erra e fecha.\n\nEssa lição está no livro Antifrágil.\n\nJá com banco é o contrário: um tá amarrado no outro.\n\nCada banco que quebra deixa a quebra do próximo mais provável.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2421082161757898",
+        "publicado_em": "2026-10-10T21:53:03.660513-03:00"
+      },
+      "concluido_em": "2026-10-10T21:53:03.671212-03:00"
     },
     {
       "id": "reel-20261011-0800-3a3964934f",
