@@ -1748,7 +1748,7 @@
       "id": "reel-20261011-1700-f27e37805d",
       "data": "2026-10-11",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 07 - Financiamento e armadilha.mp4",
         "sha256": "f27e37805d47758a1af265bf7b20dc0db97f722ddeacb0c48b119f3804c58eb6"
@@ -1761,12 +1761,17 @@
       },
       "instagram": {
         "legenda": "Financiamento é armadilha cheia de juros escondidos.\n\nSerá mesmo?\n\nEsse é um dos mitos que o livro Crédito Vale Mais que Dinheiro tenta desmontar.\n\nQuem compara escolhe melhor.\n\nQuem não compara aceita a primeira oferta que aparece.\n\nPresta atenção nisso: o problema nunca foi a ferramenta.\n\nÉ usar sem ler o manual.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18166453858473376",
+        "publicado_em": "2026-10-11T19:12:16.417640-03:00"
       },
       "facebook": {
         "legenda": "Financiamento é armadilha cheia de juros escondidos.\n\nSerá mesmo?\n\nEsse é um dos mitos que o livro Crédito Vale Mais que Dinheiro tenta desmontar.\n\nQuem compara escolhe melhor.\n\nQuem não compara aceita a primeira oferta que aparece.\n\nPresta atenção nisso: o problema nunca foi a ferramenta.\n\nÉ usar sem ler o manual.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1494935635804741",
+        "publicado_em": "2026-10-11T19:12:26.067057-03:00"
+      },
+      "concluido_em": "2026-10-11T19:12:26.078026-03:00"
     },
     {
       "id": "reel-20261011-2000-c7e3603658",
