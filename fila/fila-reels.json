@@ -1697,7 +1697,8 @@
         "asset": "reel-cd482339f1-Casais-Inteligentes-07---Os-tres-apelidos-do-horoscopo.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-cd482339f1-Casais-Inteligentes-07---Os-tres-apelidos-do-horoscopo.mp4",
         "sha256": "cd482339f11162654d1fd28bc8685678574045c7d8c2d2bc10d3414dce7014b1",
-        "tamanho_bytes": 5001929
+        "tamanho_bytes": 5001929,
+        "removido_da_release_em": "2026-10-11T11:06:48.481616-03:00"
       },
       "instagram": {
         "legenda": "Existe um horóscopo que mostra o futuro financeiro do seu casal.\n\nEle tá no livro Casais Inteligentes Enriquecem Juntos.\n\nCasais do mesmo perfil vão a todo vapor, pro bem ou pro mal.\n\nMas nenhuma combinação é sentença.\n\nO que decide são as escolhas do casal.\n\nSegue a página pra ver mais livros assim: @livronalousa",
