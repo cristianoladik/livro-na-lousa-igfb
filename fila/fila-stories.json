@@ -698,7 +698,7 @@
       "id": "story-20261011-afb4879639",
       "data": "2026-10-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 15 - A ordem dos impostos.mp4",
         "sha256": "afb4879639b0c20f610b343ee8e094a3357ccab8fdedbe38a06fc25370f2a972",
@@ -708,7 +708,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-afb4879639-Pai-Rico-15---A-ordem-dos-impostos.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-afb4879639-Pai-Rico-15---A-ordem-dos-impostos.mp4",
@@ -717,13 +717,30 @@
             "duracao_segundos": 32.585
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18146738005518121",
+            "publish_iniciado_em": "2026-10-11T09:17:08-03:00",
+            "id": "17863360467694666",
+            "publicado_em": "2026-10-11T09:17:13-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1678817270624625",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-11T09:17:19-03:00",
+            "post_id_candidato": "936156362584499",
+            "finish_em": "2026-10-11T09:17:22-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjkzNjE1NjM2OTI1MTE2NQ==/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "936156362584499",
+            "publicado_em": "2026-10-11T09:18:28-03:00"
+          },
+          "concluido_em": "2026-10-11T09:18:28-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-11T09:18:28-03:00"
     },
     {
       "id": "story-20261012-3c1a93483a",
