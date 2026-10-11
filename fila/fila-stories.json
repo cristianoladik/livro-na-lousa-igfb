@@ -2553,6 +2553,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261210-1804ecde68",
+      "data": "2026-12-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 11 - A dupla do sucesso.mp4",
+        "sha256": "1804ecde68762a66147f6bce4222501aa6cc6ac168112d584e1d9c919a549b0f",
+        "pacote": "Casais Inteligentes 11 - A dupla do sucesso",
+        "pacote_id": "story-1804ecde6876"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1804ecde68-Casais-Inteligentes-11---A-dupla-do-sucesso.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-1804ecde68-Casais-Inteligentes-11---A-dupla-do-sucesso.mp4",
+            "sha256": "1804ecde68762a66147f6bce4222501aa6cc6ac168112d584e1d9c919a549b0f",
+            "tamanho_bytes": 5053321,
+            "duracao_segundos": 31.917
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
