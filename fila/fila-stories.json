@@ -714,7 +714,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-afb4879639-Pai-Rico-15---A-ordem-dos-impostos.mp4",
             "sha256": "afb4879639b0c20f610b343ee8e094a3357ccab8fdedbe38a06fc25370f2a972",
             "tamanho_bytes": 7675552,
-            "duracao_segundos": 32.585
+            "duracao_segundos": 32.585,
+            "removido_da_release_em": "2026-10-11T09:18:30.937286-03:00"
           },
           "instagram": {
             "status": "publicado",
