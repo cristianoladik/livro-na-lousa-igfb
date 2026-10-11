@@ -1688,7 +1688,7 @@
       "id": "reel-20261011-1100-cd482339f1",
       "data": "2026-10-11",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 07 - Os tres apelidos do horoscopo.mp4",
         "sha256": "cd482339f11162654d1fd28bc8685678574045c7d8c2d2bc10d3414dce7014b1"
@@ -1701,12 +1701,17 @@
       },
       "instagram": {
         "legenda": "Existe um horóscopo que mostra o futuro financeiro do seu casal.\n\nEle tá no livro Casais Inteligentes Enriquecem Juntos.\n\nCasais do mesmo perfil vão a todo vapor, pro bem ou pro mal.\n\nMas nenhuma combinação é sentença.\n\nO que decide são as escolhas do casal.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18130467044492716",
+        "publicado_em": "2026-10-11T11:06:35.540252-03:00"
       },
       "facebook": {
         "legenda": "Existe um horóscopo que mostra o futuro financeiro do seu casal.\n\nEle tá no livro Casais Inteligentes Enriquecem Juntos.\n\nCasais do mesmo perfil vão a todo vapor, pro bem ou pro mal.\n\nMas nenhuma combinação é sentença.\n\nO que decide são as escolhas do casal.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1541472624403421",
+        "publicado_em": "2026-10-11T11:06:45.654727-03:00"
+      },
+      "concluido_em": "2026-10-11T11:06:45.664002-03:00"
     },
     {
       "id": "reel-20261011-1400-7307825cc7",
