@@ -1727,7 +1727,8 @@
         "asset": "reel-7307825cc7-Ciclo-de-Mercado-07---Contrata-e-demite-em-ondas.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-7307825cc7-Ciclo-de-Mercado-07---Contrata-e-demite-em-ondas.mp4",
         "sha256": "7307825cc77ac3f326ce4aafc9f5cff2cc10784101011f9e8161783f590c134d",
-        "tamanho_bytes": 3992791
+        "tamanho_bytes": 3992791,
+        "removido_da_release_em": "2026-10-11T14:36:38.260480-03:00"
       },
       "instagram": {
         "legenda": "Por que a empresa contrata um monte num ano e demite um monte no outro?\n\nO livro Dominando o Ciclo de Mercado chama isso de ciclo dos lucros.\n\nPor isso esse ciclo mexe com o seu emprego, com o seu salário e com o preço das coisas.\n\nEntender a onda ajuda a não ser pego de surpresa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
