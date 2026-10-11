@@ -1718,7 +1718,7 @@
       "id": "reel-20261011-1400-7307825cc7",
       "data": "2026-10-11",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 07 - Contrata e demite em ondas.mp4",
         "sha256": "7307825cc77ac3f326ce4aafc9f5cff2cc10784101011f9e8161783f590c134d"
@@ -1731,12 +1731,17 @@
       },
       "instagram": {
         "legenda": "Por que a empresa contrata um monte num ano e demite um monte no outro?\n\nO livro Dominando o Ciclo de Mercado chama isso de ciclo dos lucros.\n\nPor isso esse ciclo mexe com o seu emprego, com o seu salário e com o preço das coisas.\n\nEntender a onda ajuda a não ser pego de surpresa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18110005301071755",
+        "publicado_em": "2026-10-11T14:36:26.922166-03:00"
       },
       "facebook": {
         "legenda": "Por que a empresa contrata um monte num ano e demite um monte no outro?\n\nO livro Dominando o Ciclo de Mercado chama isso de ciclo dos lucros.\n\nPor isso esse ciclo mexe com o seu emprego, com o seu salário e com o preço das coisas.\n\nEntender a onda ajuda a não ser pego de surpresa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2213689162691475",
+        "publicado_em": "2026-10-11T14:36:35.488492-03:00"
+      },
+      "concluido_em": "2026-10-11T14:36:35.499314-03:00"
     },
     {
       "id": "reel-20261011-1700-f27e37805d",
