@@ -1637,7 +1637,8 @@
         "asset": "reel-7e7e75c1cd-Antifragil-07---Restaurantes-avioes-e-o-Titanic.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-7e7e75c1cd-Antifragil-07---Restaurantes-avioes-e-o-Titanic.mp4",
         "sha256": "7e7e75c1cd0cbf011ed80768a31cad906399a2082be1f32ac0c9ec31e5aa6957",
-        "tamanho_bytes": 5643798
+        "tamanho_bytes": 5643798,
+        "removido_da_release_em": "2026-10-10T21:53:05.794112-03:00"
       },
       "instagram": {
         "legenda": "Cada restaurante é frágil.\n\nCompete com os outros, erra e fecha.\n\nEssa lição está no livro Antifrágil.\n\nJá com banco é o contrário: um tá amarrado no outro.\n\nCada banco que quebra deixa a quebra do próximo mais provável.\n\nSegue a página pra ver mais livros assim: @livronalousa",
