@@ -763,7 +763,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-3c1a93483a-Pai-Rico-16---Comprar-na-crise.mp4",
             "sha256": "3c1a93483a9f6fe23ecc8b26053c14aaf098fcfc997e00e00f2b16e05949141b",
             "tamanho_bytes": 7474927,
-            "duracao_segundos": 31.233
+            "duracao_segundos": 31.233,
+            "removido_da_release_em": "2026-10-12T09:18:10.217508-03:00"
           },
           "instagram": {
             "status": "publicado",
