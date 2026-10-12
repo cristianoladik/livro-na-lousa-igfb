@@ -1838,7 +1838,7 @@
       "id": "reel-20261012-1100-7935e52fd2",
       "data": "2026-10-12",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
         "sha256": "7935e52fd22496e53062ddf24de1b0abe3b2b479c010610b0d309c93b0000a26"
@@ -1851,12 +1851,17 @@
       },
       "instagram": {
         "legenda": "Cada moeda que você guarda pode virar uma funcionária sua.\n\nÉ a terceira regra do livro O Homem Mais Rico da Babilônia: faça o seu dinheiro trabalhar.\n\nDinheiro parado não cresce, mas dinheiro trabalhando traz outras moedas junto, e elas também começam a trabalhar.\n\nA pergunta é: quantas funcionárias você tem hoje, e quantas estão só paradas esperando?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18127200724848631",
+        "publicado_em": "2026-10-12T11:11:14.715905-03:00"
       },
       "facebook": {
         "legenda": "Cada moeda que você guarda pode virar uma funcionária sua.\n\nÉ a terceira regra do livro O Homem Mais Rico da Babilônia: faça o seu dinheiro trabalhar.\n\nDinheiro parado não cresce, mas dinheiro trabalhando traz outras moedas junto, e elas também começam a trabalhar.\n\nA pergunta é: quantas funcionárias você tem hoje, e quantas estão só paradas esperando?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1092376250446157",
+        "publicado_em": "2026-10-12T11:11:26.301073-03:00"
+      },
+      "concluido_em": "2026-10-12T11:11:26.311520-03:00"
     },
     {
       "id": "reel-20261012-1400-bd82b72198",
