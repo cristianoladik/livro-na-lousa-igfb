@@ -1787,7 +1787,8 @@
         "asset": "reel-c7e3603658-Dinheiro-Segredos-07---O-que-e-se-aposentar.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-c7e3603658-Dinheiro-Segredos-07---O-que-e-se-aposentar.mp4",
         "sha256": "c7e360365882217cf73067e6852c8822a20c7af51f67dde0eabb08e0bafe14e5",
-        "tamanho_bytes": 6191354
+        "tamanho_bytes": 6191354,
+        "removido_da_release_em": "2026-10-11T22:14:11.909802-03:00"
       },
       "instagram": {
         "legenda": "Aposentadoria não é parar de trabalhar.\n\nQuem diz isso é o autor, no livro Dinheiro, os Segredos de Quem Tem.\n\nA gente vive bem mais que os nossos avós.\n\nE quem se aposenta aos sessenta e cinco pode viver décadas depois disso.\n\nSegue a página pra ver mais livros assim: @livronalousa",
