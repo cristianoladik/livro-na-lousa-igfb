@@ -1808,7 +1808,7 @@
       "id": "reel-20261012-0800-49759cabb4",
       "data": "2026-10-12",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 08 - John e George.mp4",
         "sha256": "49759cabb4c385f2363902575465fd6918f8eb0b483548321c149ec3123d8cfc"
@@ -1821,12 +1821,17 @@
       },
       "instagram": {
         "legenda": "Dois irmãos gêmeos ganham quase o mesmo por ano.\n\nO John trabalha há vinte e cinco anos num grande banco.\n\nEssa lição está no livro Antifrágil.\n\nNo quadro: a linha do John é reta, até cair num buraco.\n\nA do George sobe e desce, mas nunca vai a zero.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18063457931539914",
+        "publicado_em": "2026-10-12T09:16:04.459062-03:00"
       },
       "facebook": {
         "legenda": "Dois irmãos gêmeos ganham quase o mesmo por ano.\n\nO John trabalha há vinte e cinco anos num grande banco.\n\nEssa lição está no livro Antifrágil.\n\nNo quadro: a linha do John é reta, até cair num buraco.\n\nA do George sobe e desce, mas nunca vai a zero.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "948848251637125",
+        "publicado_em": "2026-10-12T09:16:13.424157-03:00"
+      },
+      "concluido_em": "2026-10-12T09:16:13.431191-03:00"
     },
     {
       "id": "reel-20261012-1100-7935e52fd2",
