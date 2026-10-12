@@ -1868,7 +1868,7 @@
       "id": "reel-20261012-1400-bd82b72198",
       "data": "2026-10-12",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 08 - Poupador com gastador.mp4",
         "sha256": "bd82b7219859373eb0da6e91dc0f24cc98e045d093c9216edfb5a6c50be30837"
@@ -1881,12 +1881,17 @@
       },
       "instagram": {
         "legenda": "Um quer guardar.\n\nO outro quer gastar.\n\nE os dois são casados.\n\nNo livro Casais Inteligentes Enriquecem Juntos, essa é a combinação mais difícil.\n\nOs dois fazem, juntos, um curso de planejamento financeiro.\n\nAprendendo juntos, os dois passam a falar a mesma língua.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18098718041410442",
+        "publicado_em": "2026-10-12T14:45:15.204637-03:00"
       },
       "facebook": {
         "legenda": "Um quer guardar.\n\nO outro quer gastar.\n\nE os dois são casados.\n\nNo livro Casais Inteligentes Enriquecem Juntos, essa é a combinação mais difícil.\n\nOs dois fazem, juntos, um curso de planejamento financeiro.\n\nAprendendo juntos, os dois passam a falar a mesma língua.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1909649300442685",
+        "publicado_em": "2026-10-12T14:45:26.024603-03:00"
+      },
+      "concluido_em": "2026-10-12T14:45:26.031454-03:00"
     },
     {
       "id": "reel-20261012-1700-4e790b36f8",
