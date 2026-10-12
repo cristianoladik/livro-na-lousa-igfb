@@ -2602,6 +2602,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261211-57b5176749",
+      "data": "2026-12-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 11 - A cristaleira.mp4",
+        "sha256": "57b51767499dd6464bfd893413a99b35a8dae0ec7855bb301255bd564aeb684f",
+        "pacote": "Dinheiro Segredos 11 - A cristaleira",
+        "pacote_id": "story-57b51767499d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-57b5176749-Dinheiro-Segredos-11---A-cristaleira.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-57b5176749-Dinheiro-Segredos-11---A-cristaleira.mp4",
+            "sha256": "57b51767499dd6464bfd893413a99b35a8dae0ec7855bb301255bd564aeb684f",
+            "tamanho_bytes": 6048817,
+            "duracao_segundos": 33.583
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
