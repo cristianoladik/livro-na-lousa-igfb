@@ -1778,7 +1778,7 @@
       "id": "reel-20261011-2000-c7e3603658",
       "data": "2026-10-11",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 07 - O que e se aposentar.mp4",
         "sha256": "c7e360365882217cf73067e6852c8822a20c7af51f67dde0eabb08e0bafe14e5"
@@ -1791,12 +1791,17 @@
       },
       "instagram": {
         "legenda": "Aposentadoria não é parar de trabalhar.\n\nQuem diz isso é o autor, no livro Dinheiro, os Segredos de Quem Tem.\n\nA gente vive bem mais que os nossos avós.\n\nE quem se aposenta aos sessenta e cinco pode viver décadas depois disso.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18020491202928288",
+        "publicado_em": "2026-10-11T22:13:59.583455-03:00"
       },
       "facebook": {
         "legenda": "Aposentadoria não é parar de trabalhar.\n\nQuem diz isso é o autor, no livro Dinheiro, os Segredos de Quem Tem.\n\nA gente vive bem mais que os nossos avós.\n\nE quem se aposenta aos sessenta e cinco pode viver décadas depois disso.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2645499545887733",
+        "publicado_em": "2026-10-11T22:14:09.479197-03:00"
+      },
+      "concluido_em": "2026-10-11T22:14:09.490030-03:00"
     },
     {
       "id": "reel-20261012-0800-49759cabb4",
