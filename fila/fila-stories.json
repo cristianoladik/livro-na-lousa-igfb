@@ -747,7 +747,7 @@
       "id": "story-20261012-3c1a93483a",
       "data": "2026-10-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 16 - Comprar na crise.mp4",
         "sha256": "3c1a93483a9f6fe23ecc8b26053c14aaf098fcfc997e00e00f2b16e05949141b",
@@ -757,7 +757,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-3c1a93483a-Pai-Rico-16---Comprar-na-crise.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-3c1a93483a-Pai-Rico-16---Comprar-na-crise.mp4",
@@ -766,13 +766,30 @@
             "duracao_segundos": 31.233
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18147064186518121",
+            "publish_iniciado_em": "2026-10-12T09:17:07-03:00",
+            "id": "17993559524848650",
+            "publicado_em": "2026-10-12T09:17:15-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1647496007040617",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-12T09:17:23-03:00",
+            "post_id_candidato": "3001262333600040",
+            "finish_em": "2026-10-12T09:17:28-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjMwMDEyNjIzMzY5MzMzNzM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "3001262333600040",
+            "publicado_em": "2026-10-12T09:18:06-03:00"
+          },
+          "concluido_em": "2026-10-12T09:18:06-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-12T09:18:06-03:00"
     },
     {
       "id": "story-20261013-f9f469ca40",
