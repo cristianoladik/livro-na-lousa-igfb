@@ -1877,7 +1877,8 @@
         "asset": "reel-bd82b72198-Casais-Inteligentes-08---Poupador-com-gastador.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-bd82b72198-Casais-Inteligentes-08---Poupador-com-gastador.mp4",
         "sha256": "bd82b7219859373eb0da6e91dc0f24cc98e045d093c9216edfb5a6c50be30837",
-        "tamanho_bytes": 6259448
+        "tamanho_bytes": 6259448,
+        "removido_da_release_em": "2026-10-12T14:45:28.377440-03:00"
       },
       "instagram": {
         "legenda": "Um quer guardar.\n\nO outro quer gastar.\n\nE os dois são casados.\n\nNo livro Casais Inteligentes Enriquecem Juntos, essa é a combinação mais difícil.\n\nOs dois fazem, juntos, um curso de planejamento financeiro.\n\nAprendendo juntos, os dois passam a falar a mesma língua.\n\nSegue a página pra ver mais livros assim: @livronalousa",
