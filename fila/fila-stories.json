@@ -2651,6 +2651,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261212-2080581e5c",
+      "data": "2026-12-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Antifragil 12 - O incendio e o tapete.mp4",
+        "sha256": "2080581e5c217e37fe4e18d60e6bf8c16a8451a4ec6e1ea6ed18a781ed82f5fd",
+        "pacote": "Antifragil 12 - O incendio e o tapete",
+        "pacote_id": "story-2080581e5c21"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-2080581e5c-Antifragil-12---O-incendio-e-o-tapete.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-2080581e5c-Antifragil-12---O-incendio-e-o-tapete.mp4",
+            "sha256": "2080581e5c217e37fe4e18d60e6bf8c16a8451a4ec6e1ea6ed18a781ed82f5fd",
+            "tamanho_bytes": 4708772,
+            "duracao_segundos": 34.36
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
