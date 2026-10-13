@@ -1958,7 +1958,7 @@
       "id": "reel-20261013-0800-f10ca313c7",
       "data": "2026-10-13",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 08 - O Milionario Mora ao Lado.mp4",
         "sha256": "f10ca313c798053d79a3156675eb060f0a58a5dc27b0421b753a2a1faa9775d5"
@@ -1971,12 +1971,17 @@
       },
       "instagram": {
         "legenda": "O milionário pode morar do seu lado e andar de carro usado.\n\nO livro Dinheiro, os Segredos de Quem Tem cita um estudo sobre isso.\n\nMuitos desses milionários compram carro usado.\n\nPro autor, riqueza não é ter bens pra mostrar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17925579171200156",
+        "publicado_em": "2026-10-13T08:21:07.439761-03:00"
       },
       "facebook": {
         "legenda": "O milionário pode morar do seu lado e andar de carro usado.\n\nO livro Dinheiro, os Segredos de Quem Tem cita um estudo sobre isso.\n\nMuitos desses milionários compram carro usado.\n\nPro autor, riqueza não é ter bens pra mostrar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1861555705257136",
+        "publicado_em": "2026-10-13T08:21:15.796140-03:00"
+      },
+      "concluido_em": "2026-10-13T08:21:15.807340-03:00"
     },
     {
       "id": "reel-20261013-1100-87730e4b40",
