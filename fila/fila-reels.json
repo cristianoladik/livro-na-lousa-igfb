@@ -2048,7 +2048,7 @@
       "id": "reel-20261013-1700-0249553890",
       "data": "2026-10-13",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 09 - Gastador com descontrolado.mp4",
         "sha256": "0249553890ee8d5e7d21835df441379c318a4f95a23d4759d106e9a738b27912"
@@ -2061,12 +2061,17 @@
       },
       "instagram": {
         "legenda": "Tem uma combinação de casal que vai a todo vapor pra separação.\n\nEla tá no horóscopo financeiro do livro Casais Inteligentes Enriquecem Juntos.\n\nA todo vapor pra separação.\n\nA saída começa com os dois olhando a mesma conta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17967585288190239",
+        "publicado_em": "2026-10-13T17:12:29.205303-03:00"
       },
       "facebook": {
         "legenda": "Tem uma combinação de casal que vai a todo vapor pra separação.\n\nEla tá no horóscopo financeiro do livro Casais Inteligentes Enriquecem Juntos.\n\nA todo vapor pra separação.\n\nA saída começa com os dois olhando a mesma conta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1910286263266897",
+        "publicado_em": "2026-10-13T17:12:44.038283-03:00"
+      },
+      "concluido_em": "2026-10-13T17:12:44.047726-03:00"
     },
     {
       "id": "reel-20261013-2000-e3875e8131",
