@@ -1988,7 +1988,7 @@
       "id": "reel-20261013-1100-87730e4b40",
       "data": "2026-10-13",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 09 - O burro de Buridan.mp4",
         "sha256": "87730e4b40fa8db12b1820219464deca3fcb773f5a5e986b5daef4c2d44d8de1"
@@ -2001,12 +2001,17 @@
       },
       "instagram": {
         "legenda": "Um burro com a mesma fome e a mesma sede.\n\nParado bem no meio entre o feno e a água.\n\nEssa lição está no livro Antifrágil.\n\nE isso sai caro.\n\nUm pouco de bagunça pode ser o empurrão que falta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18150301420599589",
+        "publicado_em": "2026-10-13T11:03:56.699375-03:00"
       },
       "facebook": {
         "legenda": "Um burro com a mesma fome e a mesma sede.\n\nParado bem no meio entre o feno e a água.\n\nEssa lição está no livro Antifrágil.\n\nE isso sai caro.\n\nUm pouco de bagunça pode ser o empurrão que falta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1460585192635572",
+        "publicado_em": "2026-10-13T11:04:10.744739-03:00"
+      },
+      "concluido_em": "2026-10-13T11:04:10.756061-03:00"
     },
     {
       "id": "reel-20261013-1400-774ac65852",
