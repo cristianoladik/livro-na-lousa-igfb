@@ -2018,7 +2018,7 @@
       "id": "reel-20261013-1400-774ac65852",
       "data": "2026-10-13",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 09 - Lucro facil e armadilha.mp4",
         "sha256": "774ac65852e727b3008c67a32dd12622e7b1f7b5ded7e4ce599d2b4ece628b23"
@@ -2031,12 +2031,17 @@
       },
       "instagram": {
         "legenda": "Já te prometeram lucro fácil e rápido?\n\nPresta atenção.\n\nO livro O Homem Mais Rico da Babilônia ensina a proteger o seu dinheiro de perdas antes de pensar em ganhar muito, porque perder é fácil e recuperar é difícil.\n\nPromessa de lucro fácil, quase sempre, é armadilha.\n\nDevagar e sempre ganha de rápido e quebrado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18117796375783760",
+        "publicado_em": "2026-10-13T15:24:14.919375-03:00"
       },
       "facebook": {
         "legenda": "Já te prometeram lucro fácil e rápido?\n\nPresta atenção.\n\nO livro O Homem Mais Rico da Babilônia ensina a proteger o seu dinheiro de perdas antes de pensar em ganhar muito, porque perder é fácil e recuperar é difícil.\n\nPromessa de lucro fácil, quase sempre, é armadilha.\n\nDevagar e sempre ganha de rápido e quebrado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2705282219987651",
+        "publicado_em": "2026-10-13T15:24:25.152198-03:00"
+      },
+      "concluido_em": "2026-10-13T15:24:25.163291-03:00"
     },
     {
       "id": "reel-20261013-1700-0249553890",
