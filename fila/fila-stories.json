@@ -796,7 +796,7 @@
       "id": "story-20261013-f9f469ca40",
       "data": "2026-10-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 17 - Garimpar oportunidade.mp4",
         "sha256": "f9f469ca40d960500e7b8325d9f2889aa04a8fa2c494f7d927781612395f8643",
@@ -806,7 +806,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f9f469ca40-Pai-Rico-17---Garimpar-oportunidade.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f9f469ca40-Pai-Rico-17---Garimpar-oportunidade.mp4",
@@ -815,13 +815,30 @@
             "duracao_segundos": 32.09
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18147339412518121",
+            "publish_iniciado_em": "2026-10-13T09:16:11-03:00",
+            "id": "18112412015032623",
+            "publicado_em": "2026-10-13T09:16:18-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2363220397780359",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-13T09:16:28-03:00",
+            "post_id_candidato": "2879893112389332",
+            "finish_em": "2026-10-13T09:16:33-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjI4Nzk4OTMxMTkwNTU5OTg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2879893112389332",
+            "publicado_em": "2026-10-13T09:17:10-03:00"
+          },
+          "concluido_em": "2026-10-13T09:17:10-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-13T09:17:10-03:00"
     },
     {
       "id": "story-20261014-1df511652f",
