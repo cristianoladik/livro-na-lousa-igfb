@@ -812,7 +812,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f9f469ca40-Pai-Rico-17---Garimpar-oportunidade.mp4",
             "sha256": "f9f469ca40d960500e7b8325d9f2889aa04a8fa2c494f7d927781612395f8643",
             "tamanho_bytes": 9317525,
-            "duracao_segundos": 32.09
+            "duracao_segundos": 32.09,
+            "removido_da_release_em": "2026-10-13T09:17:12.521553-03:00"
           },
           "instagram": {
             "status": "publicado",
