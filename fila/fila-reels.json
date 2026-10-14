@@ -2078,7 +2078,7 @@
       "id": "reel-20261013-2000-e3875e8131",
       "data": "2026-10-13",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 09 - A onda dos imoveis.mp4",
         "sha256": "e3875e8131fda9b8e13644a40819576edee87a44d18596e77acf39651cca75ee"
@@ -2091,12 +2091,17 @@
       },
       "instagram": {
         "legenda": "Tem época que sobra apartamento vazio, e tem época que falta.\n\nIsso não é acaso.\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nE essa é a resposta prometida: o tempo de obra.\n\nA decisão de construir é tomada num clima, e o prédio fica pronto em outro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18073418813756706",
+        "publicado_em": "2026-10-13T22:08:58.498644-03:00"
       },
       "facebook": {
         "legenda": "Tem época que sobra apartamento vazio, e tem época que falta.\n\nIsso não é acaso.\n\nEssa lição está no livro Dominando o Ciclo de Mercado.\n\nE essa é a resposta prometida: o tempo de obra.\n\nA decisão de construir é tomada num clima, e o prédio fica pronto em outro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2966518150379477",
+        "publicado_em": "2026-10-13T22:09:10.196154-03:00"
+      },
+      "concluido_em": "2026-10-13T22:09:10.207394-03:00"
     },
     {
       "id": "reel-20261014-0800-549e884e4c",
