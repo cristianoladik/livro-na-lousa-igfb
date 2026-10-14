@@ -845,7 +845,7 @@
       "id": "story-20261014-1df511652f",
       "data": "2026-10-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 18 - O timido que foi vender.mp4",
         "sha256": "1df511652fb82cb6b2005c77e36c7cc041ec57f52659f565a15437dbed989b50",
@@ -855,7 +855,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-1df511652f-Pai-Rico-18---O-timido-que-foi-vender.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-1df511652f-Pai-Rico-18---O-timido-que-foi-vender.mp4",
@@ -864,13 +864,30 @@
             "duracao_segundos": 28.26
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18147623275518121",
+            "publish_iniciado_em": "2026-10-14T09:16:09-03:00",
+            "id": "17919509910244778",
+            "publicado_em": "2026-10-14T09:16:17-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1133847799175533",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-14T09:16:24-03:00",
+            "post_id_candidato": "1571875220915500",
+            "finish_em": "2026-10-14T09:16:29-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE1NzE4NzUyMzA5MTU0OTk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1571875220915500",
+            "publicado_em": "2026-10-14T09:17:05-03:00"
+          },
+          "concluido_em": "2026-10-14T09:17:05-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-14T09:17:05-03:00"
     },
     {
       "id": "story-20261015-4b7f3bee8a",
