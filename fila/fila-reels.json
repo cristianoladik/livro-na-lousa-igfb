@@ -2138,7 +2138,7 @@
       "id": "reel-20261014-1100-096e98d5a3",
       "data": "2026-10-14",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 09 - O chiclete de troco.mp4",
         "sha256": "096e98d5a3c08618aad776daab7d810a4c3b846c39f1ac327e6822aa3409493a"
@@ -2151,12 +2151,17 @@
       },
       "instagram": {
         "legenda": "O chiclete que o caixa te dá de troco parece nada.\n\nMas o livro Dinheiro, os Segredos de Quem Tem faz a conta.\n\nO autor chama isso de desprezo pelos pequenos valores.\n\nÉ o primeiro dos quatro grandes erros das pessoas pobres.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17915679804464368",
+        "publicado_em": "2026-10-14T11:11:14.976085-03:00"
       },
       "facebook": {
         "legenda": "O chiclete que o caixa te dá de troco parece nada.\n\nMas o livro Dinheiro, os Segredos de Quem Tem faz a conta.\n\nO autor chama isso de desprezo pelos pequenos valores.\n\nÉ o primeiro dos quatro grandes erros das pessoas pobres.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1803609157631258",
+        "publicado_em": "2026-10-14T11:11:25.644337-03:00"
+      },
+      "concluido_em": "2026-10-14T11:11:25.655713-03:00"
     },
     {
       "id": "reel-20261014-1400-8d5eeec88a",
