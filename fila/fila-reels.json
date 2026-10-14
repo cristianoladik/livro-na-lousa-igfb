@@ -2168,7 +2168,7 @@
       "id": "reel-20261014-1400-8d5eeec88a",
       "data": "2026-10-14",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 10 - O peru dos mil dias.mp4",
         "sha256": "8d5eeec88a338caaee862c07948371a19c1597ab821687d16da730e7d00c45d4"
@@ -2181,12 +2181,17 @@
       },
       "instagram": {
         "legenda": "Um peru é alimentado todo dia, durante mil dias.\n\nE cada dia aumenta a certeza de que o açougueiro gosta dele.\n\nEssa lição está no livro Antifrágil.\n\nO mundo moderno tenta tirar o sobe e desce da vida.\n\nE a calmaria esconde o risco embaixo do tapete.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17933551866145506",
+        "publicado_em": "2026-10-14T14:57:46.283560-03:00"
       },
       "facebook": {
         "legenda": "Um peru é alimentado todo dia, durante mil dias.\n\nE cada dia aumenta a certeza de que o açougueiro gosta dele.\n\nEssa lição está no livro Antifrágil.\n\nO mundo moderno tenta tirar o sobe e desce da vida.\n\nE a calmaria esconde o risco embaixo do tapete.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "785218988019924",
+        "publicado_em": "2026-10-14T14:57:58.459482-03:00"
+      },
+      "concluido_em": "2026-10-14T14:57:58.470804-03:00"
     },
     {
       "id": "reel-20261014-1700-fd6669c58a",
