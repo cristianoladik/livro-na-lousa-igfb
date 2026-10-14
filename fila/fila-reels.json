@@ -2108,7 +2108,7 @@
       "id": "reel-20261014-0800-549e884e4c",
       "data": "2026-10-14",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 09 - Um imovel puxando o outro.mp4",
         "sha256": "549e884e4c9688d5b0171893d32f4070f0c77b3aef69af87d5df2b5ad415afe9"
@@ -2121,12 +2121,17 @@
       },
       "instagram": {
         "legenda": "Quase ninguém compra o segundo imóvel com dinheiro guardado.\n\nEssa é uma das ideias mais interessantes do livro Crédito Vale Mais que Dinheiro.\n\nSe for comprado com estudo, vira alicerce.\n\nE alicerce bem feito aguenta a casa que vier por cima.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18131331949819455",
+        "publicado_em": "2026-10-14T08:41:38.717725-03:00"
       },
       "facebook": {
         "legenda": "Quase ninguém compra o segundo imóvel com dinheiro guardado.\n\nEssa é uma das ideias mais interessantes do livro Crédito Vale Mais que Dinheiro.\n\nSe for comprado com estudo, vira alicerce.\n\nE alicerce bem feito aguenta a casa que vier por cima.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1105666572254711",
+        "publicado_em": "2026-10-14T08:41:49.873346-03:00"
+      },
+      "concluido_em": "2026-10-14T08:41:49.884834-03:00"
     },
     {
       "id": "reel-20261014-1100-096e98d5a3",
