@@ -2198,7 +2198,7 @@
       "id": "reel-20261014-1700-fd6669c58a",
       "data": "2026-10-14",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 10 - Tijolo e moeda forte.mp4",
         "sha256": "fd6669c58ac027b401c083699c6de3956bebfbc9b78aff47e08211e5e7b8b4ed"
@@ -2211,12 +2211,17 @@
       },
       "instagram": {
         "legenda": "Pagar aluguel a vida inteira é pagar a casa de outra pessoa.\n\nA quinta regra do livro O Homem Mais Rico da Babilônia ensina a fazer da sua casa um investimento: o dinheiro que ia embora todo mês vai virando patrimônio, e no fim das contas a casa é sua.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17970558108179073",
+        "publicado_em": "2026-10-14T18:15:46.281097-03:00"
       },
       "facebook": {
         "legenda": "Pagar aluguel a vida inteira é pagar a casa de outra pessoa.\n\nA quinta regra do livro O Homem Mais Rico da Babilônia ensina a fazer da sua casa um investimento: o dinheiro que ia embora todo mês vai virando patrimônio, e no fim das contas a casa é sua.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1622174482767827",
+        "publicado_em": "2026-10-14T18:15:56.122355-03:00"
+      },
+      "concluido_em": "2026-10-14T18:15:56.134260-03:00"
     },
     {
       "id": "reel-20261014-2000-8acbb5d6a2",
