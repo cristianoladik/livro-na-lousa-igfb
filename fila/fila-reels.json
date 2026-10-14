@@ -2241,11 +2241,16 @@
       },
       "instagram": {
         "legenda": "Tem casal que vai a todo vapor pra depender do governo, dos parentes e dos amigos.\n\nEsse apelido tá no livro Casais Inteligentes Enriquecem Juntos.\n\nE o patrimônio quase não cresce.\n\nNenhuma combinação é sentença, mas essa pede plano urgente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "erro",
+        "erro": "Meta HTTP 500: {\"error\":{\"message\":\"An unknown error has occurred.\",\"type\":\"OAuthException\",\"code\":1,\"fbtrace_id\":\"Ajvs3d37blTsPu7AEmqY88c\"}}",
+        "ultima_tentativa_em": "2026-10-14T20:58:05.278303-03:00",
+        "tentativas": 1
       },
       "facebook": {
         "legenda": "Tem casal que vai a todo vapor pra depender do governo, dos parentes e dos amigos.\n\nEsse apelido tá no livro Casais Inteligentes Enriquecem Juntos.\n\nE o patrimônio quase não cresce.\n\nNenhuma combinação é sentença, mas essa pede plano urgente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "2000347461370323",
+        "publicado_em": "2026-10-14T20:58:16.580334-03:00"
       }
     },
     {
