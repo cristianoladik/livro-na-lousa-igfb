@@ -2700,6 +2700,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261213-1a3eb59b8b",
+      "data": "2026-12-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 12 - Sabe mais ganha mais.mp4",
+        "sha256": "1a3eb59b8bb9ab49c6d5bd70db80aa13b3fd918c6f84bab4d71c4b1840f91ca7",
+        "pacote": "Babilonia 12 - Sabe mais ganha mais",
+        "pacote_id": "story-1a3eb59b8bb9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1a3eb59b8b-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-1a3eb59b8b-Babilonia-12---Sabe-mais-ganha-mais.mp4",
+            "sha256": "1a3eb59b8bb9ab49c6d5bd70db80aa13b3fd918c6f84bab4d71c4b1840f91ca7",
+            "tamanho_bytes": 4552414,
+            "duracao_segundos": 29.25
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
