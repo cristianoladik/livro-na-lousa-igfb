@@ -894,7 +894,7 @@
       "id": "story-20261015-4b7f3bee8a",
       "data": "2026-10-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 19 - Paga voce primeiro.mp4",
         "sha256": "4b7f3bee8ad3436c2c71b4bc8c7483ddb0b6db71c00e2908fa2dc63ed4fa4c15",
@@ -904,7 +904,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-4b7f3bee8a-Pai-Rico-19---Paga-voce-primeiro.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-4b7f3bee8a-Pai-Rico-19---Paga-voce-primeiro.mp4",
@@ -913,13 +913,30 @@
             "duracao_segundos": 28.867
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18147901285518121",
+            "publish_iniciado_em": "2026-10-15T09:16:08-03:00",
+            "id": "17928504798181053",
+            "publicado_em": "2026-10-15T09:16:16-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1709660444059532",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-15T09:16:22-03:00",
+            "post_id_candidato": "1478990097612753",
+            "finish_em": "2026-10-15T09:16:26-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE0Nzg5OTAxMDA5NDYwODY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1478990097612753",
+            "publicado_em": "2026-10-15T09:17:02-03:00"
+          },
+          "concluido_em": "2026-10-15T09:17:02-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-15T09:17:02-03:00"
     },
     {
       "id": "story-20261016-b33accef65",
