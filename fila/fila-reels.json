@@ -2290,7 +2290,7 @@
       "id": "reel-20261015-1100-5bdfcaf123",
       "data": "2026-10-15",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 10 - Dinheiro parado encolhe.mp4",
         "sha256": "5bdfcaf123ebb7586b37291cc64b135db32c3e237945f44d4db558865b83ecb6"
@@ -2303,12 +2303,17 @@
       },
       "instagram": {
         "legenda": "O dinheiro que você guarda com tanto esforço pode estar encolhendo agora mesmo.\n\nE você nem percebe.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nO ponto do livro é outro: dinheiro parado também tem risco, só que é um risco silencioso.\n\nEntão, a pergunta pra levar pra casa: o meu dinheiro está trabalhando a meu favor, ou só esperando o tempo passar?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18098531153555083",
+        "publicado_em": "2026-10-15T11:11:26.044253-03:00"
       },
       "facebook": {
         "legenda": "O dinheiro que você guarda com tanto esforço pode estar encolhendo agora mesmo.\n\nE você nem percebe.\n\nEssa lição está no livro Crédito Vale Mais que Dinheiro.\n\nO ponto do livro é outro: dinheiro parado também tem risco, só que é um risco silencioso.\n\nEntão, a pergunta pra levar pra casa: o meu dinheiro está trabalhando a meu favor, ou só esperando o tempo passar?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1408425811471186",
+        "publicado_em": "2026-10-15T11:11:38.728468-03:00"
+      },
+      "concluido_em": "2026-10-15T11:11:38.738081-03:00"
     },
     {
       "id": "reel-20261015-1400-6c21d8b80d",
