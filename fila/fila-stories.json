@@ -2749,6 +2749,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261214-c72127c82b",
+      "data": "2026-12-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 12 - O namoro.mp4",
+        "sha256": "c72127c82be59297331bbc392605c9fd6e15937ba2aaf54b8f79f33c179ce105",
+        "pacote": "Casais Inteligentes 12 - O namoro",
+        "pacote_id": "story-c72127c82be5"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-c72127c82b-Casais-Inteligentes-12---O-namoro.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c72127c82b-Casais-Inteligentes-12---O-namoro.mp4",
+            "sha256": "c72127c82be59297331bbc392605c9fd6e15937ba2aaf54b8f79f33c179ce105",
+            "tamanho_bytes": 4805780,
+            "duracao_segundos": 31.958
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
