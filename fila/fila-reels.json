@@ -2380,7 +2380,7 @@
       "id": "reel-20261015-2000-efdaa0dc19",
       "data": "2026-10-15",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 11 - Quem paga suas contas no futuro.mp4",
         "sha256": "efdaa0dc19c1880e1d6c4856ba5ba96c51890304be082d605f66d435015b57fa"
@@ -2393,12 +2393,17 @@
       },
       "instagram": {
         "legenda": "Um dia você vai parar de trabalhar.\n\nQuem paga as suas contas depois disso?\n\nA sexta regra do livro O Homem Mais Rico da Babilônia manda garantir renda pro futuro desde hoje, guardando um pouco todo mês e deixando esse dinheiro trabalhar por muitos anos.\n\nQuanto antes começa, menos precisa guardar por mês.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17878334043564037",
+        "publicado_em": "2026-10-15T20:15:34.610498-03:00"
       },
       "facebook": {
         "legenda": "Um dia você vai parar de trabalhar.\n\nQuem paga as suas contas depois disso?\n\nA sexta regra do livro O Homem Mais Rico da Babilônia manda garantir renda pro futuro desde hoje, guardando um pouco todo mês e deixando esse dinheiro trabalhar por muitos anos.\n\nQuanto antes começa, menos precisa guardar por mês.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2283914535798814",
+        "publicado_em": "2026-10-15T20:15:45.619976-03:00"
+      },
+      "concluido_em": "2026-10-15T20:15:45.631478-03:00"
     },
     {
       "id": "reel-20261016-0800-1804ecde68",
