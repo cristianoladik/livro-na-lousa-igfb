@@ -2320,7 +2320,7 @@
       "id": "reel-20261015-1400-6c21d8b80d",
       "data": "2026-10-15",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 10 - A nota de cinquenta.mp4",
         "sha256": "6c21d8b80dfdd59c2da12bc790a39cd745a61ec6f579e03c89aa064f4f114d45"
@@ -2333,12 +2333,17 @@
       },
       "instagram": {
         "legenda": "Uma nota de cinquenta dura mais na carteira do que cinco notas de dez.\n\nQuem repara nisso é o livro Dinheiro, os Segredos de Quem Tem.\n\nLembra de uma vez, nos últimos dez dias, em que você desperdiçou dinheiro.\n\nPerceber o erro já é um passo grande.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18096480452436604",
+        "publicado_em": "2026-10-15T14:50:40.347532-03:00"
       },
       "facebook": {
         "legenda": "Uma nota de cinquenta dura mais na carteira do que cinco notas de dez.\n\nQuem repara nisso é o livro Dinheiro, os Segredos de Quem Tem.\n\nLembra de uma vez, nos últimos dez dias, em que você desperdiçou dinheiro.\n\nPerceber o erro já é um passo grande.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1102850842529659",
+        "publicado_em": "2026-10-15T14:50:54.180852-03:00"
+      },
+      "concluido_em": "2026-10-15T14:50:54.192546-03:00"
     },
     {
       "id": "reel-20261015-1700-a5a8acfbc3",
