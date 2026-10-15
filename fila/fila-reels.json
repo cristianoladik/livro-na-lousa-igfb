@@ -2228,7 +2228,7 @@
       "id": "reel-20261014-2000-8acbb5d6a2",
       "data": "2026-10-14",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 10 - Descontrolado com desligado.mp4",
         "sha256": "8acbb5d6a28968d499477c9d966ccff164f1e9aa7cb854513dbebab1d7f26dfd"
@@ -2241,17 +2241,19 @@
       },
       "instagram": {
         "legenda": "Tem casal que vai a todo vapor pra depender do governo, dos parentes e dos amigos.\n\nEsse apelido tá no livro Casais Inteligentes Enriquecem Juntos.\n\nE o patrimônio quase não cresce.\n\nNenhuma combinação é sentença, mas essa pede plano urgente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "erro",
-        "erro": "Meta HTTP 500: {\"error\":{\"message\":\"An unknown error has occurred.\",\"type\":\"OAuthException\",\"code\":1,\"fbtrace_id\":\"Ajvs3d37blTsPu7AEmqY88c\"}}",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-14T20:58:05.278303-03:00",
-        "tentativas": 1
+        "tentativas": 1,
+        "id": "18146904385569151",
+        "publicado_em": "2026-10-14T21:28:01.483626-03:00"
       },
       "facebook": {
         "legenda": "Tem casal que vai a todo vapor pra depender do governo, dos parentes e dos amigos.\n\nEsse apelido tá no livro Casais Inteligentes Enriquecem Juntos.\n\nE o patrimônio quase não cresce.\n\nNenhuma combinação é sentença, mas essa pede plano urgente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
         "status": "publicado",
         "id": "2000347461370323",
         "publicado_em": "2026-10-14T20:58:16.580334-03:00"
-      }
+      },
+      "concluido_em": "2026-10-14T21:28:01.505841-03:00"
     },
     {
       "id": "reel-20261015-0800-e1870be63c",
