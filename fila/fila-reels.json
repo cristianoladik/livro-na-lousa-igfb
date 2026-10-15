@@ -2329,7 +2329,8 @@
         "asset": "reel-6c21d8b80d-Dinheiro-Segredos-10---A-nota-de-cinquenta.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-6c21d8b80d-Dinheiro-Segredos-10---A-nota-de-cinquenta.mp4",
         "sha256": "6c21d8b80dfdd59c2da12bc790a39cd745a61ec6f579e03c89aa064f4f114d45",
-        "tamanho_bytes": 6317817
+        "tamanho_bytes": 6317817,
+        "removido_da_release_em": "2026-10-15T14:50:56.976046-03:00"
       },
       "instagram": {
         "legenda": "Uma nota de cinquenta dura mais na carteira do que cinco notas de dez.\n\nQuem repara nisso é o livro Dinheiro, os Segredos de Quem Tem.\n\nLembra de uma vez, nos últimos dez dias, em que você desperdiçou dinheiro.\n\nPerceber o erro já é um passo grande.\n\nSegue a página pra ver mais livros assim: @livronalousa",
