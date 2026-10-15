@@ -910,7 +910,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-4b7f3bee8a-Pai-Rico-19---Paga-voce-primeiro.mp4",
             "sha256": "4b7f3bee8ad3436c2c71b4bc8c7483ddb0b6db71c00e2908fa2dc63ed4fa4c15",
             "tamanho_bytes": 6319516,
-            "duracao_segundos": 28.867
+            "duracao_segundos": 28.867,
+            "removido_da_release_em": "2026-10-15T09:17:05.486880-03:00"
           },
           "instagram": {
             "status": "publicado",
