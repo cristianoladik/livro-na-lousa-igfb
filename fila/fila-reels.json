@@ -2440,7 +2440,7 @@
       "id": "reel-20261016-1100-57b5176749",
       "data": "2026-10-16",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 11 - A cristaleira.mp4",
         "sha256": "57b51767499dd6464bfd893413a99b35a8dae0ec7855bb301255bd564aeb684f"
@@ -2453,12 +2453,17 @@
       },
       "instagram": {
         "legenda": "A vitrine não foi feita pra você olhar.\n\nFoi feita pra olhar você.\n\nEssa lição tá no livro Dinheiro, os Segredos de Quem Tem.\n\nA promoção é só hoje.\n\nPor isso o livro ensina: não negocia a dois, e nunca mostra entusiasmo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17924138160432362",
+        "publicado_em": "2026-10-16T11:11:19.775527-03:00"
       },
       "facebook": {
         "legenda": "A vitrine não foi feita pra você olhar.\n\nFoi feita pra olhar você.\n\nEssa lição tá no livro Dinheiro, os Segredos de Quem Tem.\n\nA promoção é só hoje.\n\nPor isso o livro ensina: não negocia a dois, e nunca mostra entusiasmo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "985242167953368",
+        "publicado_em": "2026-10-16T11:11:29.058916-03:00"
+      },
+      "concluido_em": "2026-10-16T11:11:29.070575-03:00"
     },
     {
       "id": "reel-20261016-1400-2080581e5c",
