@@ -2470,7 +2470,7 @@
       "id": "reel-20261016-1400-2080581e5c",
       "data": "2026-10-16",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 12 - O incendio e o tapete.mp4",
         "sha256": "2080581e5c217e37fe4e18d60e6bf8c16a8451a4ec6e1ea6ed18a781ed82f5fd"
@@ -2483,12 +2483,17 @@
       },
       "instagram": {
         "legenda": "Pequenos incêndios limpam o mato seco da floresta de tempos em tempos.\n\nQuem apaga todos, pra ficar seguro, deixa o mato seco acumular.\n\nEssa lição está no livro Antifrágil.\n\nAté estourar na crise que começou em dois mil e sete. Às vezes, o sobe e desce pequeno é o que evita o tombo grande.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17998267728045348",
+        "publicado_em": "2026-10-16T14:20:33.143671-03:00"
       },
       "facebook": {
         "legenda": "Pequenos incêndios limpam o mato seco da floresta de tempos em tempos.\n\nQuem apaga todos, pra ficar seguro, deixa o mato seco acumular.\n\nEssa lição está no livro Antifrágil.\n\nAté estourar na crise que começou em dois mil e sete. Às vezes, o sobe e desce pequeno é o que evita o tombo grande.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4507668182821732",
+        "publicado_em": "2026-10-16T14:20:43.767170-03:00"
+      },
+      "concluido_em": "2026-10-16T14:20:43.774543-03:00"
     },
     {
       "id": "reel-20261016-1700-1a3eb59b8b",
