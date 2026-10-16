@@ -943,7 +943,7 @@
       "id": "story-20261016-b33accef65",
       "data": "2026-10-16",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Pai Rico 20 - O que trava as pessoas.mp4",
         "sha256": "b33accef65628a525088d4f7ad600731514da8fd2c011f780e1ea792395a2fdb",
@@ -953,7 +953,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-b33accef65-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-b33accef65-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
@@ -962,13 +962,30 @@
             "duracao_segundos": 30.59
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18148209541518121",
+            "publish_iniciado_em": "2026-10-16T09:15:58-03:00",
+            "id": "17993751129101155",
+            "publicado_em": "2026-10-16T09:16:05-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2285792248866900",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-16T09:16:12-03:00",
+            "post_id_candidato": "4545126769065608",
+            "finish_em": "2026-10-16T09:16:16-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjQ1NDUxMjY3NzIzOTg5NDE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "4545126769065608",
+            "publicado_em": "2026-10-16T09:16:52-03:00"
+          },
+          "concluido_em": "2026-10-16T09:16:52-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-16T09:16:52-03:00"
     },
     {
       "id": "story-20261017-7424b13482",
