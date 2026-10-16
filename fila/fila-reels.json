@@ -2500,7 +2500,7 @@
       "id": "reel-20261016-1700-1a3eb59b8b",
       "data": "2026-10-16",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 12 - Sabe mais ganha mais.mp4",
         "sha256": "1a3eb59b8bb9ab49c6d5bd70db80aa13b3fd918c6f84bab4d71c4b1840f91ca7"
@@ -2513,12 +2513,17 @@
       },
       "instagram": {
         "legenda": "Quer ganhar mais?\n\nEsse livro não manda pedir aumento.\n\nA sétima regra do livro O Homem Mais Rico da Babilônia é aumentar a sua capacidade de ganhar: quanto mais você sabe, melhor você faz, e quem faz melhor vale mais.\n\nPedir aumento depende do chefe, aprender depende só de você.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18138447754713310",
+        "publicado_em": "2026-10-16T19:11:13.706978-03:00"
       },
       "facebook": {
         "legenda": "Quer ganhar mais?\n\nEsse livro não manda pedir aumento.\n\nA sétima regra do livro O Homem Mais Rico da Babilônia é aumentar a sua capacidade de ganhar: quanto mais você sabe, melhor você faz, e quem faz melhor vale mais.\n\nPedir aumento depende do chefe, aprender depende só de você.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1640114934313481",
+        "publicado_em": "2026-10-16T19:11:23.651643-03:00"
+      },
+      "concluido_em": "2026-10-16T19:11:23.663728-03:00"
     },
     {
       "id": "reel-20261016-2000-c72127c82b",
