@@ -2410,7 +2410,7 @@
       "id": "reel-20261016-0800-1804ecde68",
       "data": "2026-10-16",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 11 - A dupla do sucesso.mp4",
         "sha256": "1804ecde68762a66147f6bce4222501aa6cc6ac168112d584e1d9c919a549b0f"
@@ -2423,12 +2423,17 @@
       },
       "instagram": {
         "legenda": "Tem uma combinação de casal que vai a todo vapor pra liberdade financeira.\n\nEla tá no horóscopo do livro Casais Inteligentes Enriquecem Juntos.\n\nSe fizer isso, é a dupla do sucesso.\n\nE dois poupadores, ou dois financistas, também chegam a um futuro tranquilo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18108335393189880",
+        "publicado_em": "2026-10-16T08:13:54.289965-03:00"
       },
       "facebook": {
         "legenda": "Tem uma combinação de casal que vai a todo vapor pra liberdade financeira.\n\nEla tá no horóscopo do livro Casais Inteligentes Enriquecem Juntos.\n\nSe fizer isso, é a dupla do sucesso.\n\nE dois poupadores, ou dois financistas, também chegam a um futuro tranquilo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4585004538423889",
+        "publicado_em": "2026-10-16T08:14:03.914817-03:00"
+      },
+      "concluido_em": "2026-10-16T08:14:03.922428-03:00"
     },
     {
       "id": "reel-20261016-1100-57b5176749",
