@@ -959,7 +959,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-b33accef65-Pai-Rico-20---O-que-trava-as-pessoas.mp4",
             "sha256": "b33accef65628a525088d4f7ad600731514da8fd2c011f780e1ea792395a2fdb",
             "tamanho_bytes": 6882983,
-            "duracao_segundos": 30.59
+            "duracao_segundos": 30.59,
+            "removido_da_release_em": "2026-10-16T09:16:55.275664-03:00"
           },
           "instagram": {
             "status": "publicado",
