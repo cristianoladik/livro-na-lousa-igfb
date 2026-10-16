@@ -2798,6 +2798,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261215-1db643a0f8",
+      "data": "2026-12-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 12 - Como negociar.mp4",
+        "sha256": "1db643a0f83dfa0d990057422b496a24f14a7a1bacded1c58b0e7bdd177491a5",
+        "pacote": "Dinheiro Segredos 12 - Como negociar",
+        "pacote_id": "story-1db643a0f83d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-1db643a0f8-Dinheiro-Segredos-12---Como-negociar.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-1db643a0f8-Dinheiro-Segredos-12---Como-negociar.mp4",
+            "sha256": "1db643a0f83dfa0d990057422b496a24f14a7a1bacded1c58b0e7bdd177491a5",
+            "tamanho_bytes": 6952553,
+            "duracao_segundos": 38.167
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
