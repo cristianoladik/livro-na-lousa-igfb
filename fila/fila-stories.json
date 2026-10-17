@@ -1008,7 +1008,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7424b13482-Babilonia-01---As-muralhas-da-Babilonia.mp4",
             "sha256": "7424b13482025beff2eb713c57f3c8e10ddc806fb02bede7ff3c7fab44fa140a",
             "tamanho_bytes": 7300932,
-            "duracao_segundos": 29.542
+            "duracao_segundos": 29.542,
+            "removido_da_release_em": "2026-10-17T09:17:55.819693-03:00"
           },
           "instagram": {
             "status": "publicado",
