@@ -2599,7 +2599,8 @@
         "asset": "reel-50515475d5-Antifragil-13---Tony-Gordo-e-o-petroleo.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-50515475d5-Antifragil-13---Tony-Gordo-e-o-petroleo.mp4",
         "sha256": "50515475d5e20af9263be1f47d0ef6762b9f5f69bb9b16816ceb3a523148ed55",
-        "tamanho_bytes": 5287079
+        "tamanho_bytes": 5287079,
+        "removido_da_release_em": "2026-10-17T11:11:31.613594-03:00"
       },
       "instagram": {
         "legenda": "Em janeiro de mil novecentos e noventa e um começou a guerra pra libertar o Kuwait.\n\nTodo analista dizia: com a guerra, o petróleo vai subir.\n\nEssa lição está no livro Antifrágil.\n\nEle não adivinhou a guerra.\n\nSó enxergou que tinha muita gente frágil apostando do mesmo lado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
