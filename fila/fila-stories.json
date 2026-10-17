@@ -992,7 +992,7 @@
       "id": "story-20261017-7424b13482",
       "data": "2026-10-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 01 - As muralhas da Babilonia.mp4",
         "sha256": "7424b13482025beff2eb713c57f3c8e10ddc806fb02bede7ff3c7fab44fa140a",
@@ -1002,7 +1002,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7424b13482-Babilonia-01---As-muralhas-da-Babilonia.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7424b13482-Babilonia-01---As-muralhas-da-Babilonia.mp4",
@@ -1011,13 +1011,30 @@
             "duracao_segundos": 29.542
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18148522528518121",
+            "publish_iniciado_em": "2026-10-17T09:17:17-03:00",
+            "id": "18438640651177397",
+            "publicado_em": "2026-10-17T09:17:25-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1131361239333914",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-17T09:17:31-03:00",
+            "post_id_candidato": "967039766462577",
+            "finish_em": "2026-10-17T09:17:37-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjk2NzAzOTc3MzEyOTI0Mw==/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "967039766462577",
+            "publicado_em": "2026-10-17T09:17:53-03:00"
+          },
+          "concluido_em": "2026-10-17T09:17:53-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-17T09:17:53-03:00"
     },
     {
       "id": "story-20261018-23095436ad",
