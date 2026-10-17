@@ -2560,7 +2560,7 @@
       "id": "reel-20261017-0800-1db643a0f8",
       "data": "2026-10-17",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 12 - Como negociar.mp4",
         "sha256": "1db643a0f83dfa0d990057422b496a24f14a7a1bacded1c58b0e7bdd177491a5"
@@ -2573,12 +2573,17 @@
       },
       "instagram": {
         "legenda": "A última proposta você faz pro gerente, nunca pro vendedor.\n\nÉ uma das dicas do livro Dinheiro, os Segredos de Quem Tem.\n\nVendedor parado, esperando um único cliente, negocia muito mais.\n\nVocê tá vendendo a ideia de que o seu dinheiro vale muito.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17990300820028142",
+        "publicado_em": "2026-10-17T09:15:51.063826-03:00"
       },
       "facebook": {
         "legenda": "A última proposta você faz pro gerente, nunca pro vendedor.\n\nÉ uma das dicas do livro Dinheiro, os Segredos de Quem Tem.\n\nVendedor parado, esperando um único cliente, negocia muito mais.\n\nVocê tá vendendo a ideia de que o seu dinheiro vale muito.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1433335262312191",
+        "publicado_em": "2026-10-17T09:16:00.399579-03:00"
+      },
+      "concluido_em": "2026-10-17T09:16:00.407200-03:00"
     },
     {
       "id": "reel-20261017-1100-50515475d5",
