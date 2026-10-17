@@ -2530,7 +2530,7 @@
       "id": "reel-20261016-2000-c72127c82b",
       "data": "2026-10-16",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 12 - O namoro.mp4",
         "sha256": "c72127c82be59297331bbc392605c9fd6e15937ba2aaf54b8f79f33c179ce105"
@@ -2543,12 +2543,17 @@
       },
       "instagram": {
         "legenda": "Presente caro no namoro?\n\nO conselho desse livro é outro.\n\nTá no Casais Inteligentes Enriquecem Juntos.\n\nPorque perto da data comemorativa, tudo fica mais caro.\n\nHábito bom no namoro vira hábito bom no casamento.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18181552585442230",
+        "publicado_em": "2026-10-16T21:20:46.299768-03:00"
       },
       "facebook": {
         "legenda": "Presente caro no namoro?\n\nO conselho desse livro é outro.\n\nTá no Casais Inteligentes Enriquecem Juntos.\n\nPorque perto da data comemorativa, tudo fica mais caro.\n\nHábito bom no namoro vira hábito bom no casamento.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2280910925814841",
+        "publicado_em": "2026-10-16T21:20:54.597488-03:00"
+      },
+      "concluido_em": "2026-10-16T21:20:54.609082-03:00"
     },
     {
       "id": "reel-20261017-0800-1db643a0f8",
