@@ -2659,7 +2659,8 @@
         "asset": "reel-fa354ec7a4-Casais-Inteligentes-13---O-noivado-e-a-festa.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-fa354ec7a4-Casais-Inteligentes-13---O-noivado-e-a-festa.mp4",
         "sha256": "fa354ec7a40f34c12731544671b141d57045fbd4d6086989234993698c5b37a1",
-        "tamanho_bytes": 4803504
+        "tamanho_bytes": 4803504,
+        "removido_da_release_em": "2026-10-17T17:55:57.601829-03:00"
       },
       "instagram": {
         "legenda": "Tem festa de casamento que você paga por dois anos.\n\nO livro Casais Inteligentes Enriquecem Juntos fala disso no noivado.\n\nDurante os dois primeiros anos de casados.\n\nE isso sem contar os juros.\n\nSegue a página pra ver mais livros assim: @livronalousa",
