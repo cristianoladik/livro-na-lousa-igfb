@@ -2650,7 +2650,7 @@
       "id": "reel-20261017-1700-fa354ec7a4",
       "data": "2026-10-17",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 13 - O noivado e a festa.mp4",
         "sha256": "fa354ec7a40f34c12731544671b141d57045fbd4d6086989234993698c5b37a1"
@@ -2663,12 +2663,17 @@
       },
       "instagram": {
         "legenda": "Tem festa de casamento que você paga por dois anos.\n\nO livro Casais Inteligentes Enriquecem Juntos fala disso no noivado.\n\nDurante os dois primeiros anos de casados.\n\nE isso sem contar os juros.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18499436092101962",
+        "publicado_em": "2026-10-17T17:55:39.998394-03:00"
       },
       "facebook": {
         "legenda": "Tem festa de casamento que você paga por dois anos.\n\nO livro Casais Inteligentes Enriquecem Juntos fala disso no noivado.\n\nDurante os dois primeiros anos de casados.\n\nE isso sem contar os juros.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3018850328464558",
+        "publicado_em": "2026-10-17T17:55:54.542564-03:00"
+      },
+      "concluido_em": "2026-10-17T17:55:54.552397-03:00"
     },
     {
       "id": "reel-20261017-2000-ea178d1e08",
