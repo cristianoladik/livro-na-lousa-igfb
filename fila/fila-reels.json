@@ -2590,7 +2590,7 @@
       "id": "reel-20261017-1100-50515475d5",
       "data": "2026-10-17",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 13 - Tony Gordo e o petroleo.mp4",
         "sha256": "50515475d5e20af9263be1f47d0ef6762b9f5f69bb9b16816ceb3a523148ed55"
@@ -2603,12 +2603,17 @@
       },
       "instagram": {
         "legenda": "Em janeiro de mil novecentos e noventa e um começou a guerra pra libertar o Kuwait.\n\nTodo analista dizia: com a guerra, o petróleo vai subir.\n\nEssa lição está no livro Antifrágil.\n\nEle não adivinhou a guerra.\n\nSó enxergou que tinha muita gente frágil apostando do mesmo lado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18430939132147434",
+        "publicado_em": "2026-10-17T11:11:16.513297-03:00"
       },
       "facebook": {
         "legenda": "Em janeiro de mil novecentos e noventa e um começou a guerra pra libertar o Kuwait.\n\nTodo analista dizia: com a guerra, o petróleo vai subir.\n\nEssa lição está no livro Antifrágil.\n\nEle não adivinhou a guerra.\n\nSó enxergou que tinha muita gente frágil apostando do mesmo lado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1818470482520015",
+        "publicado_em": "2026-10-17T11:11:29.006914-03:00"
+      },
+      "concluido_em": "2026-10-17T11:11:29.016867-03:00"
     },
     {
       "id": "reel-20261017-1400-6c631d5f29",
