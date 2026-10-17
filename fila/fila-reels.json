@@ -2689,7 +2689,8 @@
         "asset": "reel-ea178d1e08-Dinheiro-Segredos-13---Juro-e-aluguel-do-dinheiro.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-ea178d1e08-Dinheiro-Segredos-13---Juro-e-aluguel-do-dinheiro.mp4",
         "sha256": "ea178d1e08a48873777848ae5f33fc280a1c4e03e9f5c3728fd8d70d3edcdcad",
-        "tamanho_bytes": 5518227
+        "tamanho_bytes": 5518227,
+        "removido_da_release_em": "2026-10-17T20:58:43.328584-03:00"
       },
       "instagram": {
         "legenda": "Juro é só o aluguel do dinheiro.\n\nEssa definição abre o terceiro erro do livro Dinheiro, os Segredos de Quem Tem.\n\nA saída é pensar como um banqueiro.\n\nE nunca pagar juro maior do que o que você recebe.\n\nSegue a página pra ver mais livros assim: @livronalousa",
