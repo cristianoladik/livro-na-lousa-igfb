@@ -2830,7 +2830,7 @@
       "id": "reel-20261018-2000-669418a083",
       "data": "2026-10-18",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 15 - A conta do haltere.mp4",
         "sha256": "669418a083d1edae8f4a959a7c5460bd280ae1738877b0b9f813f684ac93d815"
@@ -2843,12 +2843,17 @@
       },
       "instagram": {
         "legenda": "Pensa em alguém com dez mil reais guardados.\n\nOs números são só um exemplo.\n\nEssa lição está no livro Antifrágil.\n\nO total passa de dezenove mil.\n\nO livro diz que o perigo é o meio: tudo numa aposta de risco médio.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17889215256476467",
+        "publicado_em": "2026-10-18T20:05:10.519005-03:00"
       },
       "facebook": {
         "legenda": "Pensa em alguém com dez mil reais guardados.\n\nOs números são só um exemplo.\n\nEssa lição está no livro Antifrágil.\n\nO total passa de dezenove mil.\n\nO livro diz que o perigo é o meio: tudo numa aposta de risco médio.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2201630137365615",
+        "publicado_em": "2026-10-18T20:05:20.903233-03:00"
+      },
+      "concluido_em": "2026-10-18T20:05:20.913356-03:00"
     },
     {
       "id": "reel-20261019-0800-7e0516d335",
