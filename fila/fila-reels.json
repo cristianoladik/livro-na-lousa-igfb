@@ -2809,7 +2809,8 @@
         "asset": "reel-c4d23b39c9-Dinheiro-Segredos-14---A-pessoa-fisica-bobinha.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-c4d23b39c9-Dinheiro-Segredos-14---A-pessoa-fisica-bobinha.mp4",
         "sha256": "c4d23b39c9a4e232911a861daa60d8e9718ddfb9c3bf90024092605ed20324b2",
-        "tamanho_bytes": 5731099
+        "tamanho_bytes": 5731099,
+        "removido_da_release_em": "2026-10-18T18:07:44.381491-03:00"
       },
       "instagram": {
         "legenda": "Você é uma PFB?\n\nÉ o apelido que o livro Dinheiro, os Segredos de Quem Tem dá pra um tipo de cliente de banco.\n\nO contrário é quem pensa como banqueiro.\n\nNão aceita juro alto e cobra bom rendimento pelo dinheiro dele.\n\nSegue a página pra ver mais livros assim: @livronalousa",
