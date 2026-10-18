@@ -2710,7 +2710,7 @@
       "id": "reel-20261018-0800-69ff71f981",
       "data": "2026-10-18",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 14 - Seneca, o naufrago de proposito.mp4",
         "sha256": "69ff71f9815d43e46bcdcc2a2e3040333ce0830e867595d4a92b2e9adeece2f6"
@@ -2723,12 +2723,17 @@
       },
       "instagram": {
         "legenda": "Ele foi a pessoa mais rica do Império Romano, segundo o livro Antifrágil.\n\nE era filósofo: o Sêneca.\n\nFicava com o lado bom do dinheiro e tirava o medo de perder.\n\nÉ a regra central do livro: mais a ganhar do que a perder.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18136918531636265",
+        "publicado_em": "2026-10-18T09:16:29.043859-03:00"
       },
       "facebook": {
         "legenda": "Ele foi a pessoa mais rica do Império Romano, segundo o livro Antifrágil.\n\nE era filósofo: o Sêneca.\n\nFicava com o lado bom do dinheiro e tirava o medo de perder.\n\nÉ a regra central do livro: mais a ganhar do que a perder.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3007595966248655",
+        "publicado_em": "2026-10-18T09:16:40.598456-03:00"
+      },
+      "concluido_em": "2026-10-18T09:16:40.610208-03:00"
     },
     {
       "id": "reel-20261018-1100-4366eeb452",
