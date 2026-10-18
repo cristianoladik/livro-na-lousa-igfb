@@ -1041,7 +1041,7 @@
       "id": "story-20261018-23095436ad",
       "data": "2026-10-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 01 - A vela e a fogueira.mp4",
         "sha256": "23095436ad46eecf2b44b37e960190d59bc2e686431e907f77f4e6ed95a2815f",
@@ -1051,7 +1051,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-23095436ad-Antifragil-01---A-vela-e-a-fogueira.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-23095436ad-Antifragil-01---A-vela-e-a-fogueira.mp4",
@@ -1060,13 +1060,30 @@
             "duracao_segundos": 32.62
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18148843192518121",
+            "publish_iniciado_em": "2026-10-18T09:02:12-03:00",
+            "id": "18106575770575397",
+            "publicado_em": "2026-10-18T09:02:20-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1635503101508729",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-18T09:02:27-03:00",
+            "post_id_candidato": "1088954393981323",
+            "finish_em": "2026-10-18T09:02:33-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjEwODg5NTQzOTczMTQ2NTY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1088954393981323",
+            "publicado_em": "2026-10-18T09:03:09-03:00"
+          },
+          "concluido_em": "2026-10-18T09:03:09-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-18T09:03:09-03:00"
     },
     {
       "id": "story-20261019-0d28ea5597",
