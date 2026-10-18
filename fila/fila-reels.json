@@ -2770,7 +2770,7 @@
       "id": "reel-20261018-1400-d57f35d3b3",
       "data": "2026-10-18",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 14 - Juntar as contas.mp4",
         "sha256": "d57f35d3b3c3db7aa4130702df79785e577dbbc2dfeff7a73630a5afba35dd62"
@@ -2783,12 +2783,17 @@
       },
       "instagram": {
         "legenda": "Depois do casamento, é melhor juntar ou separar o dinheiro?\n\nO livro Casais Inteligentes Enriquecem Juntos tem uma resposta clara.\n\nJuntar não é perder o controle.\n\nÉ os dois enxergando a mesma conta, com tudo anotado e sem surpresa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17928414705184896",
+        "publicado_em": "2026-10-18T14:16:28.722274-03:00"
       },
       "facebook": {
         "legenda": "Depois do casamento, é melhor juntar ou separar o dinheiro?\n\nO livro Casais Inteligentes Enriquecem Juntos tem uma resposta clara.\n\nJuntar não é perder o controle.\n\nÉ os dois enxergando a mesma conta, com tudo anotado e sem surpresa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1089929013415056",
+        "publicado_em": "2026-10-18T14:16:39.810378-03:00"
+      },
+      "concluido_em": "2026-10-18T14:16:39.822508-03:00"
     },
     {
       "id": "reel-20261018-1700-c4d23b39c9",
