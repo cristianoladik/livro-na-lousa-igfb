@@ -2800,7 +2800,7 @@
       "id": "reel-20261018-1700-c4d23b39c9",
       "data": "2026-10-18",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 14 - A pessoa fisica bobinha.mp4",
         "sha256": "c4d23b39c9a4e232911a861daa60d8e9718ddfb9c3bf90024092605ed20324b2"
@@ -2813,12 +2813,17 @@
       },
       "instagram": {
         "legenda": "Você é uma PFB?\n\nÉ o apelido que o livro Dinheiro, os Segredos de Quem Tem dá pra um tipo de cliente de banco.\n\nO contrário é quem pensa como banqueiro.\n\nNão aceita juro alto e cobra bom rendimento pelo dinheiro dele.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18125099566872658",
+        "publicado_em": "2026-10-18T18:07:24.043408-03:00"
       },
       "facebook": {
         "legenda": "Você é uma PFB?\n\nÉ o apelido que o livro Dinheiro, os Segredos de Quem Tem dá pra um tipo de cliente de banco.\n\nO contrário é quem pensa como banqueiro.\n\nNão aceita juro alto e cobra bom rendimento pelo dinheiro dele.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2067760907180437",
+        "publicado_em": "2026-10-18T18:07:36.630998-03:00"
+      },
+      "concluido_em": "2026-10-18T18:07:36.643344-03:00"
     },
     {
       "id": "reel-20261018-2000-669418a083",
