@@ -2896,6 +2896,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261217-6c631d5f29",
+      "data": "2026-12-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Babilonia 13 - O plano do Dabasir.mp4",
+        "sha256": "6c631d5f29ac3e894a328edbc764b046e4e5f45c962710450013e27a0506f218",
+        "pacote": "Babilonia 13 - O plano do Dabasir",
+        "pacote_id": "story-6c631d5f29ac"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-6c631d5f29-Babilonia-13---O-plano-do-Dabasir.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-6c631d5f29-Babilonia-13---O-plano-do-Dabasir.mp4",
+            "sha256": "6c631d5f29ac3e894a328edbc764b046e4e5f45c962710450013e27a0506f218",
+            "tamanho_bytes": 5043916,
+            "duracao_segundos": 30.917
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
