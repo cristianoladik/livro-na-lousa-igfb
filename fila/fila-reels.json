@@ -2920,7 +2920,7 @@
       "id": "reel-20261019-1400-1da495a5c1",
       "data": "2026-10-19",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 15 - A poupanca do filho.mp4",
         "sha256": "1da495a5c1346bfe64eeefe0dfe20c42b8af975684497120dd493bb34ac63709"
@@ -2933,12 +2933,17 @@
       },
       "instagram": {
         "legenda": "Esse casal tinha poupança pro filho e mesmo assim usou cheque especial.\n\nO caso tá no livro Dinheiro, os Segredos de Quem Tem.\n\nMais cem por mês pra repor os mil, e cinquenta de juros pra própria família.\n\nEm dez meses a poupança volta, e o juro fica em casa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18410780917094089",
+        "publicado_em": "2026-10-19T14:58:08.767317-03:00"
       },
       "facebook": {
         "legenda": "Esse casal tinha poupança pro filho e mesmo assim usou cheque especial.\n\nO caso tá no livro Dinheiro, os Segredos de Quem Tem.\n\nMais cem por mês pra repor os mil, e cinquenta de juros pra própria família.\n\nEm dez meses a poupança volta, e o juro fica em casa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1420049336305813",
+        "publicado_em": "2026-10-19T14:58:17.945927-03:00"
+      },
+      "concluido_em": "2026-10-19T14:58:17.958037-03:00"
     },
     {
       "id": "reel-20261019-1700-b7e6692738",
