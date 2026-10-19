@@ -2890,7 +2890,7 @@
       "id": "reel-20261019-1100-b0f7cb4d79",
       "data": "2026-10-19",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 15 - A formula da abundancia.mp4",
         "sha256": "b0f7cb4d79f0345628db83a6dd6b12e027a2024ffd9df6c217c569d76d06387f"
@@ -2903,12 +2903,17 @@
       },
       "instagram": {
         "legenda": "A fórmula da abundância financeira cabe em uma frase.\n\nTá no livro Casais Inteligentes Enriquecem Juntos.\n\nQuanto guardar?\n\nO livro fala em algo entre dez e vinte por cento da renda.\n\nAjustado à vida de cada casal.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18078155903442613",
+        "publicado_em": "2026-10-19T11:35:42.915195-03:00"
       },
       "facebook": {
         "legenda": "A fórmula da abundância financeira cabe em uma frase.\n\nTá no livro Casais Inteligentes Enriquecem Juntos.\n\nQuanto guardar?\n\nO livro fala em algo entre dez e vinte por cento da renda.\n\nAjustado à vida de cada casal.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1486519789959288",
+        "publicado_em": "2026-10-19T11:35:52.308723-03:00"
+      },
+      "concluido_em": "2026-10-19T11:35:52.321339-03:00"
     },
     {
       "id": "reel-20261019-1400-1da495a5c1",
