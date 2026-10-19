@@ -2950,7 +2950,7 @@
       "id": "reel-20261019-1700-b7e6692738",
       "data": "2026-10-19",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 16 - Tales e as prensas de azeite.mp4",
         "sha256": "b7e6692738fcdd324c71de99a175f8f748157443a942b12282b9f8540e401bf8"
@@ -2963,12 +2963,17 @@
       },
       "instagram": {
         "legenda": "Os amigos viviam provocando o filósofo Tales: quem sabe, faz, e quem não sabe, filosofa.\n\nEssa história tá no livro Antifrágil.\n\nIsso é uma opção: o direito, sem a obrigação.\n\nErrar custa pouco, acertar paga muito.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18216915535357952",
+        "publicado_em": "2026-10-19T17:09:21.450205-03:00"
       },
       "facebook": {
         "legenda": "Os amigos viviam provocando o filósofo Tales: quem sabe, faz, e quem não sabe, filosofa.\n\nEssa história tá no livro Antifrágil.\n\nIsso é uma opção: o direito, sem a obrigação.\n\nErrar custa pouco, acertar paga muito.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1671349657954272",
+        "publicado_em": "2026-10-19T17:09:35.319649-03:00"
+      },
+      "concluido_em": "2026-10-19T17:09:35.332256-03:00"
     },
     {
       "id": "reel-20261019-2000-958a204ec8",
