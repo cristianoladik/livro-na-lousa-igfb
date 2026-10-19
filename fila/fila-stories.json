@@ -2963,6 +2963,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261218-fa354ec7a4",
+      "data": "2026-12-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Casais Inteligentes 13 - O noivado e a festa.mp4",
+        "sha256": "fa354ec7a40f34c12731544671b141d57045fbd4d6086989234993698c5b37a1",
+        "pacote": "Casais Inteligentes 13 - O noivado e a festa",
+        "pacote_id": "story-fa354ec7a40f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-fa354ec7a4-Casais-Inteligentes-13---O-noivado-e-a-festa.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-fa354ec7a4-Casais-Inteligentes-13---O-noivado-e-a-festa.mp4",
+            "sha256": "fa354ec7a40f34c12731544671b141d57045fbd4d6086989234993698c5b37a1",
+            "tamanho_bytes": 4803504,
+            "duracao_segundos": 31.04
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
