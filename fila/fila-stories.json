@@ -1090,7 +1090,7 @@
       "id": "story-20261019-0d28ea5597",
       "data": "2026-10-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 01 - Brigas disfarcadas.mp4",
         "sha256": "0d28ea55979282a3d36c65041c96768af165819e4a9820fe73590945d8049007",
@@ -1100,7 +1100,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-0d28ea5597-Casais-Inteligentes-01---Brigas-disfarcadas.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0d28ea5597-Casais-Inteligentes-01---Brigas-disfarcadas.mp4",
@@ -1109,13 +1109,30 @@
             "duracao_segundos": 36.48
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18149181706518121",
+            "publish_iniciado_em": "2026-10-19T09:16:00-03:00",
+            "id": "18440899495182467",
+            "publicado_em": "2026-10-19T09:16:16-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2212079129704883",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-19T09:16:22-03:00",
+            "post_id_candidato": "967087692587983",
+            "finish_em": "2026-10-19T09:16:25-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjk2NzA4NzY5OTI1NDY0OQ==/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "967087692587983",
+            "publicado_em": "2026-10-19T09:17:02-03:00"
+          },
+          "concluido_em": "2026-10-19T09:17:02-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-19T09:17:02-03:00"
     },
     {
       "id": "story-20261020-4e47d7d731",
