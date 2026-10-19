@@ -1106,7 +1106,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0d28ea5597-Casais-Inteligentes-01---Brigas-disfarcadas.mp4",
             "sha256": "0d28ea55979282a3d36c65041c96768af165819e4a9820fe73590945d8049007",
             "tamanho_bytes": 5601391,
-            "duracao_segundos": 36.48
+            "duracao_segundos": 36.48,
+            "removido_da_release_em": "2026-10-19T09:17:04.476674-03:00"
           },
           "instagram": {
             "status": "publicado",
