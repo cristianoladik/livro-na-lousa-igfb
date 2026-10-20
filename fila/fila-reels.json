@@ -3139,7 +3139,8 @@
         "asset": "reel-09937f8503-Casais-Inteligentes-17---O-carro-e-o-dinheiro-que-escapa.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-09937f8503-Casais-Inteligentes-17---O-carro-e-o-dinheiro-que-escapa.mp4",
         "sha256": "09937f8503777f1f50de485bec8796b8c1274a10a688aeeef617c9795d1991dc",
-        "tamanho_bytes": 4724620
+        "tamanho_bytes": 4724620,
+        "removido_da_release_em": "2026-10-20T20:47:25.103775-03:00"
       },
       "instagram": {
         "legenda": "O carro custa muito mais do que a prestação.\n\nQuem lembra disso é o livro Casais Inteligentes Enriquecem Juntos.\n\nE parcelamento que nem precisava existir.\n\nAntes de comprar o carro, soma tudo isso, e não só o valor da parcela.\n\nSegue a página pra ver mais livros assim: @livronalousa",
