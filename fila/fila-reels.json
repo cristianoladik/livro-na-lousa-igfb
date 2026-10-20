@@ -3010,7 +3010,7 @@
       "id": "reel-20261020-0800-e0e18ea2ae",
       "data": "2026-10-20",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 16 - A moradia.mp4",
         "sha256": "e0e18ea2aefe9599f11233bb13399baf5114fbea2cf5ffd969c198ac4b9f7b54"
@@ -3023,12 +3023,17 @@
       },
       "instagram": {
         "legenda": "A casa onde o casal mora decide o padrão de todo o resto.\n\nEssa ideia é do livro Casais Inteligentes Enriquecem Juntos.\n\nE a compra do imóvel?\n\nO livro trata como decisão de momento, feita com conta na mão.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18347795680266700",
+        "publicado_em": "2026-10-20T08:23:53.035008-03:00"
       },
       "facebook": {
         "legenda": "A casa onde o casal mora decide o padrão de todo o resto.\n\nEssa ideia é do livro Casais Inteligentes Enriquecem Juntos.\n\nE a compra do imóvel?\n\nO livro trata como decisão de momento, feita com conta na mão.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1547480317423489",
+        "publicado_em": "2026-10-20T08:24:01.388085-03:00"
+      },
+      "concluido_em": "2026-10-20T08:24:01.400472-03:00"
     },
     {
       "id": "reel-20261020-1100-2754a8a05c",
