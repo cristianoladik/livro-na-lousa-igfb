@@ -3040,7 +3040,7 @@
       "id": "reel-20261020-1100-2754a8a05c",
       "data": "2026-10-20",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 16 - A casinha de campo.mp4",
         "sha256": "2754a8a05ca6770f69196fe56552ebfe6a4da8db139b497c1ac311ccbe3e147b"
@@ -3053,12 +3053,17 @@
       },
       "instagram": {
         "legenda": "Quem vai te sustentar quando você estiver na sua casinha de campo?\n\nEssa pergunta tá no livro Dinheiro, os Segredos de Quem Tem.\n\nSe ele não começa a trabalhar desde já, não vai começar quando sua renda acabar.\n\nPro autor, o rico sabe fazer planos.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18096645110394400",
+        "publicado_em": "2026-10-20T11:11:15.998586-03:00"
       },
       "facebook": {
         "legenda": "Quem vai te sustentar quando você estiver na sua casinha de campo?\n\nEssa pergunta tá no livro Dinheiro, os Segredos de Quem Tem.\n\nSe ele não começa a trabalhar desde já, não vai começar quando sua renda acabar.\n\nPro autor, o rico sabe fazer planos.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2131919430729649",
+        "publicado_em": "2026-10-20T11:11:25.734317-03:00"
+      },
+      "concluido_em": "2026-10-20T11:11:25.747243-03:00"
     },
     {
       "id": "reel-20261020-1400-91ec78bd1f",
