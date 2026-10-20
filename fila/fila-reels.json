@@ -3130,7 +3130,7 @@
       "id": "reel-20261020-2000-09937f8503",
       "data": "2026-10-20",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 17 - O carro e o dinheiro que escapa.mp4",
         "sha256": "09937f8503777f1f50de485bec8796b8c1274a10a688aeeef617c9795d1991dc"
@@ -3143,12 +3143,17 @@
       },
       "instagram": {
         "legenda": "O carro custa muito mais do que a prestação.\n\nQuem lembra disso é o livro Casais Inteligentes Enriquecem Juntos.\n\nE parcelamento que nem precisava existir.\n\nAntes de comprar o carro, soma tudo isso, e não só o valor da parcela.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18345346273255962",
+        "publicado_em": "2026-10-20T20:47:14.145314-03:00"
       },
       "facebook": {
         "legenda": "O carro custa muito mais do que a prestação.\n\nQuem lembra disso é o livro Casais Inteligentes Enriquecem Juntos.\n\nE parcelamento que nem precisava existir.\n\nAntes de comprar o carro, soma tudo isso, e não só o valor da parcela.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28437961835905071",
+        "publicado_em": "2026-10-20T20:47:22.544575-03:00"
+      },
+      "concluido_em": "2026-10-20T20:47:22.556941-03:00"
     },
     {
       "id": "reel-20261021-0800-2f007beaff",
