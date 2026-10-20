@@ -10109,6 +10109,30 @@
         "legenda": "Entraram dois mil reais?\n\nDivide em seis potes, assim.\n\nE no final eu te conto os dois erros que destroem esse sistema.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO que importa no começo não é o valor.\n\nÉ o hábito.\n\nQuem não cuida do pouco não recebe o muito.\n\nSimples assim.\n\nSegue a página pra ver mais livros assim: @livronalousa",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261218-1100-bd35a56d42",
+      "data": "2026-12-18",
+      "horario": "11:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Tamanho 3m00 - Pai Rico 20 - O que trava as pessoas.mp4",
+        "sha256": "bd35a56d42c841d00c7d9c34c8e753509c85cc15ce138abb111d50dee6e96ae3"
+      },
+      "midia": {
+        "asset": "reel-bd35a56d42-Tamanho-3m00---Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+        "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-bd35a56d42-Tamanho-3m00---Pai-Rico-20---O-que-trava-as-pessoas.mp4",
+        "sha256": "bd35a56d42c841d00c7d9c34c8e753509c85cc15ce138abb111d50dee6e96ae3",
+        "tamanho_bytes": 22236045
+      },
+      "instagram": {
+        "legenda": "Cinco coisas travam quem quer ficar rico.\n\nE a última você nem percebe que tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nE cuidado com conselho de quem nunca tentou.\n\nQual desses te trava hoje?\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Cinco coisas travam quem quer ficar rico.\n\nE a última você nem percebe que tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nE cuidado com conselho de quem nunca tentou.\n\nQual desses te trava hoje?\n\nSegue a página pra ver mais livros assim: @livronalousa",
+        "status": "pendente"
+      }
     }
   ]
 }

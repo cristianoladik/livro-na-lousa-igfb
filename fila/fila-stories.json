@@ -2994,6 +2994,37 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261219-ea178d1e08",
+      "data": "2026-12-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "Dinheiro Segredos 13 - Juro e aluguel do dinheiro.mp4",
+        "sha256": "ea178d1e08a48873777848ae5f33fc280a1c4e03e9f5c3728fd8d70d3edcdcad",
+        "pacote": "Dinheiro Segredos 13 - Juro e aluguel do dinheiro",
+        "pacote_id": "story-ea178d1e08a4"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "status": "pendente",
+          "midia": {
+            "asset": "story-ea178d1e08-Dinheiro-Segredos-13---Juro-e-aluguel-do-dinheiro.mp4",
+            "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-ea178d1e08-Dinheiro-Segredos-13---Juro-e-aluguel-do-dinheiro.mp4",
+            "sha256": "ea178d1e08a48873777848ae5f33fc280a1c4e03e9f5c3728fd8d70d3edcdcad",
+            "tamanho_bytes": 5518227,
+            "duracao_segundos": 32.07
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ]
 }
