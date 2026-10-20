@@ -3049,7 +3049,8 @@
         "asset": "reel-2754a8a05c-Dinheiro-Segredos-16---A-casinha-de-campo.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-2754a8a05c-Dinheiro-Segredos-16---A-casinha-de-campo.mp4",
         "sha256": "2754a8a05ca6770f69196fe56552ebfe6a4da8db139b497c1ac311ccbe3e147b",
-        "tamanho_bytes": 6301851
+        "tamanho_bytes": 6301851,
+        "removido_da_release_em": "2026-10-20T11:11:28.535847-03:00"
       },
       "instagram": {
         "legenda": "Quem vai te sustentar quando você estiver na sua casinha de campo?\n\nEssa pergunta tá no livro Dinheiro, os Segredos de Quem Tem.\n\nSe ele não começa a trabalhar desde já, não vai começar quando sua renda acabar.\n\nPro autor, o rico sabe fazer planos.\n\nSegue a página pra ver mais livros assim: @livronalousa",
