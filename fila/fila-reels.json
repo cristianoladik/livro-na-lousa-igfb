@@ -3070,7 +3070,7 @@
       "id": "reel-20261020-1400-91ec78bd1f",
       "data": "2026-10-20",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 17 - A mala de rodinhas.mp4",
         "sha256": "91ec78bd1f816cc1a59425f94533152cf154bf6c34b22e4442cc3f4db7eea9f8"
@@ -3083,12 +3083,17 @@
       },
       "instagram": {
         "legenda": "A humanidade levou uns seis mil anos entre inventar a roda e colocar rodinha na mala.\n\nQuem reparou nisso foi o autor do livro Antifrágil.\n\nA lição do livro: muita descoberta importante não vem de planejamento.\n\nVem de tentativa, erro e prática.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18422783245154143",
+        "publicado_em": "2026-10-20T14:55:39.587027-03:00"
       },
       "facebook": {
         "legenda": "A humanidade levou uns seis mil anos entre inventar a roda e colocar rodinha na mala.\n\nQuem reparou nisso foi o autor do livro Antifrágil.\n\nA lição do livro: muita descoberta importante não vem de planejamento.\n\nVem de tentativa, erro e prática.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1849908413101313",
+        "publicado_em": "2026-10-20T14:55:49.420576-03:00"
+      },
+      "concluido_em": "2026-10-20T14:55:49.431191-03:00"
     },
     {
       "id": "reel-20261020-1700-23b1b76b90",
