@@ -3220,7 +3220,7 @@
       "id": "reel-20261021-1400-846b039cc8",
       "data": "2026-10-21",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 18 - Os filhos.mp4",
         "sha256": "846b039cc87c9be6b46b5d4f8f96c7989fbe5a05c8e57cfb70fcc9d8eaba0b60"
@@ -3233,12 +3233,17 @@
       },
       "instagram": {
         "legenda": "Educação financeira se ensina com exemplo, não com sermão.\n\nÉ o que diz o livro Casais Inteligentes Enriquecem Juntos.\n\nOutra ferramenta é a mesada.\n\nCom um valor limitado na mão, a criança aprende a escolher.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18413296579088188",
+        "publicado_em": "2026-10-21T15:02:24.387178-03:00"
       },
       "facebook": {
         "legenda": "Educação financeira se ensina com exemplo, não com sermão.\n\nÉ o que diz o livro Casais Inteligentes Enriquecem Juntos.\n\nOutra ferramenta é a mesada.\n\nCom um valor limitado na mão, a criança aprende a escolher.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1537859998368562",
+        "publicado_em": "2026-10-21T15:02:35.447932-03:00"
+      },
+      "concluido_em": "2026-10-21T15:02:35.460693-03:00"
     },
     {
       "id": "reel-20261021-1700-41cd9eb4d2",
