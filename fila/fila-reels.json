@@ -3160,7 +3160,7 @@
       "id": "reel-20261021-0800-2f007beaff",
       "data": "2026-10-21",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 18 - A madeira verde.mp4",
         "sha256": "2f007beaffe528401e3ae6a82bbf13692c81408049c5ef62abf9a763da3ca882"
@@ -3173,12 +3173,17 @@
       },
       "instagram": {
         "legenda": "O Joe Siegel foi um dos negociantes de maior sucesso em madeira verde.\n\nE ele achava que era madeira pintada de verde.\n\nEssa lição está no livro Antifrágil.\n\nO livro chama isso de falácia da madeira verde.\n\nO que parece importante de fora nem sempre é o que decide o jogo na prática.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18113167475179177",
+        "publicado_em": "2026-10-21T08:39:05.818333-03:00"
       },
       "facebook": {
         "legenda": "O Joe Siegel foi um dos negociantes de maior sucesso em madeira verde.\n\nE ele achava que era madeira pintada de verde.\n\nEssa lição está no livro Antifrágil.\n\nO livro chama isso de falácia da madeira verde.\n\nO que parece importante de fora nem sempre é o que decide o jogo na prática.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2605680136573538",
+        "publicado_em": "2026-10-21T08:39:36.128297-03:00"
+      },
+      "concluido_em": "2026-10-21T08:39:36.139184-03:00"
     },
     {
       "id": "reel-20261021-1100-7bc11dc4a4",
