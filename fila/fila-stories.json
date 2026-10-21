@@ -1188,7 +1188,7 @@
       "id": "story-20261021-e944fff380",
       "data": "2026-10-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 01 - Duas dividas diferentes.mp4",
         "sha256": "e944fff38015f03fb0cd1647746a1195df1f3b2262e9ca9ff368b16a9e31ad70",
@@ -1198,7 +1198,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-e944fff380-Credito-Vale-Mais-01---Duas-dividas-diferentes.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-e944fff380-Credito-Vale-Mais-01---Duas-dividas-diferentes.mp4",
@@ -1207,13 +1207,30 @@
             "duracao_segundos": 49.48
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18149824804518121",
+            "publish_iniciado_em": "2026-10-21T10:43:19-03:00",
+            "id": "18067907453665930",
+            "publicado_em": "2026-10-21T10:43:27-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1630858248586189",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-21T10:43:35-03:00",
+            "post_id_candidato": "857259130782000",
+            "finish_em": "2026-10-21T10:43:39-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjg1NzI1OTEzNzQ0ODY2Ng==/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "857259130782000",
+            "publicado_em": "2026-10-21T10:44:15-03:00"
+          },
+          "concluido_em": "2026-10-21T10:44:15-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-21T10:44:15-03:00"
     },
     {
       "id": "story-20261022-19d8d0b78c",
