@@ -3250,7 +3250,7 @@
       "id": "reel-20261021-1700-41cd9eb4d2",
       "data": "2026-10-21",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 19 - A pedra e as pedrinhas.mp4",
         "sha256": "41cd9eb4d2e004dbf8206b4a3b4557eeaf8cbc438fc4e23e52b3ec450607108e"
@@ -3263,12 +3263,17 @@
       },
       "instagram": {
         "legenda": "Um rei furioso jurou que ia esmagar o filho com uma pedra enorme.\n\nEssa história antiga tá no livro Antifrágil.\n\nÉ assim que se reconhece o frágil.\n\nO choque grande machuca muito mais do que a soma dos choques pequenos.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17999203455015738",
+        "publicado_em": "2026-10-21T18:34:03.383006-03:00"
       },
       "facebook": {
         "legenda": "Um rei furioso jurou que ia esmagar o filho com uma pedra enorme.\n\nEssa história antiga tá no livro Antifrágil.\n\nÉ assim que se reconhece o frágil.\n\nO choque grande machuca muito mais do que a soma dos choques pequenos.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1841162963995209",
+        "publicado_em": "2026-10-21T18:34:19.045904-03:00"
+      },
+      "concluido_em": "2026-10-21T18:34:19.055037-03:00"
     },
     {
       "id": "reel-20261021-2000-0bb3a4e037",
