@@ -3400,7 +3400,7 @@
       "id": "reel-20261022-1700-4da1a428ad",
       "data": "2026-10-22",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 20 - Os quatro ingredientes.mp4",
         "sha256": "4da1a428ad60b6be7ece9db312b15c1d94deb13122d894d63e42f9d9da69a660"
@@ -3413,12 +3413,17 @@
       },
       "instagram": {
         "legenda": "Investir tem quatro ingredientes, e o casal precisa dos quatro.\n\nQuem ensina é o autor, no livro Casais Inteligentes Enriquecem Juntos.\n\nSó o que o casal colocou já soma cento e vinte mil reais.\n\nCom os juros compostos trabalhando, o monte fica bem maior.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18131816686813067",
+        "publicado_em": "2026-10-22T18:58:32.891268-03:00"
       },
       "facebook": {
         "legenda": "Investir tem quatro ingredientes, e o casal precisa dos quatro.\n\nQuem ensina é o autor, no livro Casais Inteligentes Enriquecem Juntos.\n\nSó o que o casal colocou já soma cento e vinte mil reais.\n\nCom os juros compostos trabalhando, o monte fica bem maior.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28881473878141595",
+        "publicado_em": "2026-10-22T18:58:54.144701-03:00"
+      },
+      "concluido_em": "2026-10-22T18:58:54.157147-03:00"
     },
     {
       "id": "reel-20261022-2000-253e80fab6",
