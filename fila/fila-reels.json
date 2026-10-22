@@ -3349,7 +3349,8 @@
         "asset": "reel-dfe76091fc-Antifragil-20---A-venda-as-pressas.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-dfe76091fc-Antifragil-20---A-venda-as-pressas.mp4",
         "sha256": "dfe76091fc5b0b2cf8e9788b6065f3d715d359eaf7a6726abaeb270c10093399",
-        "tamanho_bytes": 6078590
+        "tamanho_bytes": 6078590,
+        "removido_da_release_em": "2026-10-22T11:11:18.251730-03:00"
       },
       "instagram": {
         "legenda": "Em dois mil e oito, um grande banco francês levou um susto.\n\nDescobriu que um funcionário escondia apostas gigantes.\n\nEssa lição está no livro Antifrágil.\n\nGrande demais é frágil.\n\nPequeno é menos frágil.\n\nDez perdas pequenas você aguenta.\n\nUma gigante pode te tirar do jogo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
