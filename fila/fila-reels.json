@@ -3310,7 +3310,7 @@
       "id": "reel-20261022-0800-5df8dc7070",
       "data": "2026-10-22",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 19 - Imprevistos e emprestimo.mp4",
         "sha256": "5df8dc7070078cd9cadeb6ffba1721b94098a6dbea36f9d8527c5f6a84f3c8d3"
@@ -3323,12 +3323,17 @@
       },
       "instagram": {
         "legenda": "Carro que quebra, doença na família, emprego que acaba.\n\nImprevisto não manda aviso.\n\nEssa lição está no livro Casais Inteligentes Enriquecem Juntos.\n\nE a mais cara, o cartão de crédito.\n\nSeguro e previdência também entram no plano do casal.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17955002880295709",
+        "publicado_em": "2026-10-22T08:39:34.124181-03:00"
       },
       "facebook": {
         "legenda": "Carro que quebra, doença na família, emprego que acaba.\n\nImprevisto não manda aviso.\n\nEssa lição está no livro Casais Inteligentes Enriquecem Juntos.\n\nE a mais cara, o cartão de crédito.\n\nSeguro e previdência também entram no plano do casal.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1448655383855210",
+        "publicado_em": "2026-10-22T08:39:48.761305-03:00"
+      },
+      "concluido_em": "2026-10-22T08:39:48.773460-03:00"
     },
     {
       "id": "reel-20261022-1100-dfe76091fc",
