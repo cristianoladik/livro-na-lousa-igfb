@@ -1237,7 +1237,7 @@
       "id": "story-20261022-19d8d0b78c",
       "data": "2026-10-22",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 01 - A folha de papel dobrada.mp4",
         "sha256": "19d8d0b78ced8ec0d2e359eb16af622a50ec9bb7d1e4b7bc4e750a4947090138",
@@ -1247,7 +1247,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-19d8d0b78c-Dinheiro-Segredos-01---A-folha-de-papel-dobrada.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-19d8d0b78c-Dinheiro-Segredos-01---A-folha-de-papel-dobrada.mp4",
@@ -1256,13 +1256,30 @@
             "duracao_segundos": 34.19
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18150105169518121",
+            "publish_iniciado_em": "2026-10-22T09:16:09-03:00",
+            "id": "18023768297716080",
+            "publicado_em": "2026-10-22T09:16:19-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1471948764748369",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-22T09:16:26-03:00",
+            "post_id_candidato": "1361249083744924",
+            "finish_em": "2026-10-22T09:16:31-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjEzNjEyNDkwOTA0MTE1OTA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1361249083744924",
+            "publicado_em": "2026-10-22T09:17:08-03:00"
+          },
+          "concluido_em": "2026-10-22T09:17:08-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-22T09:17:08-03:00"
     },
     {
       "id": "story-20261023-53bcbef1eb",
