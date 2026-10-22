@@ -3340,7 +3340,7 @@
       "id": "reel-20261022-1100-dfe76091fc",
       "data": "2026-10-22",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 20 - A venda as pressas.mp4",
         "sha256": "dfe76091fc5b0b2cf8e9788b6065f3d715d359eaf7a6726abaeb270c10093399"
@@ -3353,12 +3353,17 @@
       },
       "instagram": {
         "legenda": "Em dois mil e oito, um grande banco francês levou um susto.\n\nDescobriu que um funcionário escondia apostas gigantes.\n\nEssa lição está no livro Antifrágil.\n\nGrande demais é frágil.\n\nPequeno é menos frágil.\n\nDez perdas pequenas você aguenta.\n\nUma gigante pode te tirar do jogo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18114191942126896",
+        "publicado_em": "2026-10-22T11:11:05.200757-03:00"
       },
       "facebook": {
         "legenda": "Em dois mil e oito, um grande banco francês levou um susto.\n\nDescobriu que um funcionário escondia apostas gigantes.\n\nEssa lição está no livro Antifrágil.\n\nGrande demais é frágil.\n\nPequeno é menos frágil.\n\nDez perdas pequenas você aguenta.\n\nUma gigante pode te tirar do jogo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1508438627788575",
+        "publicado_em": "2026-10-22T11:11:15.613344-03:00"
+      },
+      "concluido_em": "2026-10-22T11:11:15.625545-03:00"
     },
     {
       "id": "reel-20261022-1400-9defd699a9",
