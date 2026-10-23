@@ -3430,7 +3430,7 @@
       "id": "reel-20261022-2000-253e80fab6",
       "data": "2026-10-22",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 01 - O dinheiro que encolheu.mp4",
         "sha256": "253e80fab6adb753e4cf1defedac969214729556b4537daa543776ea742544de"
@@ -3443,12 +3443,17 @@
       },
       "instagram": {
         "legenda": "Com o salário de alguns anos, muita família de antigamente conseguia a casa própria.\n\nHoje, tem gente que trabalha décadas e não chega nem perto.\n\nEssa lição está no livro Em Nome do Povo.\n\nEm boa parte, não foi a casa que ficou melhor.\n\nFoi o dinheiro que encolheu.\n\nE entender isso muda o jeito que você cuida do que ganha.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18116043011029801",
+        "publicado_em": "2026-10-22T21:34:32.004886-03:00"
       },
       "facebook": {
         "legenda": "Com o salário de alguns anos, muita família de antigamente conseguia a casa própria.\n\nHoje, tem gente que trabalha décadas e não chega nem perto.\n\nEssa lição está no livro Em Nome do Povo.\n\nEm boa parte, não foi a casa que ficou melhor.\n\nFoi o dinheiro que encolheu.\n\nE entender isso muda o jeito que você cuida do que ganha.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1148840084154058",
+        "publicado_em": "2026-10-22T21:34:40.806680-03:00"
+      },
+      "concluido_em": "2026-10-22T21:34:40.816794-03:00"
     },
     {
       "id": "reel-20261023-0800-d595b06a26",
