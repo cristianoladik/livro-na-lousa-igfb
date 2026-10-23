@@ -1286,7 +1286,7 @@
       "id": "story-20261023-53bcbef1eb",
       "data": "2026-10-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 02 - Hamurabi e a pele em jogo.mp4",
         "sha256": "53bcbef1eba7f9d7e8bb928fadc6b673311de2280ebdba487a7fe3afc52d1d80",
@@ -1296,7 +1296,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-53bcbef1eb-Antifragil-02---Hamurabi-e-a-pele-em-jogo.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-53bcbef1eb-Antifragil-02---Hamurabi-e-a-pele-em-jogo.mp4",
@@ -1305,13 +1305,30 @@
             "duracao_segundos": 35.78
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18150444505518121",
+            "publish_iniciado_em": "2026-10-23T09:16:06-03:00",
+            "id": "18149012896570870",
+            "publicado_em": "2026-10-23T09:16:15-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1717388439953399",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-23T09:16:23-03:00",
+            "post_id_candidato": "1640825211040735",
+            "finish_em": "2026-10-23T09:16:27-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE2NDA4MjUyMTQzNzQwNjg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1640825211040735",
+            "publicado_em": "2026-10-23T09:17:03-03:00"
+          },
+          "concluido_em": "2026-10-23T09:17:03-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-23T09:17:03-03:00"
     },
     {
       "id": "story-20261024-5427d2b5d8",
