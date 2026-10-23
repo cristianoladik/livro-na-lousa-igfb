@@ -3490,7 +3490,7 @@
       "id": "reel-20261023-1100-70165516f9",
       "data": "2026-10-23",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Iludidos pelo Acaso 01 - Fabrica de genios.mp4",
         "sha256": "70165516f98da98d36186867c21ebe3ec6da087fe6aa4cbefa9e1faba3261ab3"
@@ -3503,12 +3503,17 @@
       },
       "instagram": {
         "legenda": "Dá pra fabricar um gênio sem talento nenhum.\n\nQuem mostra como é o livro Iludidos pelo Acaso.\n\nVocê só enxerga os vencedores e esquece o tamanho do jogo.\n\nEntão, antes de acreditar num vencedor, pergunta quantos tentaram a mesma coisa e sumiram.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18154220479533324",
+        "publicado_em": "2026-10-23T11:12:00.700484-03:00"
       },
       "facebook": {
         "legenda": "Dá pra fabricar um gênio sem talento nenhum.\n\nQuem mostra como é o livro Iludidos pelo Acaso.\n\nVocê só enxerga os vencedores e esquece o tamanho do jogo.\n\nEntão, antes de acreditar num vencedor, pergunta quantos tentaram a mesma coisa e sumiram.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "29141877282103216",
+        "publicado_em": "2026-10-23T11:12:12.679407-03:00"
+      },
+      "concluido_em": "2026-10-23T11:12:12.686957-03:00"
     },
     {
       "id": "reel-20261023-1400-9f4535a777",
