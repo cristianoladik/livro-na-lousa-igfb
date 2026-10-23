@@ -3520,7 +3520,7 @@
       "id": "reel-20261023-1400-9f4535a777",
       "data": "2026-10-23",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Investidor Inteligente 01 - Investir ou apostar.mp4",
         "sha256": "9f4535a77773ee0e25935ceaabe09dff42dc27252faa9c706bed8bdd07e34f15"
@@ -3533,12 +3533,17 @@
       },
       "instagram": {
         "legenda": "Muita gente diz que investe, mas na verdade tá apostando.\n\nE nem percebe a diferença.\n\nEssa lição está no livro O Investidor Inteligente.\n\nVocê comprou porque sabe quanto aquilo vale, ou só porque tá subindo?\n\nSe a resposta for a segunda, é aposta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18228682858336430",
+        "publicado_em": "2026-10-23T15:16:08.878024-03:00"
       },
       "facebook": {
         "legenda": "Muita gente diz que investe, mas na verdade tá apostando.\n\nE nem percebe a diferença.\n\nEssa lição está no livro O Investidor Inteligente.\n\nVocê comprou porque sabe quanto aquilo vale, ou só porque tá subindo?\n\nSe a resposta for a segunda, é aposta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1635291268293051",
+        "publicado_em": "2026-10-23T15:16:18.852924-03:00"
+      },
+      "concluido_em": "2026-10-23T15:16:18.861182-03:00"
     },
     {
       "id": "reel-20261023-1700-f19f135211",
