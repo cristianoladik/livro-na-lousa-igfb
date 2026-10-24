@@ -1351,7 +1351,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-5427d2b5d8-Babilonia-02---Bansir-e-Kobbi.mp4",
             "sha256": "5427d2b5d8d5356d6aa3b6023939aa41f2a7cd7c569231b4c0fb66140b62c8a9",
             "tamanho_bytes": 7044200,
-            "duracao_segundos": 34.708
+            "duracao_segundos": 34.708,
+            "removido_da_release_em": "2026-10-24T09:18:16.104293-03:00"
           },
           "instagram": {
             "status": "publicado",
