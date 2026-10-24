@@ -1335,7 +1335,7 @@
       "id": "story-20261024-5427d2b5d8",
       "data": "2026-10-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 02 - Bansir e Kobbi.mp4",
         "sha256": "5427d2b5d8d5356d6aa3b6023939aa41f2a7cd7c569231b4c0fb66140b62c8a9",
@@ -1345,7 +1345,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-5427d2b5d8-Babilonia-02---Bansir-e-Kobbi.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-5427d2b5d8-Babilonia-02---Bansir-e-Kobbi.mp4",
@@ -1354,13 +1354,30 @@
             "duracao_segundos": 34.708
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18150773329518121",
+            "publish_iniciado_em": "2026-10-24T09:17:07-03:00",
+            "id": "18114905398846197",
+            "publicado_em": "2026-10-24T09:17:18-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1668049781575951",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-24T09:17:30-03:00",
+            "post_id_candidato": "2896127627436753",
+            "finish_em": "2026-10-24T09:17:36-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjI4OTYxMjc2MzA3NzAwODY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2896127627436753",
+            "publicado_em": "2026-10-24T09:18:13-03:00"
+          },
+          "concluido_em": "2026-10-24T09:18:13-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-24T09:18:13-03:00"
     },
     {
       "id": "story-20261025-d9d18ebfbf",
