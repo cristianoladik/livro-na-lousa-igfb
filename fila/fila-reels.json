@@ -3640,7 +3640,7 @@
       "id": "reel-20261024-1100-8f88e39773",
       "data": "2026-10-24",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 01 - Ronald Read e Richard Fuscone.mp4",
         "sha256": "8f88e3977302e875e631412589c8bf03a5e8fa48abfa0e6bdda4f268374f039c"
@@ -3653,12 +3653,17 @@
       },
       "instagram": {
         "legenda": "Um faxineiro ficou mais rico que um executivo de Harvard.\n\nComo pode?\n\nEssa história abre o livro A Psicologia Financeira.\n\nE na crise de dois mil e oito, faliu.\n\nCom dinheiro, comportamento vale mais que diploma.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18319176622303671",
+        "publicado_em": "2026-10-24T11:12:01.787958-03:00"
       },
       "facebook": {
         "legenda": "Um faxineiro ficou mais rico que um executivo de Harvard.\n\nComo pode?\n\nEssa história abre o livro A Psicologia Financeira.\n\nE na crise de dois mil e oito, faliu.\n\nCom dinheiro, comportamento vale mais que diploma.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "980081435160177",
+        "publicado_em": "2026-10-24T11:12:13.036952-03:00"
+      },
+      "concluido_em": "2026-10-24T11:12:13.049373-03:00"
     },
     {
       "id": "reel-20261024-1400-29a0898fbb",
