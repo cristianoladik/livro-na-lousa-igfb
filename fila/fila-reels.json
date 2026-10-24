@@ -3580,7 +3580,7 @@
       "id": "reel-20261023-2000-35223ae782",
       "data": "2026-10-23",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Mais Importante 01 - Pensar um passo alem.mp4",
         "sha256": "35223ae78204f711f91e1a71f8c18ec4532054a40d09eb1ab451d1c98979c057"
@@ -3593,12 +3593,17 @@
       },
       "instagram": {
         "legenda": "Se todo mundo já sabe que é bom, você chegou atrasado.\n\nEssa é uma das ideias mais fortes do livro O Mais Importante para o Investidor.\n\nVamos à pergunta.\n\nAntes de decidir, pergunte: o que é que todo mundo ainda não viu?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18128709769841681",
+        "publicado_em": "2026-10-23T21:30:43.675196-03:00"
       },
       "facebook": {
         "legenda": "Se todo mundo já sabe que é bom, você chegou atrasado.\n\nEssa é uma das ideias mais fortes do livro O Mais Importante para o Investidor.\n\nVamos à pergunta.\n\nAntes de decidir, pergunte: o que é que todo mundo ainda não viu?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1599922108577953",
+        "publicado_em": "2026-10-23T21:30:56.303278-03:00"
+      },
+      "concluido_em": "2026-10-23T21:30:56.310892-03:00"
     },
     {
       "id": "reel-20261024-0800-328db28606",
