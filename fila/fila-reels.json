@@ -3649,7 +3649,8 @@
         "asset": "reel-8f88e39773-Psicologia-Financeira-01---Ronald-Read-e-Richard-Fuscone.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-8f88e39773-Psicologia-Financeira-01---Ronald-Read-e-Richard-Fuscone.mp4",
         "sha256": "8f88e3977302e875e631412589c8bf03a5e8fa48abfa0e6bdda4f268374f039c",
-        "tamanho_bytes": 6135657
+        "tamanho_bytes": 6135657,
+        "removido_da_release_em": "2026-10-24T11:12:15.443256-03:00"
       },
       "instagram": {
         "legenda": "Um faxineiro ficou mais rico que um executivo de Harvard.\n\nComo pode?\n\nEssa história abre o livro A Psicologia Financeira.\n\nE na crise de dois mil e oito, faliu.\n\nCom dinheiro, comportamento vale mais que diploma.\n\nSegue a página pra ver mais livros assim: @livronalousa",
