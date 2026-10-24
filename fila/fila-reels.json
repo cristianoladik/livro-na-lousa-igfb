@@ -3610,7 +3610,7 @@
       "id": "reel-20261024-0800-328db28606",
       "data": "2026-10-24",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 01 - Kufa - a praca sem espetinho.mp4",
         "sha256": "328db2860688c498083748cc7976567e71587d28dbab7343c7705e1975e57f88"
@@ -3623,12 +3623,17 @@
       },
       "instagram": {
         "legenda": "Um militar evitou uma confusão de rua sem usar soldado nenhum.\n\nSó tirou os vendedores de comida.\n\nEssa lição está no livro O Poder do Hábito.\n\nA fome bateu, e o pessoal foi embora jantar.\n\nEle não mudou a vontade de ninguém.\n\nSó tirou uma peça do hábito.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18097298726199940",
+        "publicado_em": "2026-10-24T09:16:06.624938-03:00"
       },
       "facebook": {
         "legenda": "Um militar evitou uma confusão de rua sem usar soldado nenhum.\n\nSó tirou os vendedores de comida.\n\nEssa lição está no livro O Poder do Hábito.\n\nA fome bateu, e o pessoal foi embora jantar.\n\nEle não mudou a vontade de ninguém.\n\nSó tirou uma peça do hábito.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "39993713250219550",
+        "publicado_em": "2026-10-24T09:16:18.455876-03:00"
+      },
+      "concluido_em": "2026-10-24T09:16:18.468270-03:00"
     },
     {
       "id": "reel-20261024-1100-8f88e39773",
