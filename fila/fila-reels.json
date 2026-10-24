@@ -3670,7 +3670,7 @@
       "id": "reel-20261024-1400-29a0898fbb",
       "data": "2026-10-24",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Rapido e Devagar 01 - O taco e a bola.mp4",
         "sha256": "29a0898fbba8870a5782713ee109cc3807ef0140d6f6f279612d377b95b23ea3"
@@ -3683,12 +3683,17 @@
       },
       "instagram": {
         "legenda": "Tenho uma conta que parece fácil, mas derruba quase todo mundo.\n\nEla tá no livro Rápido e Devagar.\n\nNão é burrice.\n\nÉ preguiça de conferir.\n\nResposta fácil demais?\n\nDesconfia e refaz a conta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18185145208424527",
+        "publicado_em": "2026-10-24T14:22:41.800454-03:00"
       },
       "facebook": {
         "legenda": "Tenho uma conta que parece fácil, mas derruba quase todo mundo.\n\nEla tá no livro Rápido e Devagar.\n\nNão é burrice.\n\nÉ preguiça de conferir.\n\nResposta fácil demais?\n\nDesconfia e refaz a conta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "807558492452341",
+        "publicado_em": "2026-10-24T14:22:51.173392-03:00"
+      },
+      "concluido_em": "2026-10-24T14:22:51.186130-03:00"
     },
     {
       "id": "reel-20261024-1700-ba78e59b8d",
