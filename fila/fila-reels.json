@@ -3829,7 +3829,8 @@
         "asset": "reel-e676172919-Em-Nome-do-Povo-02---Milho-por-galinha.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-e676172919-Em-Nome-do-Povo-02---Milho-por-galinha.mp4",
         "sha256": "e676172919f3ddfe4e1da33b0430f6ec67efb9ac185022d1e81473c254cf365f",
-        "tamanho_bytes": 4160644
+        "tamanho_bytes": 4160644,
+        "removido_da_release_em": "2026-10-25T14:02:03.576290-03:00"
       },
       "instagram": {
         "legenda": "Imagina pagar o pão com uma galinha.\n\nEra mais ou menos assim antes do dinheiro, e o livro Em Nome do Povo começa bem por aí.\n\nO escambo só funcionava quando os dois queriam exatamente o que o outro tinha.\n\nE foi pra resolver essa dor de cabeça que as pessoas procuraram algo que todo mundo aceitasse.\n\nSegue a página pra ver mais livros assim: @livronalousa",
