@@ -3859,7 +3859,8 @@
         "asset": "reel-25bde20f1d-Habitos-Atomicos-02---A-conta-do-lanche.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-25bde20f1d-Habitos-Atomicos-02---A-conta-do-lanche.mp4",
         "sha256": "25bde20f1d1e0a7c267c9b4098fdeea79e9d4fbcb05f20e91d144de87f20fef2",
-        "tamanho_bytes": 5460276
+        "tamanho_bytes": 5460276,
+        "removido_da_release_em": "2026-10-25T19:00:58.526855-03:00"
       },
       "instagram": {
         "legenda": "Um lanche de quinze reais parece coisa pouca.\n\nMas o livro Hábitos Atômicos mostra que o pequeno, repetido, vira grande.\n\nNo fim do ano, uma disparou e a outra encostou no chão.\n\nPor isso o livro compara hábito com juro composto.\n\nSegue a página pra ver mais livros assim: @livronalousa",
