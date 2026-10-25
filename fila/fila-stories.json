@@ -1384,7 +1384,7 @@
       "id": "story-20261025-d9d18ebfbf",
       "data": "2026-10-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 02 - O poupador.mp4",
         "sha256": "d9d18ebfbfb2eb4ed276c102394fc116f397935970ddadd6ad1cb7fa632d30ca",
@@ -1394,7 +1394,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-d9d18ebfbf-Casais-Inteligentes-02---O-poupador.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-d9d18ebfbf-Casais-Inteligentes-02---O-poupador.mp4",
@@ -1403,13 +1403,30 @@
             "duracao_segundos": 28.74
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18151150567518121",
+            "publish_iniciado_em": "2026-10-25T09:16:49-03:00",
+            "id": "18119845094057876",
+            "publicado_em": "2026-10-25T09:16:58-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2292080171636746",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-25T09:17:06-03:00",
+            "post_id_candidato": "1415479800671130",
+            "finish_em": "2026-10-25T09:17:10-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE0MTU0Nzk4MTQwMDQ0NjI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1415479800671130",
+            "publicado_em": "2026-10-25T09:17:46-03:00"
+          },
+          "concluido_em": "2026-10-25T09:17:46-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-25T09:17:46-03:00"
     },
     {
       "id": "story-20261026-28c76df243",
