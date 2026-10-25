@@ -3760,7 +3760,7 @@
       "id": "reel-20261025-0800-798111c22c",
       "data": "2026-10-25",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 01 - As muralhas da Babilonia.mp4",
         "sha256": "798111c22cc46841950a14abc98c6be2cce89245d58425da224619ee394a208f"
@@ -3773,12 +3773,17 @@
       },
       "instagram": {
         "legenda": "Um exército cercou a cidade mais rica do mundo.\n\nE ela não caiu.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nDoença, desemprego, conserto que ninguém esperava.\n\nQuem tem muralha passa pelo cerco.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17913012243514647",
+        "publicado_em": "2026-10-25T08:14:09.518687-03:00"
       },
       "facebook": {
         "legenda": "Um exército cercou a cidade mais rica do mundo.\n\nE ela não caiu.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nDoença, desemprego, conserto que ninguém esperava.\n\nQuem tem muralha passa pelo cerco.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1640146737482363",
+        "publicado_em": "2026-10-25T08:14:20.893151-03:00"
+      },
+      "concluido_em": "2026-10-25T08:14:20.906050-03:00"
     },
     {
       "id": "reel-20261025-1100-fdace49abb",
