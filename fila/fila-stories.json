@@ -1400,7 +1400,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-d9d18ebfbf-Casais-Inteligentes-02---O-poupador.mp4",
             "sha256": "d9d18ebfbfb2eb4ed276c102394fc116f397935970ddadd6ad1cb7fa632d30ca",
             "tamanho_bytes": 4540000,
-            "duracao_segundos": 28.74
+            "duracao_segundos": 28.74,
+            "removido_da_release_em": "2026-10-25T09:17:48.523463-03:00"
           },
           "instagram": {
             "status": "publicado",
