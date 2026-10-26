@@ -1449,7 +1449,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-28c76df243-Ciclo-de-Mercado-02---A-febre-das-tulipas.mp4",
             "sha256": "28c76df24308153b2348854d2e3c7a214f9677695155ec2cb3d2a1847073b3cc",
             "tamanho_bytes": 4748940,
-            "duracao_segundos": 31.833
+            "duracao_segundos": 31.833,
+            "removido_da_release_em": "2026-10-26T09:18:43.101896-03:00"
           },
           "instagram": {
             "status": "publicado",
