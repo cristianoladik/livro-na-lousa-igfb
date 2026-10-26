@@ -1433,7 +1433,7 @@
       "id": "story-20261026-28c76df243",
       "data": "2026-10-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 02 - A febre das tulipas.mp4",
         "sha256": "28c76df24308153b2348854d2e3c7a214f9677695155ec2cb3d2a1847073b3cc",
@@ -1443,7 +1443,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-28c76df243-Ciclo-de-Mercado-02---A-febre-das-tulipas.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-28c76df243-Ciclo-de-Mercado-02---A-febre-das-tulipas.mp4",
@@ -1452,13 +1452,30 @@
             "duracao_segundos": 31.833
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18151551100518121",
+            "publish_iniciado_em": "2026-10-26T09:17:41-03:00",
+            "id": "17879062011633195",
+            "publicado_em": "2026-10-26T09:17:49-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1914211606224611",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-26T09:18:00-03:00",
+            "post_id_candidato": "1812854243333680",
+            "finish_em": "2026-10-26T09:18:03-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE4MTI4NTQyNDY2NjcwMTM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1812854243333680",
+            "publicado_em": "2026-10-26T09:18:39-03:00"
+          },
+          "concluido_em": "2026-10-26T09:18:39-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-26T09:18:39-03:00"
     },
     {
       "id": "story-20261027-bf235b013f",
