@@ -4000,7 +4000,7 @@
       "id": "reel-20261026-1700-97ff485f1c",
       "data": "2026-10-26",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 02 - Lisa Allen - um habito so.mp4",
         "sha256": "97ff485f1c7884d81fd93f15b67c0eb7b96606c1563fcafbf00c06202d374902"
@@ -4013,12 +4013,17 @@
       },
       "instagram": {
         "legenda": "Ela mudou um hábito só, e o resto da vida veio junto.\n\nO nome dela é Lisa Allen.\n\nEssa lição está no livro O Poder do Hábito.\n\nO livro chama isso de hábito-chave: quando ele muda, arrasta os outros junto.\n\nComo a primeira peça do dominó.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18119384080991876",
+        "publicado_em": "2026-10-26T18:18:11.046375-03:00"
       },
       "facebook": {
         "legenda": "Ela mudou um hábito só, e o resto da vida veio junto.\n\nO nome dela é Lisa Allen.\n\nEssa lição está no livro O Poder do Hábito.\n\nO livro chama isso de hábito-chave: quando ele muda, arrasta os outros junto.\n\nComo a primeira peça do dominó.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "29454428707577918",
+        "publicado_em": "2026-10-26T18:18:26.679803-03:00"
+      },
+      "concluido_em": "2026-10-26T18:18:26.692709-03:00"
     },
     {
       "id": "reel-20261026-2000-a0551a5b39",
