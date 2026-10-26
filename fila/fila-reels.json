@@ -3970,7 +3970,7 @@
       "id": "reel-20261026-1400-f1e0d78250",
       "data": "2026-10-26",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Mais Importante 02 - Sem formula magica.mp4",
         "sha256": "f1e0d78250b8cbc7fb538a7e2ccb85032decab6169dc1000d89379130945a0e4"
@@ -3983,12 +3983,17 @@
       },
       "instagram": {
         "legenda": "Um livro de investimento que não promete te deixar rico?\n\nPois é exatamente isso que O Mais Importante para o Investidor faz.\n\nSozinho, cada cuidado parece bobo.\n\nSomados por anos, eles separam quem cresce de quem quebra no caminho.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17876029896650437",
+        "publicado_em": "2026-10-26T14:53:24.195473-03:00"
       },
       "facebook": {
         "legenda": "Um livro de investimento que não promete te deixar rico?\n\nPois é exatamente isso que O Mais Importante para o Investidor faz.\n\nSozinho, cada cuidado parece bobo.\n\nSomados por anos, eles separam quem cresce de quem quebra no caminho.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28774595048867417",
+        "publicado_em": "2026-10-26T14:53:34.890762-03:00"
+      },
+      "concluido_em": "2026-10-26T14:53:34.903100-03:00"
     },
     {
       "id": "reel-20261026-1700-97ff485f1c",
