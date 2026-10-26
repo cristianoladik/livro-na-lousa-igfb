@@ -3910,7 +3910,7 @@
       "id": "reel-20261026-0800-b8e85f67be",
       "data": "2026-10-26",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Investidor Inteligente 02 - O socio de humor maluco.mp4",
         "sha256": "b8e85f67be57fd01d2d7cb6cb1ddb86b9a013427202b9d512a6eb23eebba0363"
@@ -3923,12 +3923,17 @@
       },
       "instagram": {
         "legenda": "Imagina dividir uma empresa com um sócio meio desequilibrado.\n\nTodo dia ele bate na sua porta com uma proposta nova.\n\nEssa lição está no livro O Investidor Inteligente.\n\nMuitas vezes, foi só o humor.\n\nE se foi só o humor, você não precisa sair correndo junto com ele.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18398758951165406",
+        "publicado_em": "2026-10-26T09:16:32.153884-03:00"
       },
       "facebook": {
         "legenda": "Imagina dividir uma empresa com um sócio meio desequilibrado.\n\nTodo dia ele bate na sua porta com uma proposta nova.\n\nEssa lição está no livro O Investidor Inteligente.\n\nMuitas vezes, foi só o humor.\n\nE se foi só o humor, você não precisa sair correndo junto com ele.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1152251407317552",
+        "publicado_em": "2026-10-26T09:16:43.683810-03:00"
+      },
+      "concluido_em": "2026-10-26T09:16:43.694282-03:00"
     },
     {
       "id": "reel-20261026-1100-8124eb245c",
