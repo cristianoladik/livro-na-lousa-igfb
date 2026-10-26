@@ -3880,7 +3880,7 @@
       "id": "reel-20261025-2000-bf4458a718",
       "data": "2026-10-25",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Iludidos pelo Acaso 02 - O macaco escritor.mp4",
         "sha256": "bf4458a7185ae38ab96cbea59392211b7df90921c0b15897422b7e47ee9e5a82"
@@ -3893,12 +3893,17 @@
       },
       "instagram": {
         "legenda": "Um macaco pode escrever um clássico da literatura.\n\nEssa provocação tá no livro Iludidos pelo Acaso.\n\nSó que a gente faz essa aposta o tempo todo com quem acertou uma vez no dinheiro.\n\nAcertou uma vez?\n\nPode ter sido só o macaco da vez.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18110173484233471",
+        "publicado_em": "2026-10-25T21:07:19.951582-03:00"
       },
       "facebook": {
         "legenda": "Um macaco pode escrever um clássico da literatura.\n\nEssa provocação tá no livro Iludidos pelo Acaso.\n\nSó que a gente faz essa aposta o tempo todo com quem acertou uma vez no dinheiro.\n\nAcertou uma vez?\n\nPode ter sido só o macaco da vez.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1100022406350722",
+        "publicado_em": "2026-10-25T21:07:29.374654-03:00"
+      },
+      "concluido_em": "2026-10-25T21:07:29.385235-03:00"
     },
     {
       "id": "reel-20261026-0800-b8e85f67be",
