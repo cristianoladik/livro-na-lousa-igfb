@@ -3889,7 +3889,8 @@
         "asset": "reel-bf4458a718-Iludidos-pelo-Acaso-02---O-macaco-escritor.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-bf4458a718-Iludidos-pelo-Acaso-02---O-macaco-escritor.mp4",
         "sha256": "bf4458a7185ae38ab96cbea59392211b7df90921c0b15897422b7e47ee9e5a82",
-        "tamanho_bytes": 4374105
+        "tamanho_bytes": 4374105,
+        "removido_da_release_em": "2026-10-25T21:07:31.340087-03:00"
       },
       "instagram": {
         "legenda": "Um macaco pode escrever um clássico da literatura.\n\nEssa provocação tá no livro Iludidos pelo Acaso.\n\nSó que a gente faz essa aposta o tempo todo com quem acertou uma vez no dinheiro.\n\nAcertou uma vez?\n\nPode ter sido só o macaco da vez.\n\nSegue a página pra ver mais livros assim: @livronalousa",
