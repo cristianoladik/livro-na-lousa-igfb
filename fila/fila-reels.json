@@ -4030,7 +4030,7 @@
       "id": "reel-20261026-2000-a0551a5b39",
       "data": "2026-10-26",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 02 - Ninguem e louco a loteria.mp4",
         "sha256": "a0551a5b398bef10b383d463c36dbedf7237cd165f5c9cf21b884b19bb177f81"
@@ -4043,12 +4043,17 @@
       },
       "instagram": {
         "legenda": "As famílias mais pobres gastam mais com loteria do que as ricas.\n\nParece loucura, né?\n\nEssa lição está no livro A Psicologia Financeira.\n\nIsso não quer dizer que loteria seja um bom investimento.\n\nQuer dizer que entender o outro vem antes de julgar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18078380162724770",
+        "publicado_em": "2026-10-26T21:37:09.635527-03:00"
       },
       "facebook": {
         "legenda": "As famílias mais pobres gastam mais com loteria do que as ricas.\n\nParece loucura, né?\n\nEssa lição está no livro A Psicologia Financeira.\n\nIsso não quer dizer que loteria seja um bom investimento.\n\nQuer dizer que entender o outro vem antes de julgar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1127038500054457",
+        "publicado_em": "2026-10-26T21:37:25.066539-03:00"
+      },
+      "concluido_em": "2026-10-26T21:37:25.074797-03:00"
     },
     {
       "id": "reel-20261027-0800-d0dd9793d5",
