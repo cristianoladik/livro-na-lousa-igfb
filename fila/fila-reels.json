@@ -4039,7 +4039,8 @@
         "asset": "reel-a0551a5b39-Psicologia-Financeira-02---Ninguem-e-louco-a-loteria.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-a0551a5b39-Psicologia-Financeira-02---Ninguem-e-louco-a-loteria.mp4",
         "sha256": "a0551a5b398bef10b383d463c36dbedf7237cd165f5c9cf21b884b19bb177f81",
-        "tamanho_bytes": 5368191
+        "tamanho_bytes": 5368191,
+        "removido_da_release_em": "2026-10-26T21:37:27.542670-03:00"
       },
       "instagram": {
         "legenda": "As famílias mais pobres gastam mais com loteria do que as ricas.\n\nParece loucura, né?\n\nEssa lição está no livro A Psicologia Financeira.\n\nIsso não quer dizer que loteria seja um bom investimento.\n\nQuer dizer que entender o outro vem antes de julgar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
