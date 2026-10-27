@@ -1498,7 +1498,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-bf235b013f-Credito-Vale-Mais-02---O-preco-que-foge.mp4",
             "sha256": "bf235b013fcbd766ed54d7beef43a2158cc9613fc9ee96a1ae63f40924c482fd",
             "tamanho_bytes": 5032203,
-            "duracao_segundos": 34.82
+            "duracao_segundos": 34.82,
+            "removido_da_release_em": "2026-10-27T09:17:02.838048-03:00"
           },
           "instagram": {
             "status": "publicado",
