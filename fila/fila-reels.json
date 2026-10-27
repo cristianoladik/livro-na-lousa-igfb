@@ -4060,7 +4060,7 @@
       "id": "reel-20261027-0800-d0dd9793d5",
       "data": "2026-10-27",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Rapido e Devagar 02 - O efeito aureola.mp4",
         "sha256": "d0dd9793d568723bfe21bd10c88946d74aacd1daa3484812c58e6701f7399690"
@@ -4073,12 +4073,17 @@
       },
       "instagram": {
         "legenda": "A ordem das palavras muda o que você pensa de uma pessoa.\n\nO livro Rápido e Devagar mostra isso com dois homens.\n\nE ele te pega quando um vendedor simpático te convence de um negócio que você nem entendeu.\n\nAntes de assinar, separa a pessoa da proposta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17893130160653859",
+        "publicado_em": "2026-10-27T09:01:16.902811-03:00"
       },
       "facebook": {
         "legenda": "A ordem das palavras muda o que você pensa de uma pessoa.\n\nO livro Rápido e Devagar mostra isso com dois homens.\n\nE ele te pega quando um vendedor simpático te convence de um negócio que você nem entendeu.\n\nAntes de assinar, separa a pessoa da proposta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1104184049066429",
+        "publicado_em": "2026-10-27T09:01:26.353379-03:00"
+      },
+      "concluido_em": "2026-10-27T09:01:26.363749-03:00"
     },
     {
       "id": "reel-20261027-1100-01ff70a5b6",
