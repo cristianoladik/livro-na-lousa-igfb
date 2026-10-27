@@ -4150,7 +4150,7 @@
       "id": "reel-20261027-1700-0f0fb6719f",
       "data": "2026-10-27",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 03 - Por que o ouro venceu.mp4",
         "sha256": "0f0fb6719f28d38a984a40708d56129afa84a5c59f260d1845ffc1c200c893c8"
@@ -4163,12 +4163,17 @@
       },
       "instagram": {
         "legenda": "Sal já foi dinheiro.\n\nGado também.\n\nE até concha do mar.\n\nParece piada, mas é um capítulo da história que o livro Em Nome do Povo conta.\n\nPor isso, durante muito tempo, foram o dinheiro aceito em quase todo lugar.\n\nSó que carregar ouro pra lá e pra cá tinha um problema sério.\n\nMas isso fica pro próximo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17977373103144043",
+        "publicado_em": "2026-10-27T17:37:56.513128-03:00"
       },
       "facebook": {
         "legenda": "Sal já foi dinheiro.\n\nGado também.\n\nE até concha do mar.\n\nParece piada, mas é um capítulo da história que o livro Em Nome do Povo conta.\n\nPor isso, durante muito tempo, foram o dinheiro aceito em quase todo lugar.\n\nSó que carregar ouro pra lá e pra cá tinha um problema sério.\n\nMas isso fica pro próximo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1717382843770758",
+        "publicado_em": "2026-10-27T17:38:08.219287-03:00"
+      },
+      "concluido_em": "2026-10-27T17:38:08.231508-03:00"
     },
     {
       "id": "reel-20261027-2000-4e64c47726",
