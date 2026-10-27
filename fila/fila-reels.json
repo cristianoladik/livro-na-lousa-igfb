@@ -4090,7 +4090,7 @@
       "id": "reel-20261027-1100-01ff70a5b6",
       "data": "2026-10-27",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 02 - Bansir e Kobbi.mp4",
         "sha256": "01ff70a5b6cb12ef8abe1ee9cb3caa9684b5c64702e2e09892b40923f0032de8"
@@ -4103,12 +4103,17 @@
       },
       "instagram": {
         "legenda": "Trabalhou a vida inteira e não tem nada guardado?\n\nUm livro de cem anos explica por quê.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nMas sobre dinheiro, os dois nunca tentaram aprender nada.\n\nE pra você, alguém ensinou?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18399271075202327",
+        "publicado_em": "2026-10-27T11:11:33.831743-03:00"
       },
       "facebook": {
         "legenda": "Trabalhou a vida inteira e não tem nada guardado?\n\nUm livro de cem anos explica por quê.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nMas sobre dinheiro, os dois nunca tentaram aprender nada.\n\nE pra você, alguém ensinou?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1511850504109716",
+        "publicado_em": "2026-10-27T11:11:43.801147-03:00"
+      },
+      "concluido_em": "2026-10-27T11:11:43.814664-03:00"
     },
     {
       "id": "reel-20261027-1400-a40044f01d",
