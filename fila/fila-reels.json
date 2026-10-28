@@ -4249,7 +4249,8 @@
         "asset": "reel-32b59cd4ae-Investidor-Inteligente-03---Laranja-cara-e-laranja-barata.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-32b59cd4ae-Investidor-Inteligente-03---Laranja-cara-e-laranja-barata.mp4",
         "sha256": "32b59cd4aee61597de59191249a961f693dd548d84d538057b9d20adafdef635",
-        "tamanho_bytes": 5499884
+        "tamanho_bytes": 5499884,
+        "removido_da_release_em": "2026-10-28T11:11:20.347790-03:00"
       },
       "instagram": {
         "legenda": "Uma coisa cara pode ser barata, e uma coisa barata pode ser cara.\n\nParece enrolação, mas é a base do livro O Investidor Inteligente.\n\nO livro manda olhar o que ela lucra e o que ela tem, antes de olhar a cotação.\n\nQuem só olha o preço compra laranja podre achando que fez negócio.\n\nSegue a página pra ver mais livros assim: @livronalousa",
