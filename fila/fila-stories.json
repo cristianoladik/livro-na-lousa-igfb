@@ -1531,7 +1531,7 @@
       "id": "story-20261028-3423cbc833",
       "data": "2026-10-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 02 - A frase do Dickens.mp4",
         "sha256": "3423cbc833100ccdcb6d7c25193354dc8cfc27d3cfcb489b5d75aa88329a6e1a",
@@ -1541,7 +1541,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-3423cbc833-Dinheiro-Segredos-02---A-frase-do-Dickens.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-3423cbc833-Dinheiro-Segredos-02---A-frase-do-Dickens.mp4",
@@ -1550,13 +1550,30 @@
             "duracao_segundos": 34.792
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18152295892518121",
+            "publish_iniciado_em": "2026-10-28T09:16:46-03:00",
+            "id": "18398302210286552",
+            "publicado_em": "2026-10-28T09:16:53-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2158173571755972",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-28T09:16:59-03:00",
+            "post_id_candidato": "1429946275981799",
+            "finish_em": "2026-10-28T09:17:03-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE0Mjk5NDYyODI2NDg0NjU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1429946275981799",
+            "publicado_em": "2026-10-28T09:17:40-03:00"
+          },
+          "concluido_em": "2026-10-28T09:17:40-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-28T09:17:40-03:00"
     },
     {
       "id": "story-20261029-c1a4aeaf50",
