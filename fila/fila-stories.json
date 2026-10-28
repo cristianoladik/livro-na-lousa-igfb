@@ -1547,7 +1547,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-3423cbc833-Dinheiro-Segredos-02---A-frase-do-Dickens.mp4",
             "sha256": "3423cbc833100ccdcb6d7c25193354dc8cfc27d3cfcb489b5d75aa88329a6e1a",
             "tamanho_bytes": 5244370,
-            "duracao_segundos": 34.792
+            "duracao_segundos": 34.792,
+            "removido_da_release_em": "2026-10-28T09:17:44.122733-03:00"
           },
           "instagram": {
             "status": "publicado",
