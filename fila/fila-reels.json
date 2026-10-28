@@ -4240,7 +4240,7 @@
       "id": "reel-20261028-1100-32b59cd4ae",
       "data": "2026-10-28",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Investidor Inteligente 03 - Laranja cara e laranja barata.mp4",
         "sha256": "32b59cd4aee61597de59191249a961f693dd548d84d538057b9d20adafdef635"
@@ -4253,12 +4253,17 @@
       },
       "instagram": {
         "legenda": "Uma coisa cara pode ser barata, e uma coisa barata pode ser cara.\n\nParece enrolação, mas é a base do livro O Investidor Inteligente.\n\nO livro manda olhar o que ela lucra e o que ela tem, antes de olhar a cotação.\n\nQuem só olha o preço compra laranja podre achando que fez negócio.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17987563143093172",
+        "publicado_em": "2026-10-28T11:11:09.943251-03:00"
       },
       "facebook": {
         "legenda": "Uma coisa cara pode ser barata, e uma coisa barata pode ser cara.\n\nParece enrolação, mas é a base do livro O Investidor Inteligente.\n\nO livro manda olhar o que ela lucra e o que ela tem, antes de olhar a cotação.\n\nQuem só olha o preço compra laranja podre achando que fez negócio.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2794301954299721",
+        "publicado_em": "2026-10-28T11:11:17.810653-03:00"
+      },
+      "concluido_em": "2026-10-28T11:11:17.823054-03:00"
     },
     {
       "id": "reel-20261028-1400-33f09512a5",
