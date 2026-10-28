@@ -4180,7 +4180,7 @@
       "id": "reel-20261027-2000-4e64c47726",
       "data": "2026-10-27",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 03 - Dia hora e lugar.mp4",
         "sha256": "4e64c477264299d5a4953b1530777c87c13ef9d8aa47c4b4818bd337aab55321"
@@ -4193,12 +4193,17 @@
       },
       "instagram": {
         "legenda": "Escrever dia, hora e lugar fez noventa e um por cento das pessoas treinarem.\n\nEsse estudo tá no livro Hábitos Atômicos.\n\nA motivação sozinha não mudou nada.\n\nO plano mudou.\n\nO livro chama isso de intenção de implementação.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18107525978193197",
+        "publicado_em": "2026-10-27T21:02:15.671906-03:00"
       },
       "facebook": {
         "legenda": "Escrever dia, hora e lugar fez noventa e um por cento das pessoas treinarem.\n\nEsse estudo tá no livro Hábitos Atômicos.\n\nA motivação sozinha não mudou nada.\n\nO plano mudou.\n\nO livro chama isso de intenção de implementação.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4631122257156444",
+        "publicado_em": "2026-10-27T21:02:28.274904-03:00"
+      },
+      "concluido_em": "2026-10-27T21:02:28.285483-03:00"
     },
     {
       "id": "reel-20261028-0800-4e4a1d640b",
