@@ -4300,7 +4300,7 @@
       "id": "reel-20261028-1700-6de41ea285",
       "data": "2026-10-28",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Mais Importante 03 - O vizinho ficou rico.mp4",
         "sha256": "6de41ea28534a0169ef1b179766fa22fc2f61323b3999dfc908805de80c65e56"
@@ -4313,12 +4313,17 @@
       },
       "instagram": {
         "legenda": "Existe uma dor que faz gente esperta tomar decisão burra.\n\nE ela aparece toda vez que alguém perto de você ganha dinheiro fácil.\n\nEssa lição está no livro O Mais Importante para o Investidor.\n\nCabeça fria não é falta de coragem.\n\nÉ o que te protege quando todo mundo em volta perdeu a calma.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17933146629420839",
+        "publicado_em": "2026-10-28T18:46:19.788058-03:00"
       },
       "facebook": {
         "legenda": "Existe uma dor que faz gente esperta tomar decisão burra.\n\nE ela aparece toda vez que alguém perto de você ganha dinheiro fácil.\n\nEssa lição está no livro O Mais Importante para o Investidor.\n\nCabeça fria não é falta de coragem.\n\nÉ o que te protege quando todo mundo em volta perdeu a calma.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1444884327585147",
+        "publicado_em": "2026-10-28T18:46:28.897939-03:00"
+      },
+      "concluido_em": "2026-10-28T18:46:28.910502-03:00"
     },
     {
       "id": "reel-20261028-2000-61984a890b",
