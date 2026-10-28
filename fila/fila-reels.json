@@ -4270,7 +4270,7 @@
       "id": "reel-20261028-1400-33f09512a5",
       "data": "2026-10-28",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 03 - A raiz e o fruto.mp4",
         "sha256": "33f09512a52383d0809c88278100d3584794d2762577f59ab5b438817d9dbdfe"
@@ -4283,12 +4283,17 @@
       },
       "instagram": {
         "legenda": "Trabalhar mais não vai te deixar rico.\n\nOs resultados que você tem com dinheiro são o fruto, e quem cria o fruto é a raiz: o que você pensa sobre dinheiro.\n\nÉ isso que o livro Os Segredos da Mente Milionária ensina.\n\nQuer mudar o fruto?\n\nMuda a raiz.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18129894280885518",
+        "publicado_em": "2026-10-28T14:18:52.621763-03:00"
       },
       "facebook": {
         "legenda": "Trabalhar mais não vai te deixar rico.\n\nOs resultados que você tem com dinheiro são o fruto, e quem cria o fruto é a raiz: o que você pensa sobre dinheiro.\n\nÉ isso que o livro Os Segredos da Mente Milionária ensina.\n\nQuer mudar o fruto?\n\nMuda a raiz.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2202418567008381",
+        "publicado_em": "2026-10-28T14:19:04.802378-03:00"
+      },
+      "concluido_em": "2026-10-28T14:19:04.815190-03:00"
     },
     {
       "id": "reel-20261028-1700-6de41ea285",
