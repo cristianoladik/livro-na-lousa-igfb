@@ -4189,7 +4189,8 @@
         "asset": "reel-4e64c47726-Habitos-Atomicos-03---Dia-hora-e-lugar.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-4e64c47726-Habitos-Atomicos-03---Dia-hora-e-lugar.mp4",
         "sha256": "4e64c477264299d5a4953b1530777c87c13ef9d8aa47c4b4818bd337aab55321",
-        "tamanho_bytes": 5551638
+        "tamanho_bytes": 5551638,
+        "removido_da_release_em": "2026-10-27T21:02:31.388254-03:00"
       },
       "instagram": {
         "legenda": "Escrever dia, hora e lugar fez noventa e um por cento das pessoas treinarem.\n\nEsse estudo tá no livro Hábitos Atômicos.\n\nA motivação sozinha não mudou nada.\n\nO plano mudou.\n\nO livro chama isso de intenção de implementação.\n\nSegue a página pra ver mais livros assim: @livronalousa",
