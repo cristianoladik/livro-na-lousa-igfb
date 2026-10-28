@@ -4210,7 +4210,7 @@
       "id": "reel-20261028-0800-4e4a1d640b",
       "data": "2026-10-28",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Iludidos pelo Acaso 03 - Dez milhoes pra puxar o gatilho.mp4",
         "sha256": "4e4a1d640b0f2f0f9e1fa45a9f023a046394b2c004765978e33de8ca0cb7c9af"
@@ -4223,12 +4223,17 @@
       },
       "instagram": {
         "legenda": "Alguém te oferece dez milhões pra puxar um gatilho uma única vez.\n\nNo revólver, uma bala e seis espaços.\n\nEssa lição está no livro Iludidos pelo Acaso.\n\nEle só vê o dinheiro na mesa.\n\nEntão, antes de admirar a fortuna de alguém, pergunta: qual foi o risco pra chegar ali?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18483155071118315",
+        "publicado_em": "2026-10-28T08:29:18.536614-03:00"
       },
       "facebook": {
         "legenda": "Alguém te oferece dez milhões pra puxar um gatilho uma única vez.\n\nNo revólver, uma bala e seis espaços.\n\nEssa lição está no livro Iludidos pelo Acaso.\n\nEle só vê o dinheiro na mesa.\n\nEntão, antes de admirar a fortuna de alguém, pergunta: qual foi o risco pra chegar ali?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1100282962606262",
+        "publicado_em": "2026-10-28T08:29:29.995988-03:00"
+      },
+      "concluido_em": "2026-10-28T08:29:30.008704-03:00"
     },
     {
       "id": "reel-20261028-1100-32b59cd4ae",
