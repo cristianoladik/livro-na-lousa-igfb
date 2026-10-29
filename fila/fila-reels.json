@@ -4330,7 +4330,7 @@
       "id": "reel-20261028-2000-61984a890b",
       "data": "2026-10-28",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 03 - Eugene Pauly - sem memoria, com habito.mp4",
         "sha256": "61984a890b77cf7f4941b3d34e00f53a35255c6a55e21dc97e979c54566e94ee"
@@ -4343,12 +4343,17 @@
       },
       "instagram": {
         "legenda": "Ele não lembrava de nada, mas sabia voltar pra casa sozinho.\n\nO nome dele era Eugene Pauly.\n\nEssa lição está no livro O Poder do Hábito.\n\nA parte do cérebro que guarda os hábitos continuava inteira.\n\nEla funciona sem a memória consciente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18120534185056453",
+        "publicado_em": "2026-10-28T22:17:48.846878-03:00"
       },
       "facebook": {
         "legenda": "Ele não lembrava de nada, mas sabia voltar pra casa sozinho.\n\nO nome dele era Eugene Pauly.\n\nEssa lição está no livro O Poder do Hábito.\n\nA parte do cérebro que guarda os hábitos continuava inteira.\n\nEla funciona sem a memória consciente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1480177194009914",
+        "publicado_em": "2026-10-28T22:17:58.190342-03:00"
+      },
+      "concluido_em": "2026-10-28T22:17:58.202886-03:00"
     },
     {
       "id": "reel-20261029-0800-f150ef66dd",
