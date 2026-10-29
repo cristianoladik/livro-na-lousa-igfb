@@ -4450,7 +4450,7 @@
       "id": "reel-20261029-1700-69ce78b0a7",
       "data": "2026-10-29",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Mente Milionaria 03 - A raiz e o fruto.mp4",
         "sha256": "69ce78b0a7bacc22da27a835b34abafc833fa4283ab1936d1b92553cb0e2e6f4"
@@ -4463,18 +4463,23 @@
       },
       "instagram": {
         "legenda": "Trabalhar mais não vai te deixar rico.\n\nE uma árvore explica por quê.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nMexeu no pensamento, mexeu em tudo que vem depois.\n\nQuer mudar o fruto?\n\nMuda a raiz.\n\nSimples assim.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18242033518316580",
+        "publicado_em": "2026-10-29T20:37:01.657680-03:00"
       },
       "facebook": {
         "legenda": "Trabalhar mais não vai te deixar rico.\n\nE uma árvore explica por quê.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nMexeu no pensamento, mexeu em tudo que vem depois.\n\nQuer mudar o fruto?\n\nMuda a raiz.\n\nSimples assim.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1103110445924822",
+        "publicado_em": "2026-10-29T20:37:16.497552-03:00"
+      },
+      "concluido_em": "2026-10-29T20:37:16.510390-03:00"
     },
     {
       "id": "reel-20261029-2000-a48959d9fe",
       "data": "2026-10-29",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 03 - O conselho do emprego seguro.mp4",
         "sha256": "a48959d9fe37245e07aab91395b25136ff8b6ff6514afb7f2f2401889d5d4cdb"
@@ -4487,12 +4492,17 @@
       },
       "instagram": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Esse conselho pode te deixar pobre.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nEntão troca o conselho.\n\nEstuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18119883883951649",
+        "publicado_em": "2026-10-29T20:37:57.102467-03:00"
       },
       "facebook": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Esse conselho pode te deixar pobre.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nEntão troca o conselho.\n\nEstuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "976860604944213",
+        "publicado_em": "2026-10-29T20:38:09.006257-03:00"
+      },
+      "concluido_em": "2026-10-29T20:38:09.019083-03:00"
     },
     {
       "id": "reel-20261030-0800-cf3852291b",
