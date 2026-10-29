@@ -4360,7 +4360,7 @@
       "id": "reel-20261029-0800-f150ef66dd",
       "data": "2026-10-29",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 03 - Bill Gates e Kent Evans.mp4",
         "sha256": "f150ef66ddde9d86feb55dfc3bc37a31e7dfbaaee4de345036b8f3083abab4e2"
@@ -4373,12 +4373,17 @@
       },
       "instagram": {
         "legenda": "O Bill Gates tinha um colega de escola tão bom quanto ele.\n\nO nome dele era Kent Evans, e quase ninguém conhece.\n\nEssa lição está no livro A Psicologia Financeira.\n\nCoisas fora do controle de qualquer um.\n\nA lição do livro: nada é tão bom nem tão ruim quanto parece.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18099893309647440",
+        "publicado_em": "2026-10-29T09:16:42.213899-03:00"
       },
       "facebook": {
         "legenda": "O Bill Gates tinha um colega de escola tão bom quanto ele.\n\nO nome dele era Kent Evans, e quase ninguém conhece.\n\nEssa lição está no livro A Psicologia Financeira.\n\nCoisas fora do controle de qualquer um.\n\nA lição do livro: nada é tão bom nem tão ruim quanto parece.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1097598219745014",
+        "publicado_em": "2026-10-29T09:16:51.945536-03:00"
+      },
+      "concluido_em": "2026-10-29T09:16:51.957917-03:00"
     },
     {
       "id": "reel-20261029-1100-fadd31f8ee",
