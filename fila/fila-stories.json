@@ -1580,7 +1580,7 @@
       "id": "story-20261029-c1a4aeaf50",
       "data": "2026-10-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 03 - Damocles, Fenix e Hidra.mp4",
         "sha256": "c1a4aeaf500544572a0a57ef495c987bb02539b9f3ec417af0fe50bf1cab2b3b",
@@ -1590,7 +1590,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-c1a4aeaf50-Antifragil-03---Damocles-Fenix-e-Hidra.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c1a4aeaf50-Antifragil-03---Damocles-Fenix-e-Hidra.mp4",
@@ -1599,13 +1599,30 @@
             "duracao_segundos": 35.7
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18152682748518121",
+            "publish_iniciado_em": "2026-10-29T09:17:33-03:00",
+            "id": "17998604385044995",
+            "publicado_em": "2026-10-29T09:17:39-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2066481957361667",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-29T09:17:46-03:00",
+            "post_id_candidato": "1825216642017249",
+            "finish_em": "2026-10-29T09:17:49-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE4MjUyMTY2NDUzNTA1ODI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1825216642017249",
+            "publicado_em": "2026-10-29T09:18:26-03:00"
+          },
+          "concluido_em": "2026-10-29T09:18:26-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-29T09:18:26-03:00"
     },
     {
       "id": "story-20261030-69202ae2b9",
