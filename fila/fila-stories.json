@@ -1596,7 +1596,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c1a4aeaf50-Antifragil-03---Damocles-Fenix-e-Hidra.mp4",
             "sha256": "c1a4aeaf500544572a0a57ef495c987bb02539b9f3ec417af0fe50bf1cab2b3b",
             "tamanho_bytes": 5815420,
-            "duracao_segundos": 35.7
+            "duracao_segundos": 35.7,
+            "removido_da_release_em": "2026-10-29T09:18:28.801120-03:00"
           },
           "instagram": {
             "status": "publicado",
