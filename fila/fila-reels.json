@@ -4600,7 +4600,7 @@
       "id": "reel-20261030-1700-a4b0ebba83",
       "data": "2026-10-30",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 04 - A nota que era recibo.mp4",
         "sha256": "a4b0ebba83a56963c992d8f047ad0e1827e23c4b8542a42183c539ff35d798ed"
@@ -4613,12 +4613,17 @@
       },
       "instagram": {
         "legenda": "A nota de dinheiro no seu bolso já foi um recibo.\n\nHoje ela é uma coisa bem diferente.\n\nEssa lição está no livro Em Nome do Povo.\n\nSem ouro amarrando, ficou muito mais fácil criar dinheiro novo.\n\nE é aí que começa o problema que o livro inteiro explica.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18194306824358782",
+        "publicado_em": "2026-10-30T17:21:15.776094-03:00"
       },
       "facebook": {
         "legenda": "A nota de dinheiro no seu bolso já foi um recibo.\n\nHoje ela é uma coisa bem diferente.\n\nEssa lição está no livro Em Nome do Povo.\n\nSem ouro amarrando, ficou muito mais fácil criar dinheiro novo.\n\nE é aí que começa o problema que o livro inteiro explica.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1628133782240679",
+        "publicado_em": "2026-10-30T17:21:28.174071-03:00"
+      },
+      "concluido_em": "2026-10-30T17:21:28.184967-03:00"
     },
     {
       "id": "reel-20261030-2000-315d5ee18d",
