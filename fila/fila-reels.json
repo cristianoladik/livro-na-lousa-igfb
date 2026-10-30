@@ -4630,7 +4630,7 @@
       "id": "reel-20261030-2000-315d5ee18d",
       "data": "2026-10-30",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 04 - Empilhar habitos.mp4",
         "sha256": "315d5ee18d9bbbe0a92efb301ab957757c295495827681af0b9aa71746a2938d"
@@ -4643,12 +4643,17 @@
       },
       "instagram": {
         "legenda": "Dá pra lembrar de um hábito novo sem nenhum alarme.\n\nO jeito tá no livro Hábitos Atômicos.\n\nO autor usa esse mesmo efeito a favor.\n\nO que você já faz todo dia puxa o que você quer começar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18120732616765281",
+        "publicado_em": "2026-10-30T20:55:29.347215-03:00"
       },
       "facebook": {
         "legenda": "Dá pra lembrar de um hábito novo sem nenhum alarme.\n\nO jeito tá no livro Hábitos Atômicos.\n\nO autor usa esse mesmo efeito a favor.\n\nO que você já faz todo dia puxa o que você quer começar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "826748773866395",
+        "publicado_em": "2026-10-30T20:55:40.890824-03:00"
+      },
+      "concluido_em": "2026-10-30T20:55:40.903411-03:00"
     },
     {
       "id": "reel-20261031-0800-c224530051",
