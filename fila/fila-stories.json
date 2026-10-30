@@ -1645,7 +1645,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-69202ae2b9-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
             "sha256": "69202ae2b90546dce95b7ff74e16e7c4bf5f45fe623e37d1b0fa4c44508d00fe",
             "tamanho_bytes": 4831451,
-            "duracao_segundos": 29.042
+            "duracao_segundos": 29.042,
+            "removido_da_release_em": "2026-10-30T09:18:14.607829-03:00"
           },
           "instagram": {
             "status": "publicado",
