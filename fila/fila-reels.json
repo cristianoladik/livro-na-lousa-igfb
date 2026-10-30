@@ -4639,7 +4639,8 @@
         "asset": "reel-315d5ee18d-Habitos-Atomicos-04---Empilhar-habitos.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-315d5ee18d-Habitos-Atomicos-04---Empilhar-habitos.mp4",
         "sha256": "315d5ee18d9bbbe0a92efb301ab957757c295495827681af0b9aa71746a2938d",
-        "tamanho_bytes": 4900908
+        "tamanho_bytes": 4900908,
+        "removido_da_release_em": "2026-10-30T20:55:42.909069-03:00"
       },
       "instagram": {
         "legenda": "Dá pra lembrar de um hábito novo sem nenhum alarme.\n\nO jeito tá no livro Hábitos Atômicos.\n\nO autor usa esse mesmo efeito a favor.\n\nO que você já faz todo dia puxa o que você quer começar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
