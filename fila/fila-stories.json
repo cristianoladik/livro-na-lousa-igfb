@@ -1629,7 +1629,7 @@
       "id": "story-20261030-69202ae2b9",
       "data": "2026-10-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 03 - Comeu os filhos do ouro.mp4",
         "sha256": "69202ae2b90546dce95b7ff74e16e7c4bf5f45fe623e37d1b0fa4c44508d00fe",
@@ -1639,7 +1639,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-69202ae2b9-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-69202ae2b9-Babilonia-03---Comeu-os-filhos-do-ouro.mp4",
@@ -1648,13 +1648,30 @@
             "duracao_segundos": 29.042
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18153045322518121",
+            "publish_iniciado_em": "2026-10-30T09:17:18-03:00",
+            "id": "18099300986402365",
+            "publicado_em": "2026-10-30T09:17:25-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1218586884066907",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-30T09:17:31-03:00",
+            "post_id_candidato": "1212846701718506",
+            "finish_em": "2026-10-30T09:17:35-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjEyMTI4NDY3MDgzODUxNzI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1212846701718506",
+            "publicado_em": "2026-10-30T09:18:12-03:00"
+          },
+          "concluido_em": "2026-10-30T09:18:12-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-30T09:18:12-03:00"
     },
     {
       "id": "story-20261031-0c5b759fa2",
