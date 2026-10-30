@@ -4570,7 +4570,7 @@
       "id": "reel-20261030-1400-c05f8ddd0a",
       "data": "2026-10-30",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Pai Rico 03 - O conselho do emprego seguro.mp4",
         "sha256": "c05f8ddd0a21d7f98d61c033cf6bdb15d5a1989b9cec0f0b7b03d6ff1b979811"
@@ -4583,12 +4583,17 @@
       },
       "instagram": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Esse conselho pode te deixar pobre.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nNão largou os estudos.\n\nMudou o motivo de estudar.\n\nPapo reto: estuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18119302990968380",
+        "publicado_em": "2026-10-30T14:27:20.253461-03:00"
       },
       "facebook": {
         "legenda": "\"Estuda e arruma um emprego seguro.\" Esse conselho pode te deixar pobre.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nNão largou os estudos.\n\nMudou o motivo de estudar.\n\nPapo reto: estuda, sim.\n\nMas estuda como o dinheiro funciona.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1582952616488665",
+        "publicado_em": "2026-10-30T14:27:31.180671-03:00"
+      },
+      "concluido_em": "2026-10-30T14:27:31.191409-03:00"
     },
     {
       "id": "reel-20261030-1700-a4b0ebba83",
