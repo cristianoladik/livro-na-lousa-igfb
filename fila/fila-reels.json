@@ -4609,7 +4609,8 @@
         "asset": "reel-a4b0ebba83-Em-Nome-do-Povo-04---A-nota-que-era-recibo.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-a4b0ebba83-Em-Nome-do-Povo-04---A-nota-que-era-recibo.mp4",
         "sha256": "a4b0ebba83a56963c992d8f047ad0e1827e23c4b8542a42183c539ff35d798ed",
-        "tamanho_bytes": 10606140
+        "tamanho_bytes": 10606140,
+        "removido_da_release_em": "2026-10-30T17:21:31.187352-03:00"
       },
       "instagram": {
         "legenda": "A nota de dinheiro no seu bolso já foi um recibo.\n\nHoje ela é uma coisa bem diferente.\n\nEssa lição está no livro Em Nome do Povo.\n\nSem ouro amarrando, ficou muito mais fácil criar dinheiro novo.\n\nE é aí que começa o problema que o livro inteiro explica.\n\nSegue a página pra ver mais livros assim: @livronalousa",
