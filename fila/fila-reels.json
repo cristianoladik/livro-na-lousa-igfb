@@ -4660,7 +4660,7 @@
       "id": "reel-20261031-0800-c224530051",
       "data": "2026-10-31",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Investidor Inteligente 04 - A ponte de trinta toneladas.mp4",
         "sha256": "c22453005136c06112ba6d42aeaad2922c371832e9ae492f8ceeed41e09803b7"
@@ -4673,12 +4673,17 @@
       },
       "instagram": {
         "legenda": "Nenhum engenheiro constrói uma ponte pro peso exato que ela vai carregar.\n\nE essa regra de engenharia virou a ideia central do livro O Investidor Inteligente.\n\nQuem deixa uma sobra dorme tranquilo quando o imprevisto aparece.\n\nÉ a ponte de trinta toneladas na sua vida.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18180461203386468",
+        "publicado_em": "2026-10-31T09:11:43.026845-03:00"
       },
       "facebook": {
         "legenda": "Nenhum engenheiro constrói uma ponte pro peso exato que ela vai carregar.\n\nE essa regra de engenharia virou a ideia central do livro O Investidor Inteligente.\n\nQuem deixa uma sobra dorme tranquilo quando o imprevisto aparece.\n\nÉ a ponte de trinta toneladas na sua vida.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2180925689514567",
+        "publicado_em": "2026-10-31T09:11:54.468568-03:00"
+      },
+      "concluido_em": "2026-10-31T09:11:54.481358-03:00"
     },
     {
       "id": "reel-20261031-1100-7b5cfcd562",
