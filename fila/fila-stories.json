@@ -1694,7 +1694,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0c5b759fa2-Casais-Inteligentes-03---O-gastador.mp4",
             "sha256": "0c5b759fa22f4890c2b094da2480593cccbbfc5ee3eab20bd316e9e92e400866",
             "tamanho_bytes": 4971333,
-            "duracao_segundos": 30.125
+            "duracao_segundos": 30.125,
+            "removido_da_release_em": "2026-10-31T09:17:44.841309-03:00"
           },
           "instagram": {
             "status": "publicado",
