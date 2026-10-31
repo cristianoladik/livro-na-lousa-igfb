@@ -1678,7 +1678,7 @@
       "id": "story-20261031-0c5b759fa2",
       "data": "2026-10-31",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 03 - O gastador.mp4",
         "sha256": "0c5b759fa22f4890c2b094da2480593cccbbfc5ee3eab20bd316e9e92e400866",
@@ -1688,7 +1688,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-0c5b759fa2-Casais-Inteligentes-03---O-gastador.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0c5b759fa2-Casais-Inteligentes-03---O-gastador.mp4",
@@ -1697,13 +1697,30 @@
             "duracao_segundos": 30.125
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18153387736518121",
+            "publish_iniciado_em": "2026-10-31T09:16:43-03:00",
+            "id": "18134161955503078",
+            "publicado_em": "2026-10-31T09:16:51-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1170799585384705",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-10-31T09:17:01-03:00",
+            "post_id_candidato": "2147175852829238",
+            "finish_em": "2026-10-31T09:17:06-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjIxNDcxNzU4NTYxNjI1NzE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2147175852829238",
+            "publicado_em": "2026-10-31T09:17:42-03:00"
+          },
+          "concluido_em": "2026-10-31T09:17:42-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-10-31T09:17:42-03:00"
     },
     {
       "id": "story-20261101-e0245c2818",
