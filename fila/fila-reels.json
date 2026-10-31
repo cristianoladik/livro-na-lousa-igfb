@@ -4750,7 +4750,7 @@
       "id": "reel-20261031-1700-b037e9afcc",
       "data": "2026-10-31",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 04 - Os ratos do labirinto.mp4",
         "sha256": "b037e9afcc4b981b07226aee7b26bebf06a9224c7722d2439da467cf4c964210"
@@ -4763,12 +4763,17 @@
       },
       "instagram": {
         "legenda": "Quando uma coisa vira hábito, o seu cérebro quase para de pensar nela.\n\nQuem mostra isso é o livro O Poder do Hábito.\n\nO cérebro junta vários passos num bloco só, que roda sozinho.\n\nE assim economiza energia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18095004881183087",
+        "publicado_em": "2026-10-31T19:11:15.679557-03:00"
       },
       "facebook": {
         "legenda": "Quando uma coisa vira hábito, o seu cérebro quase para de pensar nela.\n\nQuem mostra isso é o livro O Poder do Hábito.\n\nO cérebro junta vários passos num bloco só, que roda sozinho.\n\nE assim economiza energia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2241663376404280",
+        "publicado_em": "2026-10-31T19:11:31.569138-03:00"
+      },
+      "concluido_em": "2026-10-31T19:11:31.582060-03:00"
     },
     {
       "id": "reel-20261031-2000-464248257e",
