@@ -4780,7 +4780,7 @@
       "id": "reel-20261031-2000-464248257e",
       "data": "2026-10-31",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 04 - O suficiente Heller e Madoff.mp4",
         "sha256": "464248257ef505bf65d0aa762b1551f5139eb6ea576cd6c95391e628af516c56"
@@ -4793,12 +4793,17 @@
       },
       "instagram": {
         "legenda": "O que um escritor tinha que um bilionário nunca ia ter?\n\nO livro A Psicologia Financeira conta essa história.\n\nPro autor, a habilidade mais difícil é fazer a linha de chegada parar de andar.\n\nReputação, liberdade, família e amigos: isso nunca vale arriscar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18127292819483317",
+        "publicado_em": "2026-10-31T22:00:20.201554-03:00"
       },
       "facebook": {
         "legenda": "O que um escritor tinha que um bilionário nunca ia ter?\n\nO livro A Psicologia Financeira conta essa história.\n\nPro autor, a habilidade mais difícil é fazer a linha de chegada parar de andar.\n\nReputação, liberdade, família e amigos: isso nunca vale arriscar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1162192473155862",
+        "publicado_em": "2026-10-31T22:00:31.197628-03:00"
+      },
+      "concluido_em": "2026-10-31T22:00:31.205817-03:00"
     },
     {
       "id": "reel-20261101-0800-9ca8252f06",
