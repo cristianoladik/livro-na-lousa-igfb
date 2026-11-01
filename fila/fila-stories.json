@@ -1727,7 +1727,7 @@
       "id": "story-20261101-e0245c2818",
       "data": "2026-11-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 03 - Os dois tipos de pobre.mp4",
         "sha256": "e0245c28184ff5cb174ea720f14196338918bcd246d39750647bde69582bc0e8",
@@ -1737,7 +1737,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-e0245c2818-Dinheiro-Segredos-03---Os-dois-tipos-de-pobre.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-e0245c2818-Dinheiro-Segredos-03---Os-dois-tipos-de-pobre.mp4",
@@ -1746,13 +1746,30 @@
             "duracao_segundos": 33.458
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18153767347518121",
+            "publish_iniciado_em": "2026-11-01T09:17:07-03:00",
+            "id": "18154988473531755",
+            "publicado_em": "2026-11-01T09:17:17-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "965036362995297",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-01T09:17:24-03:00",
+            "post_id_candidato": "1678853320477309",
+            "finish_em": "2026-11-01T09:17:28-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE2Nzg4NTMzMzA0NzczMDg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1678853320477309",
+            "publicado_em": "2026-11-01T09:18:04-03:00"
+          },
+          "concluido_em": "2026-11-01T09:18:04-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-01T09:18:04-03:00"
     },
     {
       "id": "story-20261102-31ab73394f",
