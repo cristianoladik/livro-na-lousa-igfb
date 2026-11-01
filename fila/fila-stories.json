@@ -1743,7 +1743,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-e0245c2818-Dinheiro-Segredos-03---Os-dois-tipos-de-pobre.mp4",
             "sha256": "e0245c28184ff5cb174ea720f14196338918bcd246d39750647bde69582bc0e8",
             "tamanho_bytes": 6920435,
-            "duracao_segundos": 33.458
+            "duracao_segundos": 33.458,
+            "removido_da_release_em": "2026-11-01T09:18:07.243139-03:00"
           },
           "instagram": {
             "status": "publicado",
