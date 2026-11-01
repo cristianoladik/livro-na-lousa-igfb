@@ -4810,7 +4810,7 @@
       "id": "reel-20261101-0800-9ca8252f06",
       "data": "2026-11-01",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Rapido e Devagar 04 - Medo de aviao.mp4",
         "sha256": "9ca8252f06471f08ae0d29a1881d4df38b6c625719d76e8c13435dd6a6a3d3f4"
@@ -4823,12 +4823,17 @@
       },
       "instagram": {
         "legenda": "Você tem mais medo de avião do que de carro?\n\nO livro Rápido e Devagar explica de onde vem esse medo torto.\n\nCada um lembra melhor do próprio esforço.\n\nLembrar fácil não quer dizer acontecer muito.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17892236973654454",
+        "publicado_em": "2026-11-01T09:16:14.441709-03:00"
       },
       "facebook": {
         "legenda": "Você tem mais medo de avião do que de carro?\n\nO livro Rápido e Devagar explica de onde vem esse medo torto.\n\nCada um lembra melhor do próprio esforço.\n\nLembrar fácil não quer dizer acontecer muito.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1884982502688379",
+        "publicado_em": "2026-11-01T09:16:23.204680-03:00"
+      },
+      "concluido_em": "2026-11-01T09:16:23.212358-03:00"
     },
     {
       "id": "reel-20261101-1100-83e7237589",
