@@ -1776,7 +1776,7 @@
       "id": "story-20261102-31ab73394f",
       "data": "2026-11-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 04 - Mitridates e a hormese.mp4",
         "sha256": "31ab73394ff3c8752a26de2d4e6e264186c88a7e3a9e58d38fbc54913487e562",
@@ -1786,7 +1786,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-31ab73394f-Antifragil-04---Mitridates-e-a-hormese.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-31ab73394f-Antifragil-04---Mitridates-e-a-hormese.mp4",
@@ -1795,13 +1795,30 @@
             "duracao_segundos": 32.625
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18154128850518121",
+            "publish_iniciado_em": "2026-11-02T09:18:17-03:00",
+            "id": "18126044788930789",
+            "publicado_em": "2026-11-02T09:18:25-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "4515214368717380",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-02T09:18:31-03:00",
+            "post_id_candidato": "1397038598981951",
+            "finish_em": "2026-11-02T09:18:36-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjEzOTcwMzg2MDIzMTUyODQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1397038598981951",
+            "publicado_em": "2026-11-02T09:19:13-03:00"
+          },
+          "concluido_em": "2026-11-02T09:19:13-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-02T09:19:13-03:00"
     },
     {
       "id": "story-20261103-7faeda6531",
