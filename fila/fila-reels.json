@@ -4990,7 +4990,7 @@
       "id": "reel-20261102-1100-06d60e1b2b",
       "data": "2026-11-02",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Pai Rico 04 - Trabalhando de graca.mp4",
         "sha256": "06d60e1b2b22e8ca50e6e8536269b4be604a8cb574f58a49eaf7e8ae1304b310"
@@ -5003,12 +5003,17 @@
       },
       "instagram": {
         "legenda": "Um menino de nove anos foi trabalhar de graça.\n\nE aprendeu mais do que em qualquer escola.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nPela primeira vez, não era hora trocada por moeda.\n\nEssa é a lição: os ricos não trabalham pelo dinheiro.\n\nFazem o dinheiro trabalhar pra eles.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18025282799939274",
+        "publicado_em": "2026-11-02T11:11:07.055610-03:00"
       },
       "facebook": {
         "legenda": "Um menino de nove anos foi trabalhar de graça.\n\nE aprendeu mais do que em qualquer escola.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nPela primeira vez, não era hora trocada por moeda.\n\nEssa é a lição: os ricos não trabalham pelo dinheiro.\n\nFazem o dinheiro trabalhar pra eles.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "30058366143750870",
+        "publicado_em": "2026-11-02T11:11:25.462492-03:00"
+      },
+      "concluido_em": "2026-11-02T11:11:25.475483-03:00"
     },
     {
       "id": "reel-20261102-1400-2739649b63",
