@@ -1792,7 +1792,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-31ab73394f-Antifragil-04---Mitridates-e-a-hormese.mp4",
             "sha256": "31ab73394ff3c8752a26de2d4e6e264186c88a7e3a9e58d38fbc54913487e562",
             "tamanho_bytes": 5045103,
-            "duracao_segundos": 32.625
+            "duracao_segundos": 32.625,
+            "removido_da_release_em": "2026-11-02T09:19:16.169673-03:00"
           },
           "instagram": {
             "status": "publicado",
