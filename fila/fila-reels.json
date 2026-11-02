@@ -5050,7 +5050,7 @@
       "id": "reel-20261102-1700-f8206b9acc",
       "data": "2026-11-02",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 05 - A serie e a bicicleta.mp4",
         "sha256": "f8206b9acc189b3d1ccda4fdf4b192973a4bc0c0017111dde52748988bb501cc"
@@ -5063,12 +5063,17 @@
       },
       "instagram": {
         "legenda": "Um estudante fez a série parar sempre que ele parava de pedalar.\n\nRonan Byrne estudava engenharia na Irlanda.\n\nEssa lição está no livro Hábitos Atômicos.\n\nÉ a segunda lei do livro: torne atraente.\n\nPensa no que você vive adiando, e no que você adora fazer.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18080343779774594",
+        "publicado_em": "2026-11-02T18:02:45.346574-03:00"
       },
       "facebook": {
         "legenda": "Um estudante fez a série parar sempre que ele parava de pedalar.\n\nRonan Byrne estudava engenharia na Irlanda.\n\nEssa lição está no livro Hábitos Atômicos.\n\nÉ a segunda lei do livro: torne atraente.\n\nPensa no que você vive adiando, e no que você adora fazer.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1188333323525957",
+        "publicado_em": "2026-11-02T18:03:00.531852-03:00"
+      },
+      "concluido_em": "2026-11-02T18:03:00.544247-03:00"
     },
     {
       "id": "reel-20261102-2000-bf6f4e47f5",
