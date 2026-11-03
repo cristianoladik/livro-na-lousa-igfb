@@ -5110,7 +5110,7 @@
       "id": "reel-20261103-0800-3d89716b58",
       "data": "2026-11-03",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Investidor Inteligente 05 - Nem uma nem cem empresas.mp4",
         "sha256": "3d89716b58d122791a138b1a714024f76713c423d9f7e78767cd915c23cbcd44"
@@ -5123,12 +5123,17 @@
       },
       "instagram": {
         "legenda": "Colocar todo o dinheiro numa empresa só é perigoso.\n\nE colocar em cem empresas também tem problema.\n\nEssa lição está no livro O Investidor Inteligente.\n\nE de setores diferentes, pra um problema num ramo não derrubar tudo.\n\nÉ simples, meio sem graça, e a ideia é justamente essa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18104333399634137",
+        "publicado_em": "2026-11-03T09:17:58.722242-03:00"
       },
       "facebook": {
         "legenda": "Colocar todo o dinheiro numa empresa só é perigoso.\n\nE colocar em cem empresas também tem problema.\n\nEssa lição está no livro O Investidor Inteligente.\n\nE de setores diferentes, pra um problema num ramo não derrubar tudo.\n\nÉ simples, meio sem graça, e a ideia é justamente essa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1100966406060197",
+        "publicado_em": "2026-11-03T09:18:08.475499-03:00"
+      },
+      "concluido_em": "2026-11-03T09:18:08.485933-03:00"
     },
     {
       "id": "reel-20261103-1100-d49b3874af",
