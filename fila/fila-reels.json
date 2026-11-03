@@ -5170,7 +5170,7 @@
       "id": "reel-20261103-1400-a7e17db67d",
       "data": "2026-11-03",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Mais Importante 05 - A regra numero um.mp4",
         "sha256": "a7e17db67d3bd4125cb055c37ab05d701a975c068f152ac03928cddc343f84ad"
@@ -5183,12 +5183,17 @@
       },
       "instagram": {
         "legenda": "Qual é a regra número um de quem investe bem?\n\nO livro O Mais Importante para o Investidor lembra de uma frase famosa.\n\nO livro deixa claro: ganhar muito no ano bom vale pouco se você não atravessa o ano ruim.\n\nPrimeiro sobreviver.\n\nDepois crescer.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18593738431068866",
+        "publicado_em": "2026-11-03T15:49:15.720222-03:00"
       },
       "facebook": {
         "legenda": "Qual é a regra número um de quem investe bem?\n\nO livro O Mais Importante para o Investidor lembra de uma frase famosa.\n\nO livro deixa claro: ganhar muito no ano bom vale pouco se você não atravessa o ano ruim.\n\nPrimeiro sobreviver.\n\nDepois crescer.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1741953404021376",
+        "publicado_em": "2026-11-03T15:49:26.492687-03:00"
+      },
+      "concluido_em": "2026-11-03T15:49:26.506334-03:00"
     },
     {
       "id": "reel-20261103-1700-24418cb619",
