@@ -1825,7 +1825,7 @@
       "id": "story-20261103-7faeda6531",
       "data": "2026-11-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 04 - Voce paga todo mundo.mp4",
         "sha256": "7faeda65311fd41b13174444a01997c9423ab93df4e642f9778fb006342b555c",
@@ -1835,7 +1835,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7faeda6531-Babilonia-04---Voce-paga-todo-mundo.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7faeda6531-Babilonia-04---Voce-paga-todo-mundo.mp4",
@@ -1844,13 +1844,30 @@
             "duracao_segundos": 28.25
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18154473187518121",
+            "publish_iniciado_em": "2026-11-03T09:18:53-03:00",
+            "id": "18146077474605671",
+            "publicado_em": "2026-11-03T09:19:01-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1936199134425558",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-03T09:19:09-03:00",
+            "post_id_candidato": "1469997711752693",
+            "finish_em": "2026-11-03T09:19:13-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE0Njk5OTc3MTg0MTkzNTk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1469997711752693",
+            "publicado_em": "2026-11-03T09:19:50-03:00"
+          },
+          "concluido_em": "2026-11-03T09:19:50-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-03T09:19:50-03:00"
     },
     {
       "id": "story-20261104-f036347542",
