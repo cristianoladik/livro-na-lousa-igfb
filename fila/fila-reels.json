@@ -5200,7 +5200,7 @@
       "id": "reel-20261103-1700-24418cb619",
       "data": "2026-11-03",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 05 - O ciclo do habito.mp4",
         "sha256": "24418cb619dd9dc54589a653512309c54497f85f789b332b96b171f82511071b"
@@ -5213,12 +5213,17 @@
       },
       "instagram": {
         "legenda": "Quase metade do que você faz todo dia não é decisão.\n\nÉ hábito.\n\nEssa lição está no livro O Poder do Hábito.\n\nE tem um detalhe perigoso: hábito não some.\n\nO ciclo fica guardado, esperando a deixa aparecer de novo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17918291181464194",
+        "publicado_em": "2026-11-03T17:29:59.596502-03:00"
       },
       "facebook": {
         "legenda": "Quase metade do que você faz todo dia não é decisão.\n\nÉ hábito.\n\nEssa lição está no livro O Poder do Hábito.\n\nE tem um detalhe perigoso: hábito não some.\n\nO ciclo fica guardado, esperando a deixa aparecer de novo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2546124962529542",
+        "publicado_em": "2026-11-03T17:30:08.916993-03:00"
+      },
+      "concluido_em": "2026-11-03T17:30:08.929432-03:00"
     },
     {
       "id": "reel-20261103-2000-aaea5e2554",
