@@ -1841,7 +1841,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7faeda6531-Babilonia-04---Voce-paga-todo-mundo.mp4",
             "sha256": "7faeda65311fd41b13174444a01997c9423ab93df4e642f9778fb006342b555c",
             "tamanho_bytes": 4968168,
-            "duracao_segundos": 28.25
+            "duracao_segundos": 28.25,
+            "removido_da_release_em": "2026-11-03T09:19:53.292249-03:00"
           },
           "instagram": {
             "status": "publicado",
