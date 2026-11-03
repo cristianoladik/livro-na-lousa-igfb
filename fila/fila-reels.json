@@ -5119,7 +5119,8 @@
         "asset": "reel-3d89716b58-Investidor-Inteligente-05---Nem-uma-nem-cem-empresas.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-3d89716b58-Investidor-Inteligente-05---Nem-uma-nem-cem-empresas.mp4",
         "sha256": "3d89716b58d122791a138b1a714024f76713c423d9f7e78767cd915c23cbcd44",
-        "tamanho_bytes": 7044675
+        "tamanho_bytes": 7044675,
+        "removido_da_release_em": "2026-11-03T09:18:11.557707-03:00"
       },
       "instagram": {
         "legenda": "Colocar todo o dinheiro numa empresa só é perigoso.\n\nE colocar em cem empresas também tem problema.\n\nEssa lição está no livro O Investidor Inteligente.\n\nE de setores diferentes, pra um problema num ramo não derrubar tudo.\n\nÉ simples, meio sem graça, e a ideia é justamente essa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
