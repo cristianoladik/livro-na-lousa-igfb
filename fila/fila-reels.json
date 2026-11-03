@@ -5140,7 +5140,7 @@
       "id": "reel-20261103-1100-d49b3874af",
       "data": "2026-11-03",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 05 - Jogar pra ganhar.mp4",
         "sha256": "d49b3874aff7d0128e7e5d149eef582405ef60811052279c10fdb129f3d80a18"
@@ -5153,12 +5153,17 @@
       },
       "instagram": {
         "legenda": "Quem mira só em pagar as contas do mês é exatamente aí que chega.\n\nO livro Os Segredos da Mente Milionária chama isso de jogar pra não perder, enquanto quem enriquece joga pra ganhar e mira alto.\n\nMesmo errando no caminho, quem mira alto termina acima de quem mirou baixo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18105291815029457",
+        "publicado_em": "2026-11-03T11:02:15.687298-03:00"
       },
       "facebook": {
         "legenda": "Quem mira só em pagar as contas do mês é exatamente aí que chega.\n\nO livro Os Segredos da Mente Milionária chama isso de jogar pra não perder, enquanto quem enriquece joga pra ganhar e mira alto.\n\nMesmo errando no caminho, quem mira alto termina acima de quem mirou baixo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4621464911454694",
+        "publicado_em": "2026-11-03T11:02:25.595974-03:00"
+      },
+      "concluido_em": "2026-11-03T11:02:25.609588-03:00"
     },
     {
       "id": "reel-20261103-1400-a7e17db67d",
