@@ -1890,7 +1890,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f036347542-Casais-Inteligentes-04---O-descontrolado.mp4",
             "sha256": "f0363475422f78737cc3b92cded80e80086376421d229b12aa88d3c28d2dce91",
             "tamanho_bytes": 4890765,
-            "duracao_segundos": 30.94
+            "duracao_segundos": 30.94,
+            "removido_da_release_em": "2026-11-04T09:18:36.936010-03:00"
           },
           "instagram": {
             "status": "publicado",
