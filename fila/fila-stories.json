@@ -1874,7 +1874,7 @@
       "id": "story-20261104-f036347542",
       "data": "2026-11-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 04 - O descontrolado.mp4",
         "sha256": "f0363475422f78737cc3b92cded80e80086376421d229b12aa88d3c28d2dce91",
@@ -1884,7 +1884,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f036347542-Casais-Inteligentes-04---O-descontrolado.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f036347542-Casais-Inteligentes-04---O-descontrolado.mp4",
@@ -1893,13 +1893,30 @@
             "duracao_segundos": 30.94
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18154747666518121",
+            "publish_iniciado_em": "2026-11-04T09:17:42-03:00",
+            "id": "17992750998116735",
+            "publicado_em": "2026-11-04T09:17:49-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1101740129441156",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-04T09:17:55-03:00",
+            "post_id_candidato": "2171756267028208",
+            "finish_em": "2026-11-04T09:17:58-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjIxNzE3NTYyNzM2OTQ4NzQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2171756267028208",
+            "publicado_em": "2026-11-04T09:18:34-03:00"
+          },
+          "concluido_em": "2026-11-04T09:18:34-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-04T09:18:34-03:00"
     },
     {
       "id": "story-20261105-391fe50cae",
