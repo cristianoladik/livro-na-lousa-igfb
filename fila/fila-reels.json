@@ -5320,7 +5320,7 @@
       "id": "reel-20261104-1400-c7b034d657",
       "data": "2026-11-04",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 05 - As joias de vidro.mp4",
         "sha256": "c7b034d657591b7141f6ce478d8332dc7789e1bf0e7be549f900d066191a8a02"
@@ -5333,17 +5333,19 @@
       },
       "instagram": {
         "legenda": "Um ano inteiro guardando dinheiro.\n\nE tudo virou pedaço de vidro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou: ainda ouve conselho de fabricante de tijolo?\n\nSobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "erro",
-        "erro": "Meta HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"A7JgebEnR1ez5-bZgptZYrd\"}}",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-04T14:15:41.404180-03:00",
-        "tentativas": 1
+        "tentativas": 1,
+        "id": "18123421748037179",
+        "publicado_em": "2026-11-04T16:04:03.626847-03:00"
       },
       "facebook": {
         "legenda": "Um ano inteiro guardando dinheiro.\n\nE tudo virou pedaço de vidro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou: ainda ouve conselho de fabricante de tijolo?\n\nSobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @livronalousa",
         "status": "publicado",
         "id": "4447729202204689",
         "publicado_em": "2026-11-04T14:15:54.158966-03:00"
-      }
+      },
+      "concluido_em": "2026-11-04T16:04:03.641890-03:00"
     },
     {
       "id": "reel-20261104-1700-ac83dfeccf",
