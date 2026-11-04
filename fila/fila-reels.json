@@ -5333,11 +5333,16 @@
       },
       "instagram": {
         "legenda": "Um ano inteiro guardando dinheiro.\n\nE tudo virou pedaço de vidro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou: ainda ouve conselho de fabricante de tijolo?\n\nSobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "erro",
+        "erro": "Meta HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"A7JgebEnR1ez5-bZgptZYrd\"}}",
+        "ultima_tentativa_em": "2026-11-04T14:15:41.404180-03:00",
+        "tentativas": 1
       },
       "facebook": {
         "legenda": "Um ano inteiro guardando dinheiro.\n\nE tudo virou pedaço de vidro.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou: ainda ouve conselho de fabricante de tijolo?\n\nSobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "4447729202204689",
+        "publicado_em": "2026-11-04T14:15:54.158966-03:00"
       }
     },
     {
