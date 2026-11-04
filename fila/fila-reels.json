@@ -5260,7 +5260,7 @@
       "id": "reel-20261104-0800-5ace7fe5eb",
       "data": "2026-11-04",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Rapido e Devagar 05 - O pico e o final.mp4",
         "sha256": "5ace7fe5eb3388b72f042ff251620c34b63583de676553b62688961760344a2b"
@@ -5273,12 +5273,17 @@
       },
       "instagram": {
         "legenda": "Você pode ter sofrido mais e lembrar como se tivesse sofrido menos.\n\nParece mentira, mas o livro Rápido e Devagar prova isso com água gelada.\n\nE isso não é defeito da sua cabeça.\n\nÉ só o jeito que ela guarda as coisas.\n\nO fim pesa mais que o meio inteiro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18140877454629443",
+        "publicado_em": "2026-11-04T09:16:46.721723-03:00"
       },
       "facebook": {
         "legenda": "Você pode ter sofrido mais e lembrar como se tivesse sofrido menos.\n\nParece mentira, mas o livro Rápido e Devagar prova isso com água gelada.\n\nE isso não é defeito da sua cabeça.\n\nÉ só o jeito que ela guarda as coisas.\n\nO fim pesa mais que o meio inteiro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1587925259802330",
+        "publicado_em": "2026-11-04T09:16:58.900290-03:00"
+      },
+      "concluido_em": "2026-11-04T09:16:58.913166-03:00"
     },
     {
       "id": "reel-20261104-1100-e3829b579c",
