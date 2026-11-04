@@ -5352,7 +5352,7 @@
       "id": "reel-20261104-1700-ac83dfeccf",
       "data": "2026-11-04",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 06 - A fada que dobrou o dinheiro.mp4",
         "sha256": "ac83dfeccfb6a08c449e5bd8cf08c6282ccbee56b7dcf31a7c2a153f4bbb9e1a"
@@ -5365,12 +5365,17 @@
       },
       "instagram": {
         "legenda": "Você dorme e acorda com o dobro de dinheiro na carteira.\n\nFicou rico?\n\nO livro Em Nome do Povo usa uma história antiga pra responder isso.\n\nO país não ficou mais rico.\n\nSó tem mais papel rodando.\n\nCriar dinheiro não cria pão, casa nem carro.\n\nSó muda o número da etiqueta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18677659057032708",
+        "publicado_em": "2026-11-04T17:46:05.944982-03:00"
       },
       "facebook": {
         "legenda": "Você dorme e acorda com o dobro de dinheiro na carteira.\n\nFicou rico?\n\nO livro Em Nome do Povo usa uma história antiga pra responder isso.\n\nO país não ficou mais rico.\n\nSó tem mais papel rodando.\n\nCriar dinheiro não cria pão, casa nem carro.\n\nSó muda o número da etiqueta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1677089697412533",
+        "publicado_em": "2026-11-04T17:46:16.083761-03:00"
+      },
+      "concluido_em": "2026-11-04T17:46:16.094607-03:00"
     },
     {
       "id": "reel-20261104-2000-c5bee3d58b",
