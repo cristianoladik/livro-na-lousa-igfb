@@ -5290,7 +5290,7 @@
       "id": "reel-20261104-1100-e3829b579c",
       "data": "2026-11-04",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 05 - As joias de vidro.mp4",
         "sha256": "e3829b579cb200ecd2c898143849f9e152b82c0b90578033719d4b6ee7a22ebc"
@@ -5303,12 +5303,17 @@
       },
       "instagram": {
         "legenda": "Ele juntou dinheiro por um ano inteiro.\n\nE perdeu tudo numa viagem só.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou se ele ainda ouvia fabricante de tijolo.\n\nSobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17937308706403384",
+        "publicado_em": "2026-11-04T11:20:41.445825-03:00"
       },
       "facebook": {
         "legenda": "Ele juntou dinheiro por um ano inteiro.\n\nE perdeu tudo numa viagem só.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nAnos depois, o mestre perguntou se ele ainda ouvia fabricante de tijolo.\n\nSobre tijolo, eles dão ótimo conselho.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2590939404680091",
+        "publicado_em": "2026-11-04T11:20:53.049258-03:00"
+      },
+      "concluido_em": "2026-11-04T11:20:53.062479-03:00"
     },
     {
       "id": "reel-20261104-1400-c7b034d657",
