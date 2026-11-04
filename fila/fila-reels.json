@@ -5230,7 +5230,7 @@
       "id": "reel-20261103-2000-aaea5e2554",
       "data": "2026-11-03",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 05 - Eras do gelo e o juro composto.mp4",
         "sha256": "aaea5e2554aeb338a985c9e253143751712a5b2f4aefbf88861f5a51572996d5"
@@ -5243,12 +5243,17 @@
       },
       "instagram": {
         "legenda": "O que as eras do gelo têm a ver com o seu dinheiro?\n\nTudo, segundo o livro A Psicologia Financeira.\n\nMultiplicar oito por oito, nove vezes, passa de cento e trinta milhões.\n\nA gente pensa somando.\n\nO dinheiro cresce multiplicando.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18121792343070704",
+        "publicado_em": "2026-11-03T23:09:11.888912-03:00"
       },
       "facebook": {
         "legenda": "O que as eras do gelo têm a ver com o seu dinheiro?\n\nTudo, segundo o livro A Psicologia Financeira.\n\nMultiplicar oito por oito, nove vezes, passa de cento e trinta milhões.\n\nA gente pensa somando.\n\nO dinheiro cresce multiplicando.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1673890494429852",
+        "publicado_em": "2026-11-03T23:09:20.073898-03:00"
+      },
+      "concluido_em": "2026-11-03T23:09:20.086693-03:00"
     },
     {
       "id": "reel-20261104-0800-5ace7fe5eb",
