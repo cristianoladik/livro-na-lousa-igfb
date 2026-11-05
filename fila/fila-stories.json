@@ -1939,7 +1939,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-391fe50cae-Ciclo-de-Mercado-04---A-economia-sussurra-e-o-mercado-grita.mp4",
             "sha256": "391fe50caec15af3380b1a5acfd604491eac55b5ed1e03b771db2712076e5f18",
             "tamanho_bytes": 5207695,
-            "duracao_segundos": 35.98
+            "duracao_segundos": 35.98,
+            "removido_da_release_em": "2026-11-05T09:17:37.038870-03:00"
           },
           "instagram": {
             "status": "publicado",
