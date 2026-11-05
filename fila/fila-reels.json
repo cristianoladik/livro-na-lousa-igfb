@@ -5503,7 +5503,7 @@
       "id": "reel-20261105-1700-5692d58df8",
       "data": "2026-11-05",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Mais Importante 06 - Ninguem sabe o amanha.mp4",
         "sha256": "5692d58df86cbe6e62b24e116f2af3fbdeac890ee79d8695557a40d46d0fb6aa"
@@ -5516,12 +5516,17 @@
       },
       "instagram": {
         "legenda": "Desconfie de quem diz com certeza pra onde o mercado vai amanhã.\n\nQuem ensina isso é o livro O Mais Importante para o Investidor.\n\nQuem admite que não sabe fica mais atento, se prepara pros dois lados e não aposta a vida numa previsão.\n\nDizer eu não sei, quando o assunto é dinheiro, é sinal de inteligência.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17980819763918404",
+        "publicado_em": "2026-11-05T18:01:30.989201-03:00"
       },
       "facebook": {
         "legenda": "Desconfie de quem diz com certeza pra onde o mercado vai amanhã.\n\nQuem ensina isso é o livro O Mais Importante para o Investidor.\n\nQuem admite que não sabe fica mais atento, se prepara pros dois lados e não aposta a vida numa previsão.\n\nDizer eu não sei, quando o assunto é dinheiro, é sinal de inteligência.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4887315631586693",
+        "publicado_em": "2026-11-05T18:01:41.204206-03:00"
+      },
+      "concluido_em": "2026-11-05T18:01:41.212818-03:00"
     },
     {
       "id": "reel-20261105-2000-8a62955f60",
