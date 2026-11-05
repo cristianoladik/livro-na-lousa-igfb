@@ -5442,7 +5442,7 @@
       "id": "reel-20261105-1100-58ccbc7ab4",
       "data": "2026-11-05",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "com_defeito",
       "origem": {
         "arquivo": "Investidor Inteligente 06 - O investidor realista.mp4",
         "sha256": "58ccbc7ab4bfda29f7d3ed4893595ead02a422303dd29f0d497dfa13c10ac2d6"
@@ -5455,12 +5455,19 @@
       },
       "instagram": {
         "legenda": "Quando todo mundo tá comprando feliz, o preço já subiu demais.\n\nQuem avisa é o livro O Investidor Inteligente.\n\nO realista, pro livro, é quem vende pros animados e compra dos apavorados.\n\nE não inverte essa ordem.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "erro",
+        "erro": "Instagram não processou o Reel: {'id': '18155032180518121', 'status': 'Error: Media upload has failed with error code 2207077', 'status_code': 'ERROR'}",
+        "ultima_tentativa_em": "2026-11-05T11:10:34.374076-03:00",
+        "tentativas": 1
       },
       "facebook": {
         "legenda": "Quando todo mundo tá comprando feliz, o preço já subiu demais.\n\nQuem avisa é o livro O Investidor Inteligente.\n\nO realista, pro livro, é quem vende pros animados e compra dos apavorados.\n\nE não inverte essa ordem.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "3208821425979239",
+        "publicado_em": "2026-11-05T11:10:53.727570-03:00"
+      },
+      "motivo_defeito": "instagram: o arquivo foi recusado (media upload has failed)",
+      "posto_de_lado_em": "2026-11-05T11:10:53.753107-03:00"
     },
     {
       "id": "reel-20261105-1400-afc50386c8",
