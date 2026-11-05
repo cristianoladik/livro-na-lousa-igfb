@@ -1923,7 +1923,7 @@
       "id": "story-20261105-391fe50cae",
       "data": "2026-11-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 04 - A economia sussurra e o mercado grita.mp4",
         "sha256": "391fe50caec15af3380b1a5acfd604491eac55b5ed1e03b771db2712076e5f18",
@@ -1933,7 +1933,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-391fe50cae-Ciclo-de-Mercado-04---A-economia-sussurra-e-o-mercado-grita.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-391fe50cae-Ciclo-de-Mercado-04---A-economia-sussurra-e-o-mercado-grita.mp4",
@@ -1942,13 +1942,30 @@
             "duracao_segundos": 35.98
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18155005588518121",
+            "publish_iniciado_em": "2026-11-05T09:16:37-03:00",
+            "id": "18121392145959663",
+            "publicado_em": "2026-11-05T09:16:45-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2314822589057021",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-05T09:16:53-03:00",
+            "post_id_candidato": "2329343451231249",
+            "finish_em": "2026-11-05T09:16:57-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjIzMjkzNDM0NjEyMzEyNDg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2329343451231249",
+            "publicado_em": "2026-11-05T09:17:34-03:00"
+          },
+          "concluido_em": "2026-11-05T09:17:34-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-05T09:17:34-03:00"
     },
     {
       "id": "story-20261106-97fbd9db94",
