@@ -5412,7 +5412,7 @@
       "id": "reel-20261105-0800-1eedc147d1",
       "data": "2026-11-05",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Iludidos pelo Acaso 06 - O rei que comemorou cedo.mp4",
         "sha256": "1eedc147d1edaaebaaf146dbe3c61484573068211a971c0c4fe9c77ca5e8580f"
@@ -5425,12 +5425,17 @@
       },
       "instagram": {
         "legenda": "Ele era um dos homens mais ricos da história e quase morreu numa fogueira.\n\nA história do rei Creso aparece no livro Iludidos pelo Acaso.\n\nA lição do livro é simples.\n\nA fortuna de hoje não garante nada amanhã.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18132646675766110",
+        "publicado_em": "2026-11-05T09:18:27.247687-03:00"
       },
       "facebook": {
         "legenda": "Ele era um dos homens mais ricos da história e quase morreu numa fogueira.\n\nA história do rei Creso aparece no livro Iludidos pelo Acaso.\n\nA lição do livro é simples.\n\nA fortuna de hoje não garante nada amanhã.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1152229183820418",
+        "publicado_em": "2026-11-05T09:18:41.307339-03:00"
+      },
+      "concluido_em": "2026-11-05T09:18:41.317798-03:00"
     },
     {
       "id": "reel-20261105-1100-58ccbc7ab4",
