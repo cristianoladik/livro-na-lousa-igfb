@@ -5662,7 +5662,8 @@
         "asset": "reel-82dbbcfb5f-Tamanho-1m00---Pai-Rico-06---Corrida-dos-ratos.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-82dbbcfb5f-Tamanho-1m00---Pai-Rico-06---Corrida-dos-ratos.mp4",
         "sha256": "82dbbcfb5f7e6cd4cfeeae2bb20d0eed1b1dedb48084f0cca97ed6d2568cd017",
-        "tamanho_bytes": 9038555
+        "tamanho_bytes": 9038555,
+        "removido_da_release_em": "2026-11-06T17:24:09.757949-03:00"
       },
       "instagram": {
         "legenda": "Você corre o mês inteiro e não sai do lugar.\n\nIsso tem nome.\n\nE tem saída.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nAté isso pagar as suas contas no lugar do salário.\n\nAí sim você sai da roda.\n\nSegue a página pra ver mais livros assim: @livronalousa",
