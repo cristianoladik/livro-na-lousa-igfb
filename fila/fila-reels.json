@@ -5533,7 +5533,7 @@
       "id": "reel-20261105-2000-8a62955f60",
       "data": "2026-11-05",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 06 - Pepsodent - a pasta que criou um habito.mp4",
         "sha256": "8a62955f609fcbf34f4e6b569ecd7e6ff8c12744ca69d196acaf8b3c9b6e94b8"
@@ -5546,12 +5546,17 @@
       },
       "instagram": {
         "legenda": "Antes de um anúncio, quase ninguém escovava os dentes.\n\nO publicitário Claude Hopkins cuidava de uma pasta de dente, a Pepsodent.\n\nEssa lição está no livro O Poder do Hábito.\n\nSem ele, a pessoa sentia que faltava alguma coisa.\n\nO livro chama isso de ânsia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17980153767140584",
+        "publicado_em": "2026-11-05T23:16:07.720032-03:00"
       },
       "facebook": {
         "legenda": "Antes de um anúncio, quase ninguém escovava os dentes.\n\nO publicitário Claude Hopkins cuidava de uma pasta de dente, a Pepsodent.\n\nEssa lição está no livro O Poder do Hábito.\n\nSem ele, a pessoa sentia que faltava alguma coisa.\n\nO livro chama isso de ânsia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1108218031975018",
+        "publicado_em": "2026-11-05T23:16:17.915009-03:00"
+      },
+      "concluido_em": "2026-11-05T23:16:17.927587-03:00"
     },
     {
       "id": "reel-20261106-0800-2f7d56fb7e",
