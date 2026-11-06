@@ -1972,7 +1972,7 @@
       "id": "story-20261106-97fbd9db94",
       "data": "2026-11-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 04 - Aluguel ou parcela.mp4",
         "sha256": "97fbd9db94085bde9edbeb63f47d1faf539bd2cecd99de4e8c8e4a6e9fcb8e54",
@@ -1982,7 +1982,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-97fbd9db94-Credito-Vale-Mais-04---Aluguel-ou-parcela.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-97fbd9db94-Credito-Vale-Mais-04---Aluguel-ou-parcela.mp4",
@@ -1991,13 +1991,30 @@
             "duracao_segundos": 47.75
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18155317252518121",
+            "publish_iniciado_em": "2026-11-06T11:57:25-03:00",
+            "id": "18131472154887030",
+            "publicado_em": "2026-11-06T11:57:33-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "4614187222128150",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-06T11:57:38-03:00",
+            "post_id_candidato": "1166623235923997",
+            "finish_em": "2026-11-06T11:57:41-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjExNjY2MjMyNDI1OTA2NjM=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1166623235923997",
+            "publicado_em": "2026-11-06T11:58:17-03:00"
+          },
+          "concluido_em": "2026-11-06T11:58:17-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-06T11:58:17-03:00"
     },
     {
       "id": "story-20261107-d2cb3fa80c",
