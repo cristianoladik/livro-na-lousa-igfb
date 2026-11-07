@@ -5803,7 +5803,7 @@
       "id": "reel-20261107-1700-0ef851af4b",
       "data": "2026-11-07",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Iludidos pelo Acaso 07 - Olhar o dinheiro toda hora.mp4",
         "sha256": "0ef851af4b5afa29976331c92a660fa425f7af64fb5aad16644b856b12f7e86d"
@@ -5816,12 +5816,17 @@
       },
       "instagram": {
         "legenda": "Olhar seu investimento toda hora pode te deixar infeliz, e te fazer decidir pior.\n\nQuem explica isso é o livro Iludidos pelo Acaso, com a história de um dentista.\n\nUma dica minha, de bom senso: decida antes de quanto em quanto tempo você vai conferir, e cumpra.\n\nMenos olhadas, mais calma, decisões melhores.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18169958923473171",
+        "publicado_em": "2026-11-07T19:53:16.405502-03:00"
       },
       "facebook": {
         "legenda": "Olhar seu investimento toda hora pode te deixar infeliz, e te fazer decidir pior.\n\nQuem explica isso é o livro Iludidos pelo Acaso, com a história de um dentista.\n\nUma dica minha, de bom senso: decida antes de quanto em quanto tempo você vai conferir, e cumpra.\n\nMenos olhadas, mais calma, decisões melhores.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "917207964691881",
+        "publicado_em": "2026-11-07T19:53:26.224226-03:00"
+      },
+      "concluido_em": "2026-11-07T19:53:26.236515-03:00"
     },
     {
       "id": "reel-20261107-2000-05beca2652",
