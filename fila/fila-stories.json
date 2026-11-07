@@ -2021,7 +2021,7 @@
       "id": "story-20261107-d2cb3fa80c",
       "data": "2026-11-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 04 - O carro bonito.mp4",
         "sha256": "d2cb3fa80c749b825da3a8e0559d238da41c9e9aaf13faee4c6a83e8ce3400be",
@@ -2031,7 +2031,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-d2cb3fa80c-Dinheiro-Segredos-04---O-carro-bonito.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-d2cb3fa80c-Dinheiro-Segredos-04---O-carro-bonito.mp4",
@@ -2040,13 +2040,30 @@
             "duracao_segundos": 29.875
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18155569705518121",
+            "publish_iniciado_em": "2026-11-07T10:55:51-03:00",
+            "id": "18226274740339701",
+            "publicado_em": "2026-11-07T10:56:00-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1080665688288312",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-07T10:56:08-03:00",
+            "post_id_candidato": "4695082510638368",
+            "finish_em": "2026-11-07T10:56:14-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjQ2OTUwODI1MTM5NzE3MDE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "4695082510638368",
+            "publicado_em": "2026-11-07T10:56:50-03:00"
+          },
+          "concluido_em": "2026-11-07T10:56:50-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-07T10:56:50-03:00"
     },
     {
       "id": "story-20261108-d7761c27ef",
