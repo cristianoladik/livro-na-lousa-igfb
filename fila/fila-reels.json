@@ -5782,7 +5782,8 @@
         "asset": "reel-addb2763b4-Habitos-Atomicos-07---Eu-tenho-a-chance.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-addb2763b4-Habitos-Atomicos-07---Eu-tenho-a-chance.mp4",
         "sha256": "addb2763b49fdcc61b919ce9dee68909c49a82efaa607db886aa93178d221662",
-        "tamanho_bytes": 4227552
+        "tamanho_bytes": 4227552,
+        "removido_da_release_em": "2026-11-07T14:10:29.993420-03:00"
       },
       "instagram": {
         "legenda": "Uma palavra só pode mudar o peso de um hábito.\n\nO truque tá no livro Hábitos Atômicos.\n\nAnota tudo o que ele te tira.\n\nE deixa essa lista à vista.\n\nSegue a página pra ver mais livros assim: @livronalousa",
