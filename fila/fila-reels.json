@@ -5773,7 +5773,7 @@
       "id": "reel-20261107-1400-addb2763b4",
       "data": "2026-11-07",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 07 - Eu tenho a chance.mp4",
         "sha256": "addb2763b49fdcc61b919ce9dee68909c49a82efaa607db886aa93178d221662"
@@ -5786,12 +5786,17 @@
       },
       "instagram": {
         "legenda": "Uma palavra só pode mudar o peso de um hábito.\n\nO truque tá no livro Hábitos Atômicos.\n\nAnota tudo o que ele te tira.\n\nE deixa essa lista à vista.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18131005723866992",
+        "publicado_em": "2026-11-07T14:10:17.322822-03:00"
       },
       "facebook": {
         "legenda": "Uma palavra só pode mudar o peso de um hábito.\n\nO truque tá no livro Hábitos Atômicos.\n\nAnota tudo o que ele te tira.\n\nE deixa essa lista à vista.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "39940728545572781",
+        "publicado_em": "2026-11-07T14:10:27.247487-03:00"
+      },
+      "concluido_em": "2026-11-07T14:10:27.260112-03:00"
     },
     {
       "id": "reel-20261107-1700-0ef851af4b",
