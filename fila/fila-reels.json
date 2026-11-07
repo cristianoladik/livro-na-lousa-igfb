@@ -5743,7 +5743,7 @@
       "id": "reel-20261107-1100-ada88eac25",
       "data": "2026-11-07",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 07 - O imposto que nao vem no boleto.mp4",
         "sha256": "ada88eac25b459fb55a640655ba41995f6feefc551580489bc6956068bcc7bd1"
@@ -5756,12 +5756,17 @@
       },
       "instagram": {
         "legenda": "Tem um imposto que não aparece em nenhum boleto.\n\nNão passou em votação nenhuma, e mesmo assim sai do seu bolso.\n\nEssa lição está no livro Em Nome do Povo.\n\nQuanto mais tempo parado, maior a mordida.\n\nPor isso o livro insiste: entender inflação não é coisa de economista.\n\nÉ coisa de quem trabalha e guarda dinheiro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18215702272361521",
+        "publicado_em": "2026-11-07T12:10:28.613902-03:00"
       },
       "facebook": {
         "legenda": "Tem um imposto que não aparece em nenhum boleto.\n\nNão passou em votação nenhuma, e mesmo assim sai do seu bolso.\n\nEssa lição está no livro Em Nome do Povo.\n\nQuanto mais tempo parado, maior a mordida.\n\nPor isso o livro insiste: entender inflação não é coisa de economista.\n\nÉ coisa de quem trabalha e guarda dinheiro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1555800159900312",
+        "publicado_em": "2026-11-07T12:10:38.309888-03:00"
+      },
+      "concluido_em": "2026-11-07T12:10:38.320037-03:00"
     },
     {
       "id": "reel-20261107-1400-addb2763b4",
