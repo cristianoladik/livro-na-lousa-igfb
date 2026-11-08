@@ -5953,7 +5953,7 @@
       "id": "reel-20261108-1700-6fb18a3430",
       "data": "2026-11-08",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 07 - Jim Simons x Warren Buffett.mp4",
         "sha256": "6fb18a3430d8c6680a8f196c319254830034eda47f4e7d8c8beb15240ee7742c"
@@ -5966,18 +5966,23 @@
       },
       "instagram": {
         "legenda": "Um investidor ganhou por ano três vezes mais que o Warren Buffett.\n\nE ficou bem menos rico.\n\nComo pode?\n\nEssa lição está no livro A Psicologia Financeira.\n\nE no juro composto, o tempo pesa mais.\n\nPor isso o livro diz: bom investimento é o que dá pra manter por muito tempo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18188574508416203",
+        "publicado_em": "2026-11-08T20:13:50.890152-03:00"
       },
       "facebook": {
         "legenda": "Um investidor ganhou por ano três vezes mais que o Warren Buffett.\n\nE ficou bem menos rico.\n\nComo pode?\n\nEssa lição está no livro A Psicologia Financeira.\n\nE no juro composto, o tempo pesa mais.\n\nPor isso o livro diz: bom investimento é o que dá pra manter por muito tempo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "30270839665838108",
+        "publicado_em": "2026-11-08T20:14:01.655430-03:00"
+      },
+      "concluido_em": "2026-11-08T20:14:01.670977-03:00"
     },
     {
       "id": "reel-20261108-2000-caca78ee49",
       "data": "2026-11-08",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Rapido e Devagar 07 - Perder doi em dobro.mp4",
         "sha256": "caca78ee4971bb5405c82d5c01fc9a6fd6b56a5ec652d64a4237fa365a98129b"
@@ -5990,12 +5995,17 @@
       },
       "instagram": {
         "legenda": "Vou te propor uma aposta que está no livro Rápido e Devagar.\n\nDeu coroa, você perde cem reais.\n\nDica minha: pergunta se você compraria aquilo de novo hoje, pelo preço de hoje.\n\nSe a resposta for não, o medo é que tá decidindo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18254726128308843",
+        "publicado_em": "2026-11-08T20:14:44.107052-03:00"
       },
       "facebook": {
         "legenda": "Vou te propor uma aposta que está no livro Rápido e Devagar.\n\nDeu coroa, você perde cem reais.\n\nDica minha: pergunta se você compraria aquilo de novo hoje, pelo preço de hoje.\n\nSe a resposta for não, o medo é que tá decidindo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1146934164348510",
+        "publicado_em": "2026-11-08T20:14:55.754419-03:00"
+      },
+      "concluido_em": "2026-11-08T20:14:55.762239-03:00"
     },
     {
       "id": "reel-20261109-0800-5be2ee3ea8",
