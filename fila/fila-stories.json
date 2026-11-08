@@ -2070,7 +2070,7 @@
       "id": "story-20261108-d7761c27ef",
       "data": "2026-11-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 05 - Os dois rins e a reserva.mp4",
         "sha256": "d7761c27efd0bfac23b6bb44efbd7fe50fcfd819adb3f5390b89e3fd557a0d54",
@@ -2080,7 +2080,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-d7761c27ef-Antifragil-05---Os-dois-rins-e-a-reserva.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-d7761c27ef-Antifragil-05---Os-dois-rins-e-a-reserva.mp4",
@@ -2089,13 +2089,30 @@
             "duracao_segundos": 28.9
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18155826412518121",
+            "publish_iniciado_em": "2026-11-08T09:30:57-03:00",
+            "id": "18140476582728585",
+            "publicado_em": "2026-11-08T09:31:03-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1121802707490128",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-08T09:31:11-03:00",
+            "post_id_candidato": "2855481551518673",
+            "finish_em": "2026-11-08T09:31:15-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjI4NTU0ODE1NTQ4NTIwMDY=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2855481551518673",
+            "publicado_em": "2026-11-08T09:31:51-03:00"
+          },
+          "concluido_em": "2026-11-08T09:31:51-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-08T09:31:51-03:00"
     },
     {
       "id": "story-20261109-bfacb61587",
