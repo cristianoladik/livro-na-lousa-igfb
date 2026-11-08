@@ -5863,7 +5863,7 @@
       "id": "reel-20261108-0800-fbd5a36585",
       "data": "2026-11-08",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 07 - Conta de padeiro.mp4",
         "sha256": "fbd5a36585aea364d5491fb6bd375e46d63152a9e91113be83a0b9c8a6de0ec7"
@@ -5876,12 +5876,17 @@
       },
       "instagram": {
         "legenda": "A sua renda tem o tamanho do problema que você resolve, e pra quantas pessoas, não do seu esforço.\n\nÉ a conta de padeiro que o livro Os Segredos da Mente Milionária ensina: quem atende dez pessoas ganha como quem atende dez, quem atende dez mil ganha como quem atende dez mil.\n\nA pergunta que muda o caminho é: como eu vendo pra mais gente?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18376284721213386",
+        "publicado_em": "2026-11-08T09:32:47.173935-03:00"
       },
       "facebook": {
         "legenda": "A sua renda tem o tamanho do problema que você resolve, e pra quantas pessoas, não do seu esforço.\n\nÉ a conta de padeiro que o livro Os Segredos da Mente Milionária ensina: quem atende dez pessoas ganha como quem atende dez, quem atende dez mil ganha como quem atende dez mil.\n\nA pergunta que muda o caminho é: como eu vendo pra mais gente?\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "921908924209697",
+        "publicado_em": "2026-11-08T09:32:57.476060-03:00"
+      },
+      "concluido_em": "2026-11-08T09:32:57.488123-03:00"
     },
     {
       "id": "reel-20261108-1100-4e841b9959",
