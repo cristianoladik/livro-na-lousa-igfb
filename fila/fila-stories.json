@@ -2086,7 +2086,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-d7761c27ef-Antifragil-05---Os-dois-rins-e-a-reserva.mp4",
             "sha256": "d7761c27efd0bfac23b6bb44efbd7fe50fcfd819adb3f5390b89e3fd557a0d54",
             "tamanho_bytes": 4635153,
-            "duracao_segundos": 28.9
+            "duracao_segundos": 28.9,
+            "removido_da_release_em": "2026-11-08T09:31:54.180480-03:00"
           },
           "instagram": {
             "status": "publicado",
