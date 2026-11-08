@@ -5833,7 +5833,7 @@
       "id": "reel-20261107-2000-05beca2652",
       "data": "2026-11-07",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Investidor Inteligente 07 - O livro que formou o aluno.mp4",
         "sha256": "05beca2652b51679c3ab2440c8af0f6f1cb02f76934322f9ff865a5e0260189b"
@@ -5846,12 +5846,17 @@
       },
       "instagram": {
         "legenda": "Um rapaz de dezenove anos leu um livro de investimento e nunca mais largou.\n\nEsse rapaz virou um dos homens mais ricos do mundo.\n\nEssa lição está no livro O Investidor Inteligente.\n\nA cabeça das pessoas, nem tanto.\n\nO medo e a ganância de hoje são os mesmos de antigamente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18175781698459078",
+        "publicado_em": "2026-11-07T22:19:10.679745-03:00"
       },
       "facebook": {
         "legenda": "Um rapaz de dezenove anos leu um livro de investimento e nunca mais largou.\n\nEsse rapaz virou um dos homens mais ricos do mundo.\n\nEssa lição está no livro O Investidor Inteligente.\n\nA cabeça das pessoas, nem tanto.\n\nO medo e a ganância de hoje são os mesmos de antigamente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1660129338994955",
+        "publicado_em": "2026-11-07T22:19:20.359222-03:00"
+      },
+      "concluido_em": "2026-11-07T22:19:20.371195-03:00"
     },
     {
       "id": "reel-20261108-0800-fbd5a36585",
