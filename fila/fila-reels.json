@@ -5893,7 +5893,7 @@
       "id": "reel-20261108-1100-4e841b9959",
       "data": "2026-11-08",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Mais Importante 07 - Fazer nada tambem e estrategia.mp4",
         "sha256": "4e841b99592bdb5dbba7999722e04b56f1d132da20637b2f7c161226fcee7135"
@@ -5906,12 +5906,17 @@
       },
       "instagram": {
         "legenda": "Às vezes, a melhor coisa que você pode fazer com seu dinheiro é nada.\n\nParece preguiça, mas não é.\n\nEssa lição está no livro O Mais Importante para o Investidor.\n\nNão é falta de informação.\n\nÉ falta de paciência.\n\nEsperar a hora certa não é ficar parado.\n\nÉ ficar pronto.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18452140297127324",
+        "publicado_em": "2026-11-08T12:24:49.333569-03:00"
       },
       "facebook": {
         "legenda": "Às vezes, a melhor coisa que você pode fazer com seu dinheiro é nada.\n\nParece preguiça, mas não é.\n\nEssa lição está no livro O Mais Importante para o Investidor.\n\nNão é falta de informação.\n\nÉ falta de paciência.\n\nEsperar a hora certa não é ficar parado.\n\nÉ ficar pronto.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1148838274247793",
+        "publicado_em": "2026-11-08T12:24:59.137012-03:00"
+      },
+      "concluido_em": "2026-11-08T12:24:59.145211-03:00"
     },
     {
       "id": "reel-20261108-1400-faec4a3f53",
