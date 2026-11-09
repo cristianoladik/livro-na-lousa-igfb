@@ -6133,7 +6133,7 @@
       "id": "reel-20261109-2000-c225f3d8b8",
       "data": "2026-11-09",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Iludidos pelo Acaso 08 - O segredo inventado.mp4",
         "sha256": "c225f3d8b851a33d854a4f7d662e330602a0eb9290886e19f43e46cbdb68d3aa"
@@ -6146,12 +6146,17 @@
       },
       "instagram": {
         "legenda": "Nenhum milionário vai subir num palco e dizer: eu tive sorte.\n\nE o livro Iludidos pelo Acaso explica por quê.\n\nE quem copia o método às vezes copia só a sorte, que não se repete.\n\nAntes de seguir um segredo, pergunta se ele funcionaria de novo, com outra pessoa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18118053593025126",
+        "publicado_em": "2026-11-09T20:24:42.030955-03:00"
       },
       "facebook": {
         "legenda": "Nenhum milionário vai subir num palco e dizer: eu tive sorte.\n\nE o livro Iludidos pelo Acaso explica por quê.\n\nE quem copia o método às vezes copia só a sorte, que não se repete.\n\nAntes de seguir um segredo, pergunta se ele funcionaria de novo, com outra pessoa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1114701341176741",
+        "publicado_em": "2026-11-09T20:24:53.718656-03:00"
+      },
+      "concluido_em": "2026-11-09T20:24:53.728557-03:00"
     },
     {
       "id": "reel-20261110-0800-7269408b96",
