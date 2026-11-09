@@ -6142,7 +6142,8 @@
         "asset": "reel-c225f3d8b8-Iludidos-pelo-Acaso-08---O-segredo-inventado.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-c225f3d8b8-Iludidos-pelo-Acaso-08---O-segredo-inventado.mp4",
         "sha256": "c225f3d8b851a33d854a4f7d662e330602a0eb9290886e19f43e46cbdb68d3aa",
-        "tamanho_bytes": 4892356
+        "tamanho_bytes": 4892356,
+        "removido_da_release_em": "2026-11-09T20:24:56.469485-03:00"
       },
       "instagram": {
         "legenda": "Nenhum milionário vai subir num palco e dizer: eu tive sorte.\n\nE o livro Iludidos pelo Acaso explica por quê.\n\nE quem copia o método às vezes copia só a sorte, que não se repete.\n\nAntes de seguir um segredo, pergunta se ele funcionaria de novo, com outra pessoa.\n\nSegue a página pra ver mais livros assim: @livronalousa",
