@@ -2135,7 +2135,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-bfacb61587-Babilonia-05---As-joias-de-vidro.mp4",
             "sha256": "bfacb615875fd7c884cb7abf30736a31f2a47c3a9f74cbe3f6cbdf3a2d82a50f",
             "tamanho_bytes": 5548809,
-            "duracao_segundos": 30.32
+            "duracao_segundos": 30.32,
+            "removido_da_release_em": "2026-11-09T09:33:02.998865-03:00"
           },
           "instagram": {
             "status": "publicado",
