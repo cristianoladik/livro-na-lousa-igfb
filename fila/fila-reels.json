@@ -6073,7 +6073,7 @@
       "id": "reel-20261109-1400-ffee03b88b",
       "data": "2026-11-09",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 08 - Tres caminhos pro dinheiro parado.mp4",
         "sha256": "ffee03b88bfcb66ca372eb375b4895cf1346bdc82cb45376779bca498c4ad94b"
@@ -6086,18 +6086,23 @@
       },
       "instagram": {
         "legenda": "Você já sabe que dinheiro parado perde força.\n\nE agora, faz o quê?\n\nO livro Em Nome do Povo não para na explicação.\n\nEle aponta alguns caminhos.\n\nÉ sobre saber como o jogo do dinheiro funciona antes de jogar.\n\nQuem sabe disso trata o próprio salário com outro cuidado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18201658957391713",
+        "publicado_em": "2026-11-09T17:53:06.651659-03:00"
       },
       "facebook": {
         "legenda": "Você já sabe que dinheiro parado perde força.\n\nE agora, faz o quê?\n\nO livro Em Nome do Povo não para na explicação.\n\nEle aponta alguns caminhos.\n\nÉ sobre saber como o jogo do dinheiro funciona antes de jogar.\n\nQuem sabe disso trata o próprio salário com outro cuidado.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2018240318841711",
+        "publicado_em": "2026-11-09T17:53:17.005889-03:00"
+      },
+      "concluido_em": "2026-11-09T17:53:17.017041-03:00"
     },
     {
       "id": "reel-20261109-1700-48d01e0965",
       "data": "2026-11-09",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 08 - A regra dos dois minutos.mp4",
         "sha256": "48d01e09655fd47704513ff0aa101d2b0af3a6fa254c62cef4cc9062f935a5d3"
@@ -6110,12 +6115,17 @@
       },
       "instagram": {
         "legenda": "Se o seu hábito novo leva mais de dois minutos pra começar, ele tá grande demais.\n\nEssa é a regra dos dois minutos.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE o hábito vem da repetição, não do calendário.\n\nA pergunta não é quantos dias, é quantas vezes.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18119015261103225",
+        "publicado_em": "2026-11-09T17:53:56.934400-03:00"
       },
       "facebook": {
         "legenda": "Se o seu hábito novo leva mais de dois minutos pra começar, ele tá grande demais.\n\nEssa é a regra dos dois minutos.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE o hábito vem da repetição, não do calendário.\n\nA pergunta não é quantos dias, é quantas vezes.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1693715872353253",
+        "publicado_em": "2026-11-09T17:54:07.031196-03:00"
+      },
+      "concluido_em": "2026-11-09T17:54:07.064157-03:00"
     },
     {
       "id": "reel-20261109-2000-c225f3d8b8",
