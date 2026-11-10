@@ -6223,7 +6223,7 @@
       "id": "reel-20261110-1400-40180d02f1",
       "data": "2026-11-10",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Mais Importante 08 - Do contra na hora certa.mp4",
         "sha256": "40180d02f15022c30fe137ada97a0fc53804cd2369bd035b2fe41cce74439151"
@@ -6236,12 +6236,17 @@
       },
       "instagram": {
         "legenda": "Ir contra todo mundo pode te fazer ganhar, ou te fazer passar vergonha.\n\nO livro O Mais Importante para o Investidor explica a diferença.\n\nO difícil não é entender isso.\n\nÉ ter coragem de fazer quando todo mundo te chama de louco.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18127655380927685",
+        "publicado_em": "2026-11-10T15:37:44.669656-03:00"
       },
       "facebook": {
         "legenda": "Ir contra todo mundo pode te fazer ganhar, ou te fazer passar vergonha.\n\nO livro O Mais Importante para o Investidor explica a diferença.\n\nO difícil não é entender isso.\n\nÉ ter coragem de fazer quando todo mundo te chama de louco.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28982054911486101",
+        "publicado_em": "2026-11-10T15:37:53.388339-03:00"
+      },
+      "concluido_em": "2026-11-10T15:37:53.395866-03:00"
     },
     {
       "id": "reel-20261110-1700-0cfeb04d77",
