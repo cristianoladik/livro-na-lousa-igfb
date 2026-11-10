@@ -6283,7 +6283,7 @@
       "id": "reel-20261110-2000-76dbbe6934",
       "data": "2026-11-10",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 08 - Jesse Livermore.mp4",
         "sha256": "76dbbe6934c60b8675ab1997ce18da8d6795f8b120171d75d02b0521701396bd"
@@ -6296,12 +6296,17 @@
       },
       "instagram": {
         "legenda": "Um homem ganhou uma fortuna em poucos dias, na grande quebra da bolsa de mil novecentos e vinte e nove.\n\nPoucos anos depois, estava falido.\n\nEssa lição está no livro A Psicologia Financeira.\n\nPra manter, precisa do contrário: humildade e medo de perder o que ganhou.\n\nQuem esquece a segunda parte devolve o que ganhou na primeira.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18132430798829842",
+        "publicado_em": "2026-11-10T20:42:00.082065-03:00"
       },
       "facebook": {
         "legenda": "Um homem ganhou uma fortuna em poucos dias, na grande quebra da bolsa de mil novecentos e vinte e nove.\n\nPoucos anos depois, estava falido.\n\nEssa lição está no livro A Psicologia Financeira.\n\nPra manter, precisa do contrário: humildade e medo de perder o que ganhou.\n\nQuem esquece a segunda parte devolve o que ganhou na primeira.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1566572118608659",
+        "publicado_em": "2026-11-10T20:42:08.788554-03:00"
+      },
+      "concluido_em": "2026-11-10T20:42:08.798009-03:00"
     },
     {
       "id": "reel-20261111-0800-51b27a6ef6",
