@@ -6193,7 +6193,7 @@
       "id": "reel-20261110-1100-a3999701b1",
       "data": "2026-11-10",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 08 - Oportunidade x obstaculo.mp4",
         "sha256": "a3999701b155b868bc3eea758ebda1e6d1462c696603bf0eb4116affca971ea7"
@@ -6206,12 +6206,17 @@
       },
       "instagram": {
         "legenda": "Quem fala que não funciona, quase sempre, nunca tentou.\n\nO livro Os Segredos da Mente Milionária explica que, diante da mesma situação, quem vive no aperto vê o obstáculo e quem enriquece vê a oportunidade, sem deixar de fazer a conta antes de agir.\n\nQuem só enxerga problema nunca começa, e quem nunca começa continua dizendo que não funciona.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18240564472319276",
+        "publicado_em": "2026-11-10T11:46:15.493140-03:00"
       },
       "facebook": {
         "legenda": "Quem fala que não funciona, quase sempre, nunca tentou.\n\nO livro Os Segredos da Mente Milionária explica que, diante da mesma situação, quem vive no aperto vê o obstáculo e quem enriquece vê a oportunidade, sem deixar de fazer a conta antes de agir.\n\nQuem só enxerga problema nunca começa, e quem nunca começa continua dizendo que não funciona.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1773519014777776",
+        "publicado_em": "2026-11-10T11:46:29.725314-03:00"
+      },
+      "concluido_em": "2026-11-10T11:46:29.737598-03:00"
     },
     {
       "id": "reel-20261110-1400-40180d02f1",
