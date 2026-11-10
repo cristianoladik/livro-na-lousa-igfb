@@ -2168,7 +2168,7 @@
       "id": "story-20261110-0ebf564624",
       "data": "2026-11-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 05 - O desligado.mp4",
         "sha256": "0ebf564624b3e72ea6e64eebbe9a41d8956c6bb0a2a81d4f556e6f50db11b2cd",
@@ -2178,7 +2178,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-0ebf564624-Casais-Inteligentes-05---O-desligado.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0ebf564624-Casais-Inteligentes-05---O-desligado.mp4",
@@ -2187,13 +2187,30 @@
             "duracao_segundos": 28.333
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18156376477518121",
+            "publish_iniciado_em": "2026-11-10T09:30:55-03:00",
+            "id": "18117430910517443",
+            "publicado_em": "2026-11-10T09:31:04-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1026831423787270",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-10T09:31:10-03:00",
+            "post_id_candidato": "1822005745513461",
+            "finish_em": "2026-11-10T09:31:14-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE4MjIwMDU3NTIxODAxMjc=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1822005745513461",
+            "publicado_em": "2026-11-10T09:31:51-03:00"
+          },
+          "concluido_em": "2026-11-10T09:31:51-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-10T09:31:51-03:00"
     },
     {
       "id": "story-20261111-c2cf9b0a10",
