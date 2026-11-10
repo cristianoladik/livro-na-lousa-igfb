@@ -2184,7 +2184,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0ebf564624-Casais-Inteligentes-05---O-desligado.mp4",
             "sha256": "0ebf564624b3e72ea6e64eebbe9a41d8956c6bb0a2a81d4f556e6f50db11b2cd",
             "tamanho_bytes": 4619549,
-            "duracao_segundos": 28.333
+            "duracao_segundos": 28.333,
+            "removido_da_release_em": "2026-11-10T09:31:53.497544-03:00"
           },
           "instagram": {
             "status": "publicado",
