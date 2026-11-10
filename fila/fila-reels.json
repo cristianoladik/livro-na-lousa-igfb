@@ -6163,7 +6163,7 @@
       "id": "reel-20261110-0800-7269408b96",
       "data": "2026-11-10",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Investidor Inteligente 08 - Um quarto de cada lado.mp4",
         "sha256": "7269408b9696326ee842d479cb2f6d0825974c8dec8dfc093786c1753cbbde63"
@@ -6176,12 +6176,17 @@
       },
       "instagram": {
         "legenda": "Tem uma regra de divisão no livro O Investidor Inteligente que parece simples demais.\n\nMas ela protege do erro que mais quebra gente: ir com tudo.\n\nÉ o contrário do que a emoção pede.\n\nE é justamente por isso que a regra ajuda: ela decide antes da emoção.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18451448593122318",
+        "publicado_em": "2026-11-10T09:33:23.039059-03:00"
       },
       "facebook": {
         "legenda": "Tem uma regra de divisão no livro O Investidor Inteligente que parece simples demais.\n\nMas ela protege do erro que mais quebra gente: ir com tudo.\n\nÉ o contrário do que a emoção pede.\n\nE é justamente por isso que a regra ajuda: ela decide antes da emoção.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1841495210385381",
+        "publicado_em": "2026-11-10T09:33:35.575961-03:00"
+      },
+      "concluido_em": "2026-11-10T09:33:35.588407-03:00"
     },
     {
       "id": "reel-20261110-1100-a3999701b1",
