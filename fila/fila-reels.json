@@ -6253,7 +6253,7 @@
       "id": "reel-20261110-1700-0cfeb04d77",
       "data": "2026-11-10",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 08 - Febreze - o spray que encalhou.mp4",
         "sha256": "0cfeb04d77deed38137c3212a512b24290c222bbf80e5f9af37c8095c7f7b750"
@@ -6266,12 +6266,17 @@
       },
       "instagram": {
         "legenda": "Esse spray tirava o cheiro ruim de verdade.\n\nE mesmo assim, encalhou.\n\nEra o Febreze, da Procter e Gamble.\n\nEssa lição está no livro O Poder do Hábito.\n\nAs vendas dobraram em dois meses.\n\nUm ano depois, vendia duzentos e trinta milhões de dólares.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18060281192563780",
+        "publicado_em": "2026-11-10T17:46:38.062234-03:00"
       },
       "facebook": {
         "legenda": "Esse spray tirava o cheiro ruim de verdade.\n\nE mesmo assim, encalhou.\n\nEra o Febreze, da Procter e Gamble.\n\nEssa lição está no livro O Poder do Hábito.\n\nAs vendas dobraram em dois meses.\n\nUm ano depois, vendia duzentos e trinta milhões de dólares.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1754907418919267",
+        "publicado_em": "2026-11-10T17:46:49.331260-03:00"
+      },
+      "concluido_em": "2026-11-10T17:46:49.343990-03:00"
     },
     {
       "id": "reel-20261110-2000-76dbbe6934",
