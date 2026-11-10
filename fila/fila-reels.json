@@ -6292,7 +6292,8 @@
         "asset": "reel-76dbbe6934-Psicologia-Financeira-08---Jesse-Livermore.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-76dbbe6934-Psicologia-Financeira-08---Jesse-Livermore.mp4",
         "sha256": "76dbbe6934c60b8675ab1997ce18da8d6795f8b120171d75d02b0521701396bd",
-        "tamanho_bytes": 4816336
+        "tamanho_bytes": 4816336,
+        "removido_da_release_em": "2026-11-10T20:42:11.231051-03:00"
       },
       "instagram": {
         "legenda": "Um homem ganhou uma fortuna em poucos dias, na grande quebra da bolsa de mil novecentos e vinte e nove.\n\nPoucos anos depois, estava falido.\n\nEssa lição está no livro A Psicologia Financeira.\n\nPra manter, precisa do contrário: humildade e medo de perder o que ganhou.\n\nQuem esquece a segunda parte devolve o que ganhou na primeira.\n\nSegue a página pra ver mais livros assim: @livronalousa",
