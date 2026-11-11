@@ -6403,7 +6403,7 @@
       "id": "reel-20261111-1700-e53610619f",
       "data": "2026-11-11",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 09 - Quando o preco muda todo dia.mp4",
         "sha256": "e53610619fb6300b8c6994fcf8d83b9bb7a8e997a956d14c677080f060c478dd"
@@ -6416,12 +6416,17 @@
       },
       "instagram": {
         "legenda": "Já pensou o preço do pão mudar da manhã pra tarde?\n\nIsso tem nome, e o livro Em Nome do Povo explica.\n\nQuem mexe na quantidade de dinheiro mexe no preço de tudo que você compra.\n\nPor isso vale entender quem está com a mão no registro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18029707799878959",
+        "publicado_em": "2026-11-11T18:18:16.040780-03:00"
       },
       "facebook": {
         "legenda": "Já pensou o preço do pão mudar da manhã pra tarde?\n\nIsso tem nome, e o livro Em Nome do Povo explica.\n\nQuem mexe na quantidade de dinheiro mexe no preço de tudo que você compra.\n\nPor isso vale entender quem está com a mão no registro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1806407713743053",
+        "publicado_em": "2026-11-11T18:18:25.642649-03:00"
+      },
+      "concluido_em": "2026-11-11T18:18:25.654731-03:00"
     },
     {
       "id": "reel-20261111-2000-143a166f10",
