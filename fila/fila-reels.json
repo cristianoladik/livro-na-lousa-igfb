@@ -6373,7 +6373,7 @@
       "id": "reel-20261111-1400-d75ae2fa7f",
       "data": "2026-11-11",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Pai Rico 08 - Ativo x passivo.mp4",
         "sha256": "d75ae2fa7fff018e41f67233314fb3a876b0fd26d85559d45920524506d9e4fc"
@@ -6386,12 +6386,17 @@
       },
       "instagram": {
         "legenda": "A lição mais importante de finanças cabe em duas frases.\n\nE no final eu te mostro o passivo que quase todo mundo tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nÉ dinheiro saindo do bolso.\n\nPelo livro, isso é passivo.\n\nCompra primeiro o que coloca dinheiro no bolso.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17907648522348632",
+        "publicado_em": "2026-11-11T15:04:46.042375-03:00"
       },
       "facebook": {
         "legenda": "A lição mais importante de finanças cabe em duas frases.\n\nE no final eu te mostro o passivo que quase todo mundo tem.\n\nEssa lição está no livro Pai Rico, Pai Pobre.\n\nÉ dinheiro saindo do bolso.\n\nPelo livro, isso é passivo.\n\nCompra primeiro o que coloca dinheiro no bolso.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1658802179159372",
+        "publicado_em": "2026-11-11T15:04:55.538623-03:00"
+      },
+      "concluido_em": "2026-11-11T15:04:55.546246-03:00"
     },
     {
       "id": "reel-20261111-1700-e53610619f",
