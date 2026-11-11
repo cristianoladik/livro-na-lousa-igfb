@@ -6412,7 +6412,8 @@
         "asset": "reel-e53610619f-Em-Nome-do-Povo-09---Quando-o-preco-muda-todo-dia.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-e53610619f-Em-Nome-do-Povo-09---Quando-o-preco-muda-todo-dia.mp4",
         "sha256": "e53610619fb6300b8c6994fcf8d83b9bb7a8e997a956d14c677080f060c478dd",
-        "tamanho_bytes": 9645399
+        "tamanho_bytes": 9645399,
+        "removido_da_release_em": "2026-11-11T18:18:28.076146-03:00"
       },
       "instagram": {
         "legenda": "Já pensou o preço do pão mudar da manhã pra tarde?\n\nIsso tem nome, e o livro Em Nome do Povo explica.\n\nQuem mexe na quantidade de dinheiro mexe no preço de tudo que você compra.\n\nPor isso vale entender quem está com a mão no registro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
