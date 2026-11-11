@@ -2233,7 +2233,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c2cf9b0a10-Credito-Vale-Mais-05---Consorcio-ou-financiamento.mp4",
             "sha256": "c2cf9b0a10b970f265d057eb5a874b802c91d659854db911487c98da11d1b42d",
             "tamanho_bytes": 5225947,
-            "duracao_segundos": 34.73
+            "duracao_segundos": 34.73,
+            "removido_da_release_em": "2026-11-11T09:33:06.710359-03:00"
           },
           "instagram": {
             "status": "publicado",
