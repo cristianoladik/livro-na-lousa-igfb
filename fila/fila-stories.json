@@ -2217,7 +2217,7 @@
       "id": "story-20261111-c2cf9b0a10",
       "data": "2026-11-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 05 - Consorcio ou financiamento.mp4",
         "sha256": "c2cf9b0a10b970f265d057eb5a874b802c91d659854db911487c98da11d1b42d",
@@ -2227,7 +2227,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-c2cf9b0a10-Credito-Vale-Mais-05---Consorcio-ou-financiamento.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c2cf9b0a10-Credito-Vale-Mais-05---Consorcio-ou-financiamento.mp4",
@@ -2236,13 +2236,30 @@
             "duracao_segundos": 34.73
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18156667132518121",
+            "publish_iniciado_em": "2026-11-11T09:32:08-03:00",
+            "id": "17997808824058245",
+            "publicado_em": "2026-11-11T09:32:17-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1118291087583611",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-11T09:32:24-03:00",
+            "post_id_candidato": "2245749236286369",
+            "finish_em": "2026-11-11T09:32:28-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjIyNDU3NDkyNDYyODYzNjg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2245749236286369",
+            "publicado_em": "2026-11-11T09:33:04-03:00"
+          },
+          "concluido_em": "2026-11-11T09:33:04-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-11T09:33:04-03:00"
     },
     {
       "id": "story-20261112-8121f2b18c",
