@@ -6322,7 +6322,8 @@
         "asset": "reel-51b27a6ef6-Rapido-e-Devagar-08---As-duas-mentes.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-51b27a6ef6-Rapido-e-Devagar-08---As-duas-mentes.mp4",
         "sha256": "51b27a6ef669ff40b57ada36286c53c2c55c1e93621a0c443601ce4318d742cc",
-        "tamanho_bytes": 5555082
+        "tamanho_bytes": 5555082,
+        "removido_da_release_em": "2026-11-11T09:31:26.794780-03:00"
       },
       "instagram": {
         "legenda": "Tem duas mentes dentro da sua cabeça, e uma delas é folgada.\n\nQuem conta isso é o livro Rápido e Devagar.\n\nDaí saem muitos erros bobos.\n\nEm decisão grande, acorda o segundo antes de responder.\n\nSegue a página pra ver mais livros assim: @livronalousa",
