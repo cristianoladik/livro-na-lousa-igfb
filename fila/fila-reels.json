@@ -6313,7 +6313,7 @@
       "id": "reel-20261111-0800-51b27a6ef6",
       "data": "2026-11-11",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Rapido e Devagar 08 - As duas mentes.mp4",
         "sha256": "51b27a6ef669ff40b57ada36286c53c2c55c1e93621a0c443601ce4318d742cc"
@@ -6326,12 +6326,17 @@
       },
       "instagram": {
         "legenda": "Tem duas mentes dentro da sua cabeça, e uma delas é folgada.\n\nQuem conta isso é o livro Rápido e Devagar.\n\nDaí saem muitos erros bobos.\n\nEm decisão grande, acorda o segundo antes de responder.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17981137731129969",
+        "publicado_em": "2026-11-11T09:31:13.889602-03:00"
       },
       "facebook": {
         "legenda": "Tem duas mentes dentro da sua cabeça, e uma delas é folgada.\n\nQuem conta isso é o livro Rápido e Devagar.\n\nDaí saem muitos erros bobos.\n\nEm decisão grande, acorda o segundo antes de responder.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1587144283185280",
+        "publicado_em": "2026-11-11T09:31:24.393465-03:00"
+      },
+      "concluido_em": "2026-11-11T09:31:24.403645-03:00"
     },
     {
       "id": "reel-20261111-1100-c921e429c1",
