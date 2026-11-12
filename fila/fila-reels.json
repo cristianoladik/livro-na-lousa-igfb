@@ -6463,7 +6463,7 @@
       "id": "reel-20261112-0800-711d7c2f14",
       "data": "2026-11-12",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Iludidos pelo Acaso 09 - O teste das cem vidas.mp4",
         "sha256": "711d7c2f14b271c518263577e7f6745cb6200761f431983379d7ff25665304e1"
@@ -6476,12 +6476,17 @@
       },
       "instagram": {
         "legenda": "Existe uma pergunta simples que separa sorte de talento.\n\nEla vem do livro Iludidos pelo Acaso.\n\nMudar tudo por causa disso pode ser o erro de verdade.\n\nQuem julga só pelo placar aprende tudo ao contrário.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18091233644276534",
+        "publicado_em": "2026-11-12T09:31:24.661623-03:00"
       },
       "facebook": {
         "legenda": "Existe uma pergunta simples que separa sorte de talento.\n\nEla vem do livro Iludidos pelo Acaso.\n\nMudar tudo por causa disso pode ser o erro de verdade.\n\nQuem julga só pelo placar aprende tudo ao contrário.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "908290488941030",
+        "publicado_em": "2026-11-12T09:31:41.087932-03:00"
+      },
+      "concluido_em": "2026-11-12T09:31:41.096538-03:00"
     },
     {
       "id": "reel-20261112-1100-86404747c1",
