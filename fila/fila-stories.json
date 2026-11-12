@@ -2266,7 +2266,7 @@
       "id": "story-20261112-8121f2b18c",
       "data": "2026-11-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 05 - Do carro zero a casa de praia.mp4",
         "sha256": "8121f2b18cca59bdae895edabce1c72e7475cf8493248b3215301bc6b8098bb1",
@@ -2276,7 +2276,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-8121f2b18c-Dinheiro-Segredos-05---Do-carro-zero-a-casa-de-praia.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-8121f2b18c-Dinheiro-Segredos-05---Do-carro-zero-a-casa-de-praia.mp4",
@@ -2285,13 +2285,30 @@
             "duracao_segundos": 36.542
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18156945937518121",
+            "publish_iniciado_em": "2026-11-12T09:32:16-03:00",
+            "id": "18644554363057290",
+            "publicado_em": "2026-11-12T09:32:25-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1691928882314653",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-12T09:32:31-03:00",
+            "post_id_candidato": "1510219164270302",
+            "finish_em": "2026-11-12T09:32:36-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE1MTAyMTkxNzA5MzY5Njg=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1510219164270302",
+            "publicado_em": "2026-11-12T09:33:13-03:00"
+          },
+          "concluido_em": "2026-11-12T09:33:13-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-12T09:33:13-03:00"
     },
     {
       "id": "story-20261113-b2078c0a57",
