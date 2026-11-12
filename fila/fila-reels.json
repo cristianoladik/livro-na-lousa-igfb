@@ -6553,7 +6553,7 @@
       "id": "reel-20261112-1700-ddd9f74083",
       "data": "2026-11-12",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Mais Importante 09 - Os tres estagios da euforia.mp4",
         "sha256": "ddd9f7408368d8694a9749debb590b8072b51a85e1fdb0658f7f7eda43c3893d"
@@ -6566,12 +6566,17 @@
       },
       "instagram": {
         "legenda": "Toda euforia no mercado passa por três estágios.\n\nE quem sabe em qual degrau está, se protege.\n\nEssa lição está no livro O Mais Importante para o Investidor.\n\nEm volta de mim, as pessoas estão desconfiadas, animadas ou eufóricas?\n\nA resposta vale mais que qualquer palpite.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18067409738535918",
+        "publicado_em": "2026-11-12T18:26:26.681434-03:00"
       },
       "facebook": {
         "legenda": "Toda euforia no mercado passa por três estágios.\n\nE quem sabe em qual degrau está, se protege.\n\nEssa lição está no livro O Mais Importante para o Investidor.\n\nEm volta de mim, as pessoas estão desconfiadas, animadas ou eufóricas?\n\nA resposta vale mais que qualquer palpite.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1172589791872126",
+        "publicado_em": "2026-11-12T18:26:38.167833-03:00"
+      },
+      "concluido_em": "2026-11-12T18:26:38.180252-03:00"
     },
     {
       "id": "reel-20261112-2000-5c2fc763e4",
