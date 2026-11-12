@@ -2282,7 +2282,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-8121f2b18c-Dinheiro-Segredos-05---Do-carro-zero-a-casa-de-praia.mp4",
             "sha256": "8121f2b18cca59bdae895edabce1c72e7475cf8493248b3215301bc6b8098bb1",
             "tamanho_bytes": 6414939,
-            "duracao_segundos": 36.542
+            "duracao_segundos": 36.542,
+            "removido_da_release_em": "2026-11-12T09:33:15.821416-03:00"
           },
           "instagram": {
             "status": "publicado",
