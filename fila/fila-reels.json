@@ -6433,7 +6433,7 @@
       "id": "reel-20261111-2000-143a166f10",
       "data": "2026-11-11",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 09 - O taxi da Twyla Tharp.mp4",
         "sha256": "143a166f106655890e8e2dac457e87423f938e00203148f6ebc19caced208aeb"
@@ -6446,12 +6446,17 @@
       },
       "instagram": {
         "legenda": "O treino dela começa antes de chegar na academia.\n\nEla é a coreógrafa Twyla Tharp.\n\nEssa lição está no livro Hábitos Atômicos.\n\nO livro usa isso na terceira lei: torne fácil.\n\nComeçar tem que ser a parte mais leve do dia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18507857059098535",
+        "publicado_em": "2026-11-11T21:31:40.296421-03:00"
       },
       "facebook": {
         "legenda": "O treino dela começa antes de chegar na academia.\n\nEla é a coreógrafa Twyla Tharp.\n\nEssa lição está no livro Hábitos Atômicos.\n\nO livro usa isso na terceira lei: torne fácil.\n\nComeçar tem que ser a parte mais leve do dia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1854216222275125",
+        "publicado_em": "2026-11-11T21:31:50.308369-03:00"
+      },
+      "concluido_em": "2026-11-11T21:31:50.318510-03:00"
     },
     {
       "id": "reel-20261112-0800-711d7c2f14",
