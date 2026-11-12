@@ -6472,7 +6472,8 @@
         "asset": "reel-711d7c2f14-Iludidos-pelo-Acaso-09---O-teste-das-cem-vidas.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-711d7c2f14-Iludidos-pelo-Acaso-09---O-teste-das-cem-vidas.mp4",
         "sha256": "711d7c2f14b271c518263577e7f6745cb6200761f431983379d7ff25665304e1",
-        "tamanho_bytes": 12992436
+        "tamanho_bytes": 12992436,
+        "removido_da_release_em": "2026-11-12T09:31:43.545365-03:00"
       },
       "instagram": {
         "legenda": "Existe uma pergunta simples que separa sorte de talento.\n\nEla vem do livro Iludidos pelo Acaso.\n\nMudar tudo por causa disso pode ser o erro de verdade.\n\nQuem julga só pelo placar aprende tudo ao contrário.\n\nSegue a página pra ver mais livros assim: @livronalousa",
