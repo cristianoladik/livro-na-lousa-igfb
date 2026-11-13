@@ -6583,7 +6583,7 @@
       "id": "reel-20261112-2000-5c2fc763e4",
       "data": "2026-11-12",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 09 - A regra de ouro e Tony Dungy.mp4",
         "sha256": "5c2fc763e4c49faefebef2d03e7716544fcb4e0cef3e47fbbac6db8854ad9457"
@@ -6596,12 +6596,17 @@
       },
       "instagram": {
         "legenda": "Não dá pra apagar um hábito.\n\nMas dá pra trocar a peça do meio.\n\nEssa é a regra de ouro do livro O Poder do Hábito.\n\nDepois, no Indianapolis Colts, os jogadores passaram a acreditar de verdade no sistema.\n\nE em dois mil e sete, os Colts ganharam o Super Bowl.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17945707200092566",
+        "publicado_em": "2026-11-12T23:33:33.841227-03:00"
       },
       "facebook": {
         "legenda": "Não dá pra apagar um hábito.\n\nMas dá pra trocar a peça do meio.\n\nEssa é a regra de ouro do livro O Poder do Hábito.\n\nDepois, no Indianapolis Colts, os jogadores passaram a acreditar de verdade no sistema.\n\nE em dois mil e sete, os Colts ganharam o Super Bowl.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2869545896760985",
+        "publicado_em": "2026-11-12T23:33:48.035042-03:00"
+      },
+      "concluido_em": "2026-11-12T23:33:48.045039-03:00"
     },
     {
       "id": "reel-20261113-0800-3891450380",
