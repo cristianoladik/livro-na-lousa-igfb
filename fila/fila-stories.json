@@ -2315,7 +2315,7 @@
       "id": "story-20261113-b2078c0a57",
       "data": "2026-11-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 06 - O banqueiro em Dubai.mp4",
         "sha256": "b2078c0a57ce6411d48be2f7f95fa9de9b5f042f71eeabc32169de8803e6b81b",
@@ -2325,7 +2325,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-b2078c0a57-Antifragil-06---O-banqueiro-em-Dubai.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-b2078c0a57-Antifragil-06---O-banqueiro-em-Dubai.mp4",
@@ -2334,13 +2334,30 @@
             "duracao_segundos": 34.11
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18157230019518121",
+            "publish_iniciado_em": "2026-11-13T09:30:55-03:00",
+            "id": "17918306109496705",
+            "publicado_em": "2026-11-13T09:31:02-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2381844529311057",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-13T09:31:14-03:00",
+            "post_id_candidato": "1415530190662328",
+            "finish_em": "2026-11-13T09:31:18-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE0MTU1MzAxOTM5OTU2NjE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1415530190662328",
+            "publicado_em": "2026-11-13T09:31:54-03:00"
+          },
+          "concluido_em": "2026-11-13T09:31:54-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-13T09:31:54-03:00"
     },
     {
       "id": "story-20261114-aa6974d1be",
