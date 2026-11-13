@@ -6643,7 +6643,7 @@
       "id": "reel-20261113-1100-99fa7b1f27",
       "data": "2026-11-13",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Rapido e Devagar 09 - O bonus era sorte.mp4",
         "sha256": "99fa7b1f272af5662e59df89c348d00604b8c7cb8bb0dc10fc6dc5f39e00a08f"
@@ -6656,23 +6656,25 @@
       },
       "instagram": {
         "legenda": "Uma empresa de investimento pagava bônus pros melhores consultores todo ano.\n\nAté que alguém olhou os números de perto.\n\nEssa lição está no livro Rápido e Devagar.\n\nO que prova é acertar muitas vezes, em anos diferentes.\n\nIsso vale pra investimento, pra negócio e até pra palpite de futebol.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "erro",
-        "erro": "Meta HTTP 500: {\"error\":{\"code\":1,\"message\":\"Please reduce the amount of data you're asking for, then retry your request\"}}",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-13T11:27:21.922506-03:00",
-        "tentativas": 1
+        "tentativas": 1,
+        "id": "18028053794936155",
+        "publicado_em": "2026-11-13T14:39:21.469766-03:00"
       },
       "facebook": {
         "legenda": "Uma empresa de investimento pagava bônus pros melhores consultores todo ano.\n\nAté que alguém olhou os números de perto.\n\nEssa lição está no livro Rápido e Devagar.\n\nO que prova é acertar muitas vezes, em anos diferentes.\n\nIsso vale pra investimento, pra negócio e até pra palpite de futebol.\n\nSegue a página pra ver mais livros assim: @livronalousa",
         "status": "publicado",
         "id": "3446108178906666",
         "publicado_em": "2026-11-13T11:27:33.139740-03:00"
-      }
+      },
+      "concluido_em": "2026-11-13T14:39:21.494607-03:00"
     },
     {
       "id": "reel-20261113-1400-626ae6e5ed",
       "data": "2026-11-13",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Pai Rico 09 - A casa onde voce mora.mp4",
         "sha256": "626ae6e5edfc9d972a9fec1630c97c31ee9cea9be39a8c59a680af177591c87d"
@@ -6685,12 +6687,17 @@
       },
       "instagram": {
         "legenda": "A sua casa não é investimento.\n\nPelo menos não pro livro Pai Rico, Pai Pobre.\n\nDepois, o que os ativos rendem ajuda a pagar o luxo.\n\nAtivo primeiro.\n\nCasa grande depois.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18008630399792004",
+        "publicado_em": "2026-11-13T14:40:22.654237-03:00"
       },
       "facebook": {
         "legenda": "A sua casa não é investimento.\n\nPelo menos não pro livro Pai Rico, Pai Pobre.\n\nDepois, o que os ativos rendem ajuda a pagar o luxo.\n\nAtivo primeiro.\n\nCasa grande depois.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4325972767702431",
+        "publicado_em": "2026-11-13T14:40:34.865990-03:00"
+      },
+      "concluido_em": "2026-11-13T14:40:34.877930-03:00"
     },
     {
       "id": "reel-20261113-1700-dd308e64a0",
