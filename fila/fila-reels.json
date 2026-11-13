@@ -6656,11 +6656,16 @@
       },
       "instagram": {
         "legenda": "Uma empresa de investimento pagava bônus pros melhores consultores todo ano.\n\nAté que alguém olhou os números de perto.\n\nEssa lição está no livro Rápido e Devagar.\n\nO que prova é acertar muitas vezes, em anos diferentes.\n\nIsso vale pra investimento, pra negócio e até pra palpite de futebol.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "erro",
+        "erro": "Meta HTTP 500: {\"error\":{\"code\":1,\"message\":\"Please reduce the amount of data you're asking for, then retry your request\"}}",
+        "ultima_tentativa_em": "2026-11-13T11:27:21.922506-03:00",
+        "tentativas": 1
       },
       "facebook": {
         "legenda": "Uma empresa de investimento pagava bônus pros melhores consultores todo ano.\n\nAté que alguém olhou os números de perto.\n\nEssa lição está no livro Rápido e Devagar.\n\nO que prova é acertar muitas vezes, em anos diferentes.\n\nIsso vale pra investimento, pra negócio e até pra palpite de futebol.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "3446108178906666",
+        "publicado_em": "2026-11-13T11:27:33.139740-03:00"
       }
     },
     {
