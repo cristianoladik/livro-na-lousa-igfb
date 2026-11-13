@@ -2331,7 +2331,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-b2078c0a57-Antifragil-06---O-banqueiro-em-Dubai.mp4",
             "sha256": "b2078c0a57ce6411d48be2f7f95fa9de9b5f042f71eeabc32169de8803e6b81b",
             "tamanho_bytes": 5598990,
-            "duracao_segundos": 34.11
+            "duracao_segundos": 34.11,
+            "removido_da_release_em": "2026-11-13T09:31:57.016304-03:00"
           },
           "instagram": {
             "status": "publicado",
