@@ -6735,7 +6735,7 @@
       "id": "reel-20261113-2000-cf8c25ab1f",
       "data": "2026-11-13",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Em Nome do Povo 10 - O aplauso e a conta.mp4",
         "sha256": "cf8c25ab1fec3aebadeef93972dfd1be72dd80c11976b5e939635cba3e2e9499"
@@ -6748,12 +6748,17 @@
       },
       "instagram": {
         "legenda": "Primeiro vem o aplauso.\n\nA conta chega depois.\n\nEssa ideia aparece no livro Em Nome do Povo, pela voz de um economista que ganhou o prêmio Nobel.\n\nE ninguém lembra que a festa e a conta vieram do mesmo lugar.\n\nA lição é olhar além do aplauso: dinheiro criado demais cobra o seu preço mais pra frente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18140135656781589",
+        "publicado_em": "2026-11-13T23:17:05.187101-03:00"
       },
       "facebook": {
         "legenda": "Primeiro vem o aplauso.\n\nA conta chega depois.\n\nEssa ideia aparece no livro Em Nome do Povo, pela voz de um economista que ganhou o prêmio Nobel.\n\nE ninguém lembra que a festa e a conta vieram do mesmo lugar.\n\nA lição é olhar além do aplauso: dinheiro criado demais cobra o seu preço mais pra frente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2243040393288875",
+        "publicado_em": "2026-11-13T23:17:16.303045-03:00"
+      },
+      "concluido_em": "2026-11-13T23:17:16.311284-03:00"
     },
     {
       "id": "reel-20261114-0800-a0a5411b99",
