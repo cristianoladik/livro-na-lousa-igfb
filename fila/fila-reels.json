@@ -6795,7 +6795,7 @@
       "id": "reel-20261114-1100-fe86aa0bc0",
       "data": "2026-11-14",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Iludidos pelo Acaso 10 - O truque de Ulisses.mp4",
         "sha256": "fe86aa0bc0ceafb21d17f6009711fdde78527a332c6e3f2a0e1bb3a68850c717"
@@ -6808,12 +6808,17 @@
       },
       "instagram": {
         "legenda": "O herói mais esperto da Grécia antiga pediu pra ser amarrado num mastro.\n\nO livro Iludidos pelo Acaso usa essa história pra falar de dinheiro.\n\nEsse é o truque.\n\nSeu mastro são as regras que você escreveu quando estava calmo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18154693144506580",
+        "publicado_em": "2026-11-14T13:01:12.033079-03:00"
       },
       "facebook": {
         "legenda": "O herói mais esperto da Grécia antiga pediu pra ser amarrado num mastro.\n\nO livro Iludidos pelo Acaso usa essa história pra falar de dinheiro.\n\nEsse é o truque.\n\nSeu mastro são as regras que você escreveu quando estava calmo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1451221510511719",
+        "publicado_em": "2026-11-14T13:01:24.172476-03:00"
+      },
+      "concluido_em": "2026-11-14T13:01:24.181894-03:00"
     },
     {
       "id": "reel-20261114-1400-19cd609be4",
