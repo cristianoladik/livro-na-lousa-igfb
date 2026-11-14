@@ -6765,7 +6765,7 @@
       "id": "reel-20261114-0800-a0a5411b99",
       "data": "2026-11-14",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 10 - Victor Hugo e o xale.mp4",
         "sha256": "a0a5411b99c85d7c049a676dea377a33e7231cb1224a5298f502cf386b563b7f"
@@ -6778,12 +6778,17 @@
       },
       "instagram": {
         "legenda": "Um escritor trancou as próprias roupas pra conseguir terminar um livro.\n\nFoi o Victor Hugo, em mil oitocentos e trinta.\n\nEssa lição está no livro Hábitos Atômicos.\n\nHoje dá pra fazer igual apagando o cartão salvo no aplicativo.\n\nAssim a compra por impulso fica cheia de passos.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18118427129027536",
+        "publicado_em": "2026-11-14T09:31:01.000100-03:00"
       },
       "facebook": {
         "legenda": "Um escritor trancou as próprias roupas pra conseguir terminar um livro.\n\nFoi o Victor Hugo, em mil oitocentos e trinta.\n\nEssa lição está no livro Hábitos Atômicos.\n\nHoje dá pra fazer igual apagando o cartão salvo no aplicativo.\n\nAssim a compra por impulso fica cheia de passos.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2344084026384617",
+        "publicado_em": "2026-11-14T09:31:12.009532-03:00"
+      },
+      "concluido_em": "2026-11-14T09:31:12.022150-03:00"
     },
     {
       "id": "reel-20261114-1100-fe86aa0bc0",
