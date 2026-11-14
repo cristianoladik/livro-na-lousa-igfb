@@ -6804,7 +6804,8 @@
         "asset": "reel-fe86aa0bc0-Iludidos-pelo-Acaso-10---O-truque-de-Ulisses.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-fe86aa0bc0-Iludidos-pelo-Acaso-10---O-truque-de-Ulisses.mp4",
         "sha256": "fe86aa0bc0ceafb21d17f6009711fdde78527a332c6e3f2a0e1bb3a68850c717",
-        "tamanho_bytes": 9502680
+        "tamanho_bytes": 9502680,
+        "removido_da_release_em": "2026-11-14T13:01:26.896289-03:00"
       },
       "instagram": {
         "legenda": "O herói mais esperto da Grécia antiga pediu pra ser amarrado num mastro.\n\nO livro Iludidos pelo Acaso usa essa história pra falar de dinheiro.\n\nEsse é o truque.\n\nSeu mastro são as regras que você escreveu quando estava calmo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
