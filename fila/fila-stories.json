@@ -2364,7 +2364,7 @@
       "id": "story-20261114-aa6974d1be",
       "data": "2026-11-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 06 - Emprestar pra parente.mp4",
         "sha256": "aa6974d1be65d6e3687300e4c483d8734613da31ff351a4c605fcbf9563477c3",
@@ -2374,7 +2374,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-aa6974d1be-Babilonia-06---Emprestar-pra-parente.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-aa6974d1be-Babilonia-06---Emprestar-pra-parente.mp4",
@@ -2383,13 +2383,30 @@
             "duracao_segundos": 32.917
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18157496497518121",
+            "publish_iniciado_em": "2026-11-14T09:31:58-03:00",
+            "id": "18597799780070016",
+            "publicado_em": "2026-11-14T09:32:07-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2992713287780297",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-14T09:32:14-03:00",
+            "post_id_candidato": "1702019491701171",
+            "finish_em": "2026-11-14T09:32:20-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE3MDIwMTk1MTE3MDExNjk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1702019491701171",
+            "publicado_em": "2026-11-14T09:32:56-03:00"
+          },
+          "concluido_em": "2026-11-14T09:32:56-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-14T09:32:56-03:00"
     },
     {
       "id": "story-20261115-48a5c3ed27",
