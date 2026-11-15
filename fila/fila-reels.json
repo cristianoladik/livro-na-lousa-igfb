@@ -6945,7 +6945,7 @@
       "id": "reel-20261115-1100-9e8fd83331",
       "data": "2026-11-15",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 10 - Poucos acertos explicam quase tudo.mp4",
         "sha256": "9e8fd83331825f3ba4243336d1be0963479fd735ac86f46154d13734e2e2bce9"
@@ -6958,12 +6958,17 @@
       },
       "instagram": {
         "legenda": "O Warren Buffett teve centenas de ações na vida.\n\nA maior parte da fortuna veio de umas dez.\n\nIsso tá no livro A Psicologia Financeira.\n\nO que importa é o que você faz nos poucos momentos que decidem tudo.\n\nComo não vender em pânico na crise.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18120399800467780",
+        "publicado_em": "2026-11-15T11:40:56.849154-03:00"
       },
       "facebook": {
         "legenda": "O Warren Buffett teve centenas de ações na vida.\n\nA maior parte da fortuna veio de umas dez.\n\nIsso tá no livro A Psicologia Financeira.\n\nO que importa é o que você faz nos poucos momentos que decidem tudo.\n\nComo não vender em pânico na crise.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2972719439793616",
+        "publicado_em": "2026-11-15T11:41:07.410333-03:00"
+      },
+      "concluido_em": "2026-11-15T11:41:07.419276-03:00"
     },
     {
       "id": "reel-20261115-1400-b212695f61",
