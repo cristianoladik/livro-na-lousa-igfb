@@ -6975,7 +6975,7 @@
       "id": "reel-20261115-1400-b212695f61",
       "data": "2026-11-15",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Rapido e Devagar 10 - Dois anos que viraram oito.mp4",
         "sha256": "b212695f61450d29c8d16a3f9b41410d68fb3d067e1d2194e914376ea0ac515c"
@@ -6988,12 +6988,17 @@
       },
       "instagram": {
         "legenda": "Uma equipe achava que ia terminar um livro em dois anos.\n\nLevou oito.\n\nEssa lição está no livro Rápido e Devagar.\n\nAntes de confiar no seu plano, pergunta como foi com gente que fez algo parecido.\n\nEssa resposta de fora vale mais que o seu otimismo de dentro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17976225510168909",
+        "publicado_em": "2026-11-15T15:11:44.171143-03:00"
       },
       "facebook": {
         "legenda": "Uma equipe achava que ia terminar um livro em dois anos.\n\nLevou oito.\n\nEssa lição está no livro Rápido e Devagar.\n\nAntes de confiar no seu plano, pergunta como foi com gente que fez algo parecido.\n\nEssa resposta de fora vale mais que o seu otimismo de dentro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "29519822097636693",
+        "publicado_em": "2026-11-15T15:11:56.404935-03:00"
+      },
+      "concluido_em": "2026-11-15T15:11:56.413279-03:00"
     },
     {
       "id": "reel-20261115-1700-6aa1a85d9f",
