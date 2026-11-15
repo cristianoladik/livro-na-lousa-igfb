@@ -6915,7 +6915,7 @@
       "id": "reel-20261115-0800-118f0c02da",
       "data": "2026-11-15",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 10 - Alcoolicos Anonimos e a crenca.mp4",
         "sha256": "118f0c02dac8c4ab3e90ef1ecb570aaa25dc33622d50dd9bfd45ddbc2a81f416"
@@ -6928,12 +6928,17 @@
       },
       "instagram": {
         "legenda": "O que os Alcoólicos Anônimos colocam no lugar do copo?\n\nA resposta tá no livro O Poder do Hábito.\n\nA crença: acreditar que dá.\n\nE acreditar fica mais fácil em grupo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18125884984913908",
+        "publicado_em": "2026-11-15T09:30:58.188022-03:00"
       },
       "facebook": {
         "legenda": "O que os Alcoólicos Anônimos colocam no lugar do copo?\n\nA resposta tá no livro O Poder do Hábito.\n\nA crença: acreditar que dá.\n\nE acreditar fica mais fácil em grupo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2110909643121469",
+        "publicado_em": "2026-11-15T09:31:09.457760-03:00"
+      },
+      "concluido_em": "2026-11-15T09:31:09.468042-03:00"
     },
     {
       "id": "reel-20261115-1100-9e8fd83331",
