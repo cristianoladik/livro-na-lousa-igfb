@@ -6885,7 +6885,7 @@
       "id": "reel-20261114-2000-544e8993f4",
       "data": "2026-11-14",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "O Mais Importante 10 - O risco mora onde voce relaxa.mp4",
         "sha256": "544e8993f4b6369944813a1abe39e04260745667ba6adc5a52f0b490d550f1fb"
@@ -6898,12 +6898,17 @@
       },
       "instagram": {
         "legenda": "O lugar mais perigoso pro seu dinheiro é onde você se sente seguro.\n\nEssa é a ideia de risco do livro O Mais Importante para o Investidor.\n\nE risco, pro livro, não é o preço balançar.\n\nÉ a chance de você perder de verdade e não recuperar mais.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18020473568953612",
+        "publicado_em": "2026-11-14T21:13:34.081346-03:00"
       },
       "facebook": {
         "legenda": "O lugar mais perigoso pro seu dinheiro é onde você se sente seguro.\n\nEssa é a ideia de risco do livro O Mais Importante para o Investidor.\n\nE risco, pro livro, não é o preço balançar.\n\nÉ a chance de você perder de verdade e não recuperar mais.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1646852616945597",
+        "publicado_em": "2026-11-14T21:13:46.528401-03:00"
+      },
+      "concluido_em": "2026-11-14T21:13:46.538669-03:00"
     },
     {
       "id": "reel-20261115-0800-118f0c02da",
