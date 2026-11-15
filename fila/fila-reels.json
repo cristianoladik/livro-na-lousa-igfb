@@ -6984,7 +6984,8 @@
         "asset": "reel-b212695f61-Rapido-e-Devagar-10---Dois-anos-que-viraram-oito.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-b212695f61-Rapido-e-Devagar-10---Dois-anos-que-viraram-oito.mp4",
         "sha256": "b212695f61450d29c8d16a3f9b41410d68fb3d067e1d2194e914376ea0ac515c",
-        "tamanho_bytes": 10858680
+        "tamanho_bytes": 10858680,
+        "removido_da_release_em": "2026-11-15T15:11:59.181804-03:00"
       },
       "instagram": {
         "legenda": "Uma equipe achava que ia terminar um livro em dois anos.\n\nLevou oito.\n\nEssa lição está no livro Rápido e Devagar.\n\nAntes de confiar no seu plano, pergunta como foi com gente que fez algo parecido.\n\nEssa resposta de fora vale mais que o seu otimismo de dentro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
