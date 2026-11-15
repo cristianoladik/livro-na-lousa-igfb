@@ -7005,7 +7005,7 @@
       "id": "reel-20261115-1700-6aa1a85d9f",
       "data": "2026-11-15",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 11 - A caixa registradora de Patterson.mp4",
         "sha256": "6aa1a85d9f74cfd1325d7c60ebed1ecc21b357f74c9f3bd7dc46e2a183ab8f5e"
@@ -7018,18 +7018,23 @@
       },
       "instagram": {
         "legenda": "Os funcionários pegavam dinheiro do caixa da loja dele.\n\nEra o século dezenove, e o dono era John Henry Patterson.\n\nEssa lição está no livro Hábitos Atômicos.\n\nSalário de três mil reais, dez por cento programados pro dia do pagamento.\n\nSão trezentos reais por mês sem você decidir de novo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18146645833607207",
+        "publicado_em": "2026-11-15T20:56:04.739864-03:00"
       },
       "facebook": {
         "legenda": "Os funcionários pegavam dinheiro do caixa da loja dele.\n\nEra o século dezenove, e o dono era John Henry Patterson.\n\nEssa lição está no livro Hábitos Atômicos.\n\nSalário de três mil reais, dez por cento programados pro dia do pagamento.\n\nSão trezentos reais por mês sem você decidir de novo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4580033765575795",
+        "publicado_em": "2026-11-15T20:56:14.567873-03:00"
+      },
+      "concluido_em": "2026-11-15T20:56:14.578270-03:00"
     },
     {
       "id": "reel-20261115-2000-7e1bc979ac",
       "data": "2026-11-15",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 11 - Vergonha de vender.mp4",
         "sha256": "7e1bc979acd46080c6d2462452165387e695023cf5b8576b5c41215bb2b22f2a"
@@ -7042,12 +7047,17 @@
       },
       "instagram": {
         "legenda": "Ter vergonha de vender está te fazendo deixar dinheiro na mesa.\n\nO livro Os Segredos da Mente Milionária mostra que, se o que você faz ajuda alguém, esconder isso é deixar de ajudar, e quem não é lembrado não vende.\n\nO cliente vai comprar de alguém, a pergunta é se vai ser de você ou do seu concorrente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18118068542519705",
+        "publicado_em": "2026-11-15T20:57:04.331230-03:00"
       },
       "facebook": {
         "legenda": "Ter vergonha de vender está te fazendo deixar dinheiro na mesa.\n\nO livro Os Segredos da Mente Milionária mostra que, se o que você faz ajuda alguém, esconder isso é deixar de ajudar, e quem não é lembrado não vende.\n\nO cliente vai comprar de alguém, a pergunta é se vai ser de você ou do seu concorrente.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1845186166684830",
+        "publicado_em": "2026-11-15T20:57:11.759823-03:00"
+      },
+      "concluido_em": "2026-11-15T20:57:11.769974-03:00"
     },
     {
       "id": "reel-20261116-0800-4072537a1c",
