@@ -2429,7 +2429,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-48a5c3ed27-Casais-Inteligentes-06---O-financista.mp4",
             "sha256": "48a5c3ed27c870ff2214465ecfab86f3e27d4d356742e6193effcc795a21c046",
             "tamanho_bytes": 4995647,
-            "duracao_segundos": 31.625
+            "duracao_segundos": 31.625,
+            "removido_da_release_em": "2026-11-15T09:33:38.590382-03:00"
           },
           "instagram": {
             "status": "publicado",
