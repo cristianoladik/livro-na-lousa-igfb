@@ -2462,7 +2462,7 @@
       "id": "story-20261116-0cc701dd86",
       "data": "2026-11-16",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 06 - Quando ponto com valia fortunas.mp4",
         "sha256": "0cc701dd860e85d9a224fc6def54a7e259f86e66249c3880c3e0c62951b7af37",
@@ -2472,7 +2472,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-0cc701dd86-Ciclo-de-Mercado-06---Quando-ponto-com-valia-fortunas.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0cc701dd86-Ciclo-de-Mercado-06---Quando-ponto-com-valia-fortunas.mp4",
@@ -2481,13 +2481,30 @@
             "duracao_segundos": 50.75
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18158065720518121",
+            "publish_iniciado_em": "2026-11-16T09:30:59-03:00",
+            "id": "17988291813001142",
+            "publicado_em": "2026-11-16T09:31:08-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1806337643910127",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-16T09:31:15-03:00",
+            "post_id_candidato": "1805142967419658",
+            "finish_em": "2026-11-16T09:31:19-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE4MDUxNDI5Nzc0MTk2NTc=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1805142967419658",
+            "publicado_em": "2026-11-16T09:31:55-03:00"
+          },
+          "concluido_em": "2026-11-16T09:31:55-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-16T09:31:55-03:00"
     },
     {
       "id": "story-20261117-cd995fa151",
