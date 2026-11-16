@@ -7125,7 +7125,7 @@
       "id": "reel-20261116-1400-be6a655b17",
       "data": "2026-11-16",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 12 - O sabonete de Karachi.mp4",
         "sha256": "be6a655b17479ecf6fdf54821530cb3034c8519c87f5d2d3296269eaeb275cca"
@@ -7138,18 +7138,23 @@
       },
       "instagram": {
         "legenda": "Um sabonete cheiroso ajudou a derrubar a diarreia das crianças.\n\nFoi num bairro de Karachi, no Paquistão, no fim dos anos noventa.\n\nEssa lição está no livro Hábitos Atômicos.\n\nÉ a quarta lei do livro: torne satisfatório.\n\nO que dá prazer na hora se repete.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18147431506596441",
+        "publicado_em": "2026-11-16T18:25:47.923053-03:00"
       },
       "facebook": {
         "legenda": "Um sabonete cheiroso ajudou a derrubar a diarreia das crianças.\n\nFoi num bairro de Karachi, no Paquistão, no fim dos anos noventa.\n\nEssa lição está no livro Hábitos Atômicos.\n\nÉ a quarta lei do livro: torne satisfatório.\n\nO que dá prazer na hora se repete.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2334353300471060",
+        "publicado_em": "2026-11-16T18:25:59.089654-03:00"
+      },
+      "concluido_em": "2026-11-16T18:25:59.097792-03:00"
     },
     {
       "id": "reel-20261116-1700-c5a926fa45",
       "data": "2026-11-16",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 12 - Maior que o problema.mp4",
         "sha256": "c5a926fa45905b72b27891631ed0d361acfe60a20b0507c934e77fd28dc82d54"
@@ -7162,12 +7167,17 @@
       },
       "instagram": {
         "legenda": "Para de pedir menos problema e pede pra ser uma pessoa maior que o problema.\n\nO livro Os Segredos da Mente Milionária diz que problema sempre vai existir, pra rico e pra pobre, e a diferença é o tamanho da pessoa na frente dele.\n\nPra uma pessoa grande, a mesma pedra que parece montanha é só um degrau.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18119291047816909",
+        "publicado_em": "2026-11-16T18:26:44.924499-03:00"
       },
       "facebook": {
         "legenda": "Para de pedir menos problema e pede pra ser uma pessoa maior que o problema.\n\nO livro Os Segredos da Mente Milionária diz que problema sempre vai existir, pra rico e pra pobre, e a diferença é o tamanho da pessoa na frente dele.\n\nPra uma pessoa grande, a mesma pedra que parece montanha é só um degrau.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2348332469302919",
+        "publicado_em": "2026-11-16T18:26:54.519696-03:00"
+      },
+      "concluido_em": "2026-11-16T18:26:54.527824-03:00"
     },
     {
       "id": "reel-20261116-2000-3086031ddb",
