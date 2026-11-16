@@ -2478,7 +2478,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-0cc701dd86-Ciclo-de-Mercado-06---Quando-ponto-com-valia-fortunas.mp4",
             "sha256": "0cc701dd860e85d9a224fc6def54a7e259f86e66249c3880c3e0c62951b7af37",
             "tamanho_bytes": 7690956,
-            "duracao_segundos": 50.75
+            "duracao_segundos": 50.75,
+            "removido_da_release_em": "2026-11-16T09:31:58.620354-03:00"
           },
           "instagram": {
             "status": "publicado",
