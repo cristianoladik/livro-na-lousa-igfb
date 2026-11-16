@@ -7095,7 +7095,7 @@
       "id": "reel-20261116-1100-69abdfadc7",
       "data": "2026-11-16",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 11 - Liberdade controlar o seu tempo.mp4",
         "sha256": "69abdfadc7dfaee6630c4f9715820542d221c293667eedc537e2256b3086350d"
@@ -7108,12 +7108,17 @@
       },
       "instagram": {
         "legenda": "Qual é o maior lucro que o dinheiro pode te dar?\n\nNão é carro, nem casa, nem viagem.\n\nEssa lição está no livro A Psicologia Financeira.\n\nNa prática: uma reserva que cobre alguns meses de gastos já te deixa dizer não a um emprego ruim.\n\nIsso é liberdade.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18101460737409119",
+        "publicado_em": "2026-11-16T12:33:46.282283-03:00"
       },
       "facebook": {
         "legenda": "Qual é o maior lucro que o dinheiro pode te dar?\n\nNão é carro, nem casa, nem viagem.\n\nEssa lição está no livro A Psicologia Financeira.\n\nNa prática: uma reserva que cobre alguns meses de gastos já te deixa dizer não a um emprego ruim.\n\nIsso é liberdade.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1797275811577201",
+        "publicado_em": "2026-11-16T12:33:55.730179-03:00"
+      },
+      "concluido_em": "2026-11-16T12:33:55.740609-03:00"
     },
     {
       "id": "reel-20261116-1400-be6a655b17",
