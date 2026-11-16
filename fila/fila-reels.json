@@ -7185,7 +7185,7 @@
       "id": "reel-20261116-2000-3086031ddb",
       "data": "2026-11-16",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 12 - Paul O'Neill e a Alcoa.mp4",
         "sha256": "3086031ddbcfb8459747763584867863d831261a916b02cdbe31147fd2bcbb3e"
@@ -7198,12 +7198,17 @@
       },
       "instagram": {
         "legenda": "O novo presidente só falou de segurança, e o lucro ficou cinco vezes maior.\n\nFoi Paul O'Neill, na Alcoa, uma gigante do alumínio.\n\nEssa lição está no livro O Poder do Hábito.\n\nE as ações valiam cinco vezes mais quando ele saiu.\n\nIsso é um hábito-chave: puxa os outros, como dominó.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17885934084528531",
+        "publicado_em": "2026-11-16T20:20:43.994434-03:00"
       },
       "facebook": {
         "legenda": "O novo presidente só falou de segurança, e o lucro ficou cinco vezes maior.\n\nFoi Paul O'Neill, na Alcoa, uma gigante do alumínio.\n\nEssa lição está no livro O Poder do Hábito.\n\nE as ações valiam cinco vezes mais quando ele saiu.\n\nIsso é um hábito-chave: puxa os outros, como dominó.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2129589474342004",
+        "publicado_em": "2026-11-16T20:20:52.955046-03:00"
+      },
+      "concluido_em": "2026-11-16T20:20:52.965095-03:00"
     },
     {
       "id": "reel-20261117-0800-5e3a196a8a",
