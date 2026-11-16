@@ -7065,7 +7065,7 @@
       "id": "reel-20261116-0800-4072537a1c",
       "data": "2026-11-16",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 11 - Mandy e as unhas.mp4",
         "sha256": "4072537a1c58c46079e188b313420c4f5b4120596dc2e0937c9967174920197b"
@@ -7078,12 +7078,17 @@
       },
       "instagram": {
         "legenda": "Ela roía as unhas desde criança, e parou em um mês.\n\nO nome dela é Mandy, uma estudante.\n\nEssa lição está no livro O Poder do Hábito.\n\nMesma deixa, mesma recompensa, rotina nova.\n\nEm um mês, parou de roer as unhas.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18120762694796172",
+        "publicado_em": "2026-11-16T09:32:49.228190-03:00"
       },
       "facebook": {
         "legenda": "Ela roía as unhas desde criança, e parou em um mês.\n\nO nome dela é Mandy, uma estudante.\n\nEssa lição está no livro O Poder do Hábito.\n\nMesma deixa, mesma recompensa, rotina nova.\n\nEm um mês, parou de roer as unhas.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2915963475453181",
+        "publicado_em": "2026-11-16T09:33:02.912027-03:00"
+      },
+      "concluido_em": "2026-11-16T09:33:02.924496-03:00"
     },
     {
       "id": "reel-20261116-1100-69abdfadc7",
