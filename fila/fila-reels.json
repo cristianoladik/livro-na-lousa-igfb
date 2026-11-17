@@ -7215,7 +7215,7 @@
       "id": "reel-20261117-0800-5e3a196a8a",
       "data": "2026-11-17",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 12 - O paradoxo do homem no carro.mp4",
         "sha256": "5e3a196a8a14a707581b1b5574bcb6397fe27b52ee3ebb4d4fbad0d11cdba29a"
@@ -7228,12 +7228,17 @@
       },
       "instagram": {
         "legenda": "Quando passa uma Ferrari, você olha pro carro ou pra quem tá dirigindo?\n\nEssa história tá no livro A Psicologia Financeira.\n\nA pessoa quer respeito, mas quem leva a admiração é o carro.\n\nO livro diz que respeito vem de gentileza e humildade, não do tamanho do motor.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18117823712171222",
+        "publicado_em": "2026-11-17T09:32:50.028612-03:00"
       },
       "facebook": {
         "legenda": "Quando passa uma Ferrari, você olha pro carro ou pra quem tá dirigindo?\n\nEssa história tá no livro A Psicologia Financeira.\n\nA pessoa quer respeito, mas quem leva a admiração é o carro.\n\nO livro diz que respeito vem de gentileza e humildade, não do tamanho do motor.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2382332545887930",
+        "publicado_em": "2026-11-17T09:32:59.266470-03:00"
+      },
+      "concluido_em": "2026-11-17T09:32:59.275854-03:00"
     },
     {
       "id": "reel-20261117-1100-b8ab63e46f",
