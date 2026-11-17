@@ -7275,7 +7275,7 @@
       "id": "reel-20261117-1400-976c0670ef",
       "data": "2026-11-17",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Mente Milionaria 12 - Maior que o problema.mp4",
         "sha256": "976c0670ef508ae5671758a2258c3fbbd087766d64c464173559af2873f5281a"
@@ -7288,18 +7288,23 @@
       },
       "instagram": {
         "legenda": "Para de pedir menos problema.\n\nPede isso aqui: ser uma pessoa maior que o problema.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nQuem foge do problema fica do mesmo tamanho a vida inteira.\n\nResumindo: para de pedir menos problema.\n\nPede pra ser maior.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18139249837569804",
+        "publicado_em": "2026-11-17T17:14:42.855998-03:00"
       },
       "facebook": {
         "legenda": "Para de pedir menos problema.\n\nPede isso aqui: ser uma pessoa maior que o problema.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nQuem foge do problema fica do mesmo tamanho a vida inteira.\n\nResumindo: para de pedir menos problema.\n\nPede pra ser maior.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1016069677531876",
+        "publicado_em": "2026-11-17T17:14:52.811150-03:00"
+      },
+      "concluido_em": "2026-11-17T17:14:52.819313-03:00"
     },
     {
       "id": "reel-20261117-1700-3bc6479cf1",
       "data": "2026-11-17",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 13 - A conta Viagem pra Europa.mp4",
         "sha256": "3bc6479cf160523b36da5b6312fa2f406f84974def404b30c7f0db2951dd8909"
@@ -7312,12 +7317,17 @@
       },
       "instagram": {
         "legenda": "Um casal transformou cada jantar cancelado num pedaço de viagem.\n\nEles queriam comer menos fora.\n\nEssa lição está no livro Hábitos Atômicos.\n\nO livro explica por quê: no hábito bom, o esforço vem agora e a recompensa demora.\n\nEntão o truque é pôr uma recompensa pequena no hábito bom.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18389696392227796",
+        "publicado_em": "2026-11-17T17:15:35.529466-03:00"
       },
       "facebook": {
         "legenda": "Um casal transformou cada jantar cancelado num pedaço de viagem.\n\nEles queriam comer menos fora.\n\nEssa lição está no livro Hábitos Atômicos.\n\nO livro explica por quê: no hábito bom, o esforço vem agora e a recompensa demora.\n\nEntão o truque é pôr uma recompensa pequena no hábito bom.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4778247945789325",
+        "publicado_em": "2026-11-17T17:15:45.966305-03:00"
+      },
+      "concluido_em": "2026-11-17T17:15:45.974343-03:00"
     },
     {
       "id": "reel-20261117-2000-5ab241dec3",
