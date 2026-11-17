@@ -2511,7 +2511,7 @@
       "id": "story-20261117-cd995fa151",
       "data": "2026-11-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 06 - O engenheiro que virou o jogo.mp4",
         "sha256": "cd995fa1512f23bc30a6bf09edecef6a43d4cd540e4247aef20933cd2a590fd9",
@@ -2521,7 +2521,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-cd995fa151-Credito-Vale-Mais-06---O-engenheiro-que-virou-o-jogo.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-cd995fa151-Credito-Vale-Mais-06---O-engenheiro-que-virou-o-jogo.mp4",
@@ -2530,13 +2530,30 @@
             "duracao_segundos": 49.62
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18158380399518121",
+            "publish_iniciado_em": "2026-11-17T09:31:01-03:00",
+            "id": "18140403109638701",
+            "publicado_em": "2026-11-17T09:31:11-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1649880746686039",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-17T09:31:18-03:00",
+            "post_id_candidato": "1894065471772436",
+            "finish_em": "2026-11-17T09:31:25-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE4OTQwNjU0NzUxMDU3Njk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1894065471772436",
+            "publicado_em": "2026-11-17T09:32:01-03:00"
+          },
+          "concluido_em": "2026-11-17T09:32:01-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-17T09:32:01-03:00"
     },
     {
       "id": "story-20261118-51266765ca",
