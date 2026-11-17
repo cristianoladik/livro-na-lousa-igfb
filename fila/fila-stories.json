@@ -2527,7 +2527,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-cd995fa151-Credito-Vale-Mais-06---O-engenheiro-que-virou-o-jogo.mp4",
             "sha256": "cd995fa1512f23bc30a6bf09edecef6a43d4cd540e4247aef20933cd2a590fd9",
             "tamanho_bytes": 7708493,
-            "duracao_segundos": 49.62
+            "duracao_segundos": 49.62,
+            "removido_da_release_em": "2026-11-17T09:32:04.339242-03:00"
           },
           "instagram": {
             "status": "publicado",
