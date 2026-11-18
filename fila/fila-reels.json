@@ -7395,7 +7395,7 @@
       "id": "reel-20261118-1100-28df41cbd1",
       "data": "2026-11-18",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 13 - Riqueza e o que voce nao ve.mp4",
         "sha256": "28df41cbd11a6f4c0ac1f6639170bbbcd1c302826dff5a0940fd7e4783bde46d"
@@ -7408,12 +7408,17 @@
       },
       "instagram": {
         "legenda": "A cantora Rihanna quase quebrou e processou o consultor financeiro dela.\n\nA resposta dele ficou famosa.\n\nEssa lição está no livro A Psicologia Financeira.\n\nOu uma dívida desse tamanho.\n\nRiqueza é a casa que você não trocou e o carro que você não comprou.\n\nPor isso ninguém vê.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17942125143400952",
+        "publicado_em": "2026-11-18T12:31:45.378941-03:00"
       },
       "facebook": {
         "legenda": "A cantora Rihanna quase quebrou e processou o consultor financeiro dela.\n\nA resposta dele ficou famosa.\n\nEssa lição está no livro A Psicologia Financeira.\n\nOu uma dívida desse tamanho.\n\nRiqueza é a casa que você não trocou e o carro que você não comprou.\n\nPor isso ninguém vê.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2388035458624673",
+        "publicado_em": "2026-11-18T12:31:55.948172-03:00"
+      },
+      "concluido_em": "2026-11-18T12:31:55.956440-03:00"
     },
     {
       "id": "reel-20261118-1400-910841e26f",
