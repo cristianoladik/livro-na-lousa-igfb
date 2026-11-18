@@ -7425,7 +7425,7 @@
       "id": "reel-20261118-1400-910841e26f",
       "data": "2026-11-18",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 13 - O plano do Dabasir.mp4",
         "sha256": "910841e26f217e53682ff304f4e4391b69046de4f567cc00ff1355aac5bcfc55"
@@ -7438,12 +7438,17 @@
       },
       "instagram": {
         "legenda": "Afundado em dívida, ele virou escravo.\n\nE saiu do buraco com uma conta simples.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nNão parou de viver pra pagar dívida.\n\nE não parou de guardar por causa dela.\n\nEm mais ou menos um ano e meio, pagou todo mundo, de cabeça erguida.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18016266845760614",
+        "publicado_em": "2026-11-18T16:45:06.172132-03:00"
       },
       "facebook": {
         "legenda": "Afundado em dívida, ele virou escravo.\n\nE saiu do buraco com uma conta simples.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nNão parou de viver pra pagar dívida.\n\nE não parou de guardar por causa dela.\n\nEm mais ou menos um ano e meio, pagou todo mundo, de cabeça erguida.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1492902722753161",
+        "publicado_em": "2026-11-18T16:45:16.740652-03:00"
+      },
+      "concluido_em": "2026-11-18T16:45:16.749986-03:00"
     },
     {
       "id": "reel-20261118-1700-a208182583",
