@@ -2576,7 +2576,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-51266765ca-Dinheiro-Segredos-06---O-homem-holerite.mp4",
             "sha256": "51266765caf4462ecf84813a38afccda05b06295f05fd86d96f20e0cf2d1ee30",
             "tamanho_bytes": 6491433,
-            "duracao_segundos": 34.58
+            "duracao_segundos": 34.58,
+            "removido_da_release_em": "2026-11-18T09:31:58.745575-03:00"
           },
           "instagram": {
             "status": "publicado",
