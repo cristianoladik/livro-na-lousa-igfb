@@ -2560,7 +2560,7 @@
       "id": "story-20261118-51266765ca",
       "data": "2026-11-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 06 - O homem-holerite.mp4",
         "sha256": "51266765caf4462ecf84813a38afccda05b06295f05fd86d96f20e0cf2d1ee30",
@@ -2570,7 +2570,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-51266765ca-Dinheiro-Segredos-06---O-homem-holerite.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-51266765ca-Dinheiro-Segredos-06---O-homem-holerite.mp4",
@@ -2579,13 +2579,30 @@
             "duracao_segundos": 34.58
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18158610997518121",
+            "publish_iniciado_em": "2026-11-18T09:31:00-03:00",
+            "id": "18120002993054675",
+            "publicado_em": "2026-11-18T09:31:07-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1197557769284252",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-18T09:31:14-03:00",
+            "post_id_candidato": "2262146124516129",
+            "finish_em": "2026-11-18T09:31:19-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjIyNjIxNDYxMjc4NDk0NjI=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2262146124516129",
+            "publicado_em": "2026-11-18T09:31:56-03:00"
+          },
+          "concluido_em": "2026-11-18T09:31:56-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-18T09:31:56-03:00"
     },
     {
       "id": "story-20261119-7e7e75c1cd",
