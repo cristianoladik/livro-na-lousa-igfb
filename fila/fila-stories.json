@@ -2609,7 +2609,7 @@
       "id": "story-20261119-7e7e75c1cd",
       "data": "2026-11-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 07 - Restaurantes, avioes e o Titanic.mp4",
         "sha256": "7e7e75c1cd0cbf011ed80768a31cad906399a2082be1f32ac0c9ec31e5aa6957",
@@ -2619,7 +2619,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7e7e75c1cd-Antifragil-07---Restaurantes-avioes-e-o-Titanic.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7e7e75c1cd-Antifragil-07---Restaurantes-avioes-e-o-Titanic.mp4",
@@ -2628,13 +2628,30 @@
             "duracao_segundos": 34.792
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18158842597518121",
+            "publish_iniciado_em": "2026-11-19T09:32:20-03:00",
+            "id": "18063353054804809",
+            "publicado_em": "2026-11-19T09:32:28-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2730212807382065",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-19T09:32:35-03:00",
+            "post_id_candidato": "1530176445592138",
+            "finish_em": "2026-11-19T09:32:39-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE1MzAxNzY0NTIyNTg4MDQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1530176445592138",
+            "publicado_em": "2026-11-19T09:32:56-03:00"
+          },
+          "concluido_em": "2026-11-19T09:32:56-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-19T09:32:56-03:00"
     },
     {
       "id": "story-20261120-3a3964934f",
