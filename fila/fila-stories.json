@@ -2625,7 +2625,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7e7e75c1cd-Antifragil-07---Restaurantes-avioes-e-o-Titanic.mp4",
             "sha256": "7e7e75c1cd0cbf011ed80768a31cad906399a2082be1f32ac0c9ec31e5aa6957",
             "tamanho_bytes": 5643798,
-            "duracao_segundos": 34.792
+            "duracao_segundos": 34.792,
+            "removido_da_release_em": "2026-11-19T09:32:58.674797-03:00"
           },
           "instagram": {
             "status": "publicado",
