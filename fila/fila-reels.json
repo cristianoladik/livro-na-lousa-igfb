@@ -7605,7 +7605,7 @@
       "id": "reel-20261119-1700-cdbf52c478",
       "data": "2026-11-19",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 14 - O diario de comida.mp4",
         "sha256": "cdbf52c47891d244bb8ffdc3d5a2338c0c821b83464e88c63f5dc9b1b2c7b6fc"
@@ -7618,12 +7618,17 @@
       },
       "instagram": {
         "legenda": "Anotar o que comia fez um grupo perder o dobro de peso.\n\nEsse estudo tá no livro O Poder do Hábito.\n\nAgora um exemplo nosso, com dinheiro.\n\nAnotar cada gasto por um mês pode ser o seu hábito-chave.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18046038887834461",
+        "publicado_em": "2026-11-19T17:22:05.056900-03:00"
       },
       "facebook": {
         "legenda": "Anotar o que comia fez um grupo perder o dobro de peso.\n\nEsse estudo tá no livro O Poder do Hábito.\n\nAgora um exemplo nosso, com dinheiro.\n\nAnotar cada gasto por um mês pode ser o seu hábito-chave.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1796140491675737",
+        "publicado_em": "2026-11-19T17:22:14.160873-03:00"
+      },
+      "concluido_em": "2026-11-19T17:22:14.171024-03:00"
     },
     {
       "id": "reel-20261119-2000-ebe9c15ebb",
