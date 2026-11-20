@@ -7785,7 +7785,7 @@
       "id": "reel-20261120-2000-6eac1b6585",
       "data": "2026-11-20",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 15 - O contrato de habito.mp4",
         "sha256": "6eac1b65854b7b073de1c5d70223ce30a068b8f1360335353d47b05fcdf43d40"
@@ -7798,12 +7798,17 @@
       },
       "instagram": {
         "legenda": "Esquecer de anotar a comida de um dia custava duzentos dólares pra ele.\n\nEra o contrato de hábito do empresário Bryan Harris.\n\nEssa lição está no livro Hábitos Atômicos.\n\nPro hábito ruim, torne doloroso na hora.\n\nA conta não fica pra depois.\n\nChega no mesmo dia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18166467025498422",
+        "publicado_em": "2026-11-20T20:06:35.361338-03:00"
       },
       "facebook": {
         "legenda": "Esquecer de anotar a comida de um dia custava duzentos dólares pra ele.\n\nEra o contrato de hábito do empresário Bryan Harris.\n\nEssa lição está no livro Hábitos Atômicos.\n\nPro hábito ruim, torne doloroso na hora.\n\nA conta não fica pra depois.\n\nChega no mesmo dia.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2089999032366793",
+        "publicado_em": "2026-11-20T20:06:47.027552-03:00"
+      },
+      "concluido_em": "2026-11-20T20:06:47.039609-03:00"
     },
     {
       "id": "reel-20261121-0800-1f6141775d",
