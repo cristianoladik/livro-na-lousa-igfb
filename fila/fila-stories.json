@@ -2674,7 +2674,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-3a3964934f-Babilonia-07---Ganhou-mais-gastou-mais.mp4",
             "sha256": "3a3964934ffd980d28e659bc56024c2a7496ae69904b5cb65a6deb17093a13f3",
             "tamanho_bytes": 4278229,
-            "duracao_segundos": 29.458
+            "duracao_segundos": 29.458,
+            "removido_da_release_em": "2026-11-20T09:32:57.194919-03:00"
           },
           "instagram": {
             "status": "publicado",
