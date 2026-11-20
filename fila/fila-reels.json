@@ -7635,7 +7635,7 @@
       "id": "reel-20261119-2000-ebe9c15ebb",
       "data": "2026-11-19",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 14 - Guardar dinheiro a crise do petroleo.mp4",
         "sha256": "ebe9c15ebb67ea52c0cac5b50cc22a59663c1f13a2eaac0554dfa7b7ade14ceb"
@@ -7648,12 +7648,17 @@
       },
       "instagram": {
         "legenda": "Na crise do petróleo dos anos setenta, a saída não foi achar mais petróleo.\n\nFoi gastar menos.\n\nEssa lição está no livro A Psicologia Financeira.\n\nGuardar sem motivo também vale.\n\nÉ o seu seguro contra a surpresa que ninguém espera.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18081590192725029",
+        "publicado_em": "2026-11-19T22:16:17.762942-03:00"
       },
       "facebook": {
         "legenda": "Na crise do petróleo dos anos setenta, a saída não foi achar mais petróleo.\n\nFoi gastar menos.\n\nEssa lição está no livro A Psicologia Financeira.\n\nGuardar sem motivo também vale.\n\nÉ o seu seguro contra a surpresa que ninguém espera.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1796068558335966",
+        "publicado_em": "2026-11-19T22:16:28.144060-03:00"
+      },
+      "concluido_em": "2026-11-19T22:16:28.153375-03:00"
     },
     {
       "id": "reel-20261120-0800-136c6d76ed",
