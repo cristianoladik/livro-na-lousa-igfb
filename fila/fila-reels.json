@@ -7875,7 +7875,7 @@
       "id": "reel-20261121-1400-6fc4beaa85",
       "data": "2026-11-21",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 15 - Razoavel vale mais que racional.mp4",
         "sha256": "6fc4beaa854ff2e9471098232fbaf3102b3daee9a8b60229f7f5dd6ff9805dfc"
@@ -7888,12 +7888,17 @@
       },
       "instagram": {
         "legenda": "Um homem ganhou o prêmio Nobel com a matemática da carteira ideal.\n\nE no próprio dinheiro, fez uma coisa bem mais simples.\n\nEssa lição está no livro A Psicologia Financeira.\n\nUma estratégia boa que você aguenta seguir por anos... vale mais que uma perfeita que você abandona na primeira queda.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18011385255007143",
+        "publicado_em": "2026-11-21T15:27:40.890155-03:00"
       },
       "facebook": {
         "legenda": "Um homem ganhou o prêmio Nobel com a matemática da carteira ideal.\n\nE no próprio dinheiro, fez uma coisa bem mais simples.\n\nEssa lição está no livro A Psicologia Financeira.\n\nUma estratégia boa que você aguenta seguir por anos... vale mais que uma perfeita que você abandona na primeira queda.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1554764216410817",
+        "publicado_em": "2026-11-21T15:27:50.337470-03:00"
+      },
+      "concluido_em": "2026-11-21T15:27:50.347029-03:00"
     },
     {
       "id": "reel-20261121-1700-66db3ab3e5",
