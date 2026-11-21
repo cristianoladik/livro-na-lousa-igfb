@@ -7845,7 +7845,7 @@
       "id": "reel-20261121-1100-145ca34a65",
       "data": "2026-11-21",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 15 - Biscoito ou rabanete.mp4",
         "sha256": "145ca34a658d74ebabc39b3983331b96fb68fb19c43945a3e2e71436850fd142"
@@ -7858,12 +7858,17 @@
       },
       "instagram": {
         "legenda": "Quem resistiu aos biscoitos desistiu bem mais rápido depois.\n\nÉ um experimento contado no livro O Poder do Hábito.\n\nCansa quando você usa.\n\nE fica mais forte com treino.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18141639652728533",
+        "publicado_em": "2026-11-21T11:32:30.763447-03:00"
       },
       "facebook": {
         "legenda": "Quem resistiu aos biscoitos desistiu bem mais rápido depois.\n\nÉ um experimento contado no livro O Poder do Hábito.\n\nCansa quando você usa.\n\nE fica mais forte com treino.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2230742804141305",
+        "publicado_em": "2026-11-21T11:32:39.770272-03:00"
+      },
+      "concluido_em": "2026-11-21T11:32:39.779901-03:00"
     },
     {
       "id": "reel-20261121-1400-6fc4beaa85",
