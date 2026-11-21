@@ -7935,7 +7935,7 @@
       "id": "reel-20261121-2000-96ed4e79e2",
       "data": "2026-11-21",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 16 - A regra da Cachinhos Dourados.mp4",
         "sha256": "96ed4e79e28298084255f0331bc929fa2069964960a55b1c6a7933a4a27f8bd9"
@@ -7948,12 +7948,17 @@
       },
       "instagram": {
         "legenda": "Jogar tênis com uma criança de quatro anos cansa de tão fácil.\n\nContra um campeão, você desanima logo.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE o livro avisa: quem mais derruba o progresso não é o fracasso.\n\nÉ o tédio de repetir quando a novidade acaba.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18152136550561011",
+        "publicado_em": "2026-11-21T20:33:54.245789-03:00"
       },
       "facebook": {
         "legenda": "Jogar tênis com uma criança de quatro anos cansa de tão fácil.\n\nContra um campeão, você desanima logo.\n\nEssa lição está no livro Hábitos Atômicos.\n\nE o livro avisa: quem mais derruba o progresso não é o fracasso.\n\nÉ o tédio de repetir quando a novidade acaba.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1702068558247915",
+        "publicado_em": "2026-11-21T20:34:03.862746-03:00"
+      },
+      "concluido_em": "2026-11-21T20:34:03.875408-03:00"
     },
     {
       "id": "reel-20261122-0800-697f7759c6",
