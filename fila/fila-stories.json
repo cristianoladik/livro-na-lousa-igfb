@@ -2707,7 +2707,7 @@
       "id": "story-20261121-cd482339f1",
       "data": "2026-11-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 07 - Os tres apelidos do horoscopo.mp4",
         "sha256": "cd482339f11162654d1fd28bc8685678574045c7d8c2d2bc10d3414dce7014b1",
@@ -2717,7 +2717,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-cd482339f1-Casais-Inteligentes-07---Os-tres-apelidos-do-horoscopo.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-cd482339f1-Casais-Inteligentes-07---Os-tres-apelidos-do-horoscopo.mp4",
@@ -2726,13 +2726,30 @@
             "duracao_segundos": 28.99
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18159310111518121",
+            "publish_iniciado_em": "2026-11-21T09:30:52-03:00",
+            "id": "17999216175104427",
+            "publicado_em": "2026-11-21T09:31:00-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1889340245390578",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-21T09:31:06-03:00",
+            "post_id_candidato": "958530613789501",
+            "finish_em": "2026-11-21T09:31:10-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjk1ODUzMDYyMDQ1NjE2Nw==/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "958530613789501",
+            "publicado_em": "2026-11-21T09:31:46-03:00"
+          },
+          "concluido_em": "2026-11-21T09:31:46-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-21T09:31:46-03:00"
     },
     {
       "id": "story-20261122-7307825cc7",
