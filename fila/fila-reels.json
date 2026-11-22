@@ -7997,7 +7997,7 @@
       "id": "reel-20261122-1100-3c99ead880",
       "data": "2026-11-22",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 16 - Travis Leach e o LATTE.mp4",
         "sha256": "3c99ead88074d4263e4e72ca2720b9b220dd2a680c15aa57ab70e26d1cdd7514"
@@ -8010,12 +8010,17 @@
       },
       "instagram": {
         "legenda": "Ele perdia o controle com cliente grosso, e virou gerente de duas lojas.\n\nO nome dele é Travis Leach.\n\nEssa lição está no livro O Poder do Hábito.\n\nEles ensaiam até virar automático.\n\nAos vinte e cinco anos, o Travis gerenciava duas lojas e quarenta funcionários.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18132633301870880",
+        "publicado_em": "2026-11-22T11:28:29.629829-03:00"
       },
       "facebook": {
         "legenda": "Ele perdia o controle com cliente grosso, e virou gerente de duas lojas.\n\nO nome dele é Travis Leach.\n\nEssa lição está no livro O Poder do Hábito.\n\nEles ensaiam até virar automático.\n\nAos vinte e cinco anos, o Travis gerenciava duas lojas e quarenta funcionários.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1774821246960346",
+        "publicado_em": "2026-11-22T11:28:39.036747-03:00"
+      },
+      "concluido_em": "2026-11-22T11:28:39.049154-03:00"
     },
     {
       "id": "reel-20261122-1400-14570ac23e",
