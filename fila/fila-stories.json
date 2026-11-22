@@ -2756,7 +2756,7 @@
       "id": "story-20261122-7307825cc7",
       "data": "2026-11-22",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Ciclo de Mercado 07 - Contrata e demite em ondas.mp4",
         "sha256": "7307825cc77ac3f326ce4aafc9f5cff2cc10784101011f9e8161783f590c134d",
@@ -2766,7 +2766,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7307825cc7-Ciclo-de-Mercado-07---Contrata-e-demite-em-ondas.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7307825cc7-Ciclo-de-Mercado-07---Contrata-e-demite-em-ondas.mp4",
@@ -2775,13 +2775,30 @@
             "duracao_segundos": 34.66
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18159545125518121",
+            "publish_iniciado_em": "2026-11-22T09:31:16-03:00",
+            "id": "17921454117534869",
+            "publicado_em": "2026-11-22T09:31:22-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1477095077818720",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-22T09:31:28-03:00",
+            "post_id_candidato": "29496843749927848",
+            "finish_em": "2026-11-22T09:31:33-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjI5NDk2ODQzNzU5OTI3ODQ3/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "29496843749927848",
+            "publicado_em": "2026-11-22T09:32:09-03:00"
+          },
+          "concluido_em": "2026-11-22T09:32:09-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-22T09:32:09-03:00"
     },
     {
       "id": "story-20261123-c7e3603658",
