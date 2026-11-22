@@ -2772,7 +2772,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7307825cc7-Ciclo-de-Mercado-07---Contrata-e-demite-em-ondas.mp4",
             "sha256": "7307825cc77ac3f326ce4aafc9f5cff2cc10784101011f9e8161783f590c134d",
             "tamanho_bytes": 3992791,
-            "duracao_segundos": 34.66
+            "duracao_segundos": 34.66,
+            "removido_da_release_em": "2026-11-22T09:32:11.292195-03:00"
           },
           "instagram": {
             "status": "publicado",
