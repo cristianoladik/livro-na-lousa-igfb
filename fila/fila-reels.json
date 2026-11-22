@@ -7978,11 +7978,16 @@
       },
       "instagram": {
         "legenda": "Salário te dá segurança, mas cobra um preço que quase ninguém percebe: um teto na sua renda.\n\nO livro Os Segredos da Mente Milionária mostra que a maioria ganha pelo tempo, por hora ou por mês, enquanto quem enriquece busca ganhar pelo resultado, que tem risco mas não tem teto.\n\nNão precisa largar o emprego amanhã, pode começar com um projeto extra ou um negócio no fim de semana.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18016425761763881",
+        "publicado_em": "2026-11-22T08:46:36.534593-03:00"
       },
       "facebook": {
         "legenda": "Salário te dá segurança, mas cobra um preço que quase ninguém percebe: um teto na sua renda.\n\nO livro Os Segredos da Mente Milionária mostra que a maioria ganha pelo tempo, por hora ou por mês, enquanto quem enriquece busca ganhar pelo resultado, que tem risco mas não tem teto.\n\nNão precisa largar o emprego amanhã, pode começar com um projeto extra ou um negócio no fim de semana.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "erro",
+        "erro": "Meta HTTP 400: {\"error\":{\"message\":\"There was a problem uploading your video file. Please try again with another file.\",\"type\":\"OAuthException\",\"code\":6000,\"error_subcode\":1363130,\"is_transient\":false,\"error_user_title\":\"Video Upload Is Missing\",\"error_user_msg\":\"The video was not uploaded.\",\"fbtrace_id\":\"AdvnIL94-rYhcn7NCVrmCZb\"}}",
+        "ultima_tentativa_em": "2026-11-22T08:46:42.617318-03:00",
+        "tentativas": 1
       }
     },
     {
