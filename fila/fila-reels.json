@@ -8036,7 +8036,8 @@
         "asset": "reel-14570ac23e-Psicologia-Financeira-16---Margem-de-erro.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-14570ac23e-Psicologia-Financeira-16---Margem-de-erro.mp4",
         "sha256": "14570ac23e2e054ec5868d91aed07e2f21fa6df30592d3d76ade23b11bb978b4",
-        "tamanho_bytes": 4827483
+        "tamanho_bytes": 4827483,
+        "removido_da_release_em": "2026-11-22T15:40:44.065479-03:00"
       },
       "instagram": {
         "legenda": "Desde o começo da Microsoft, o Bill Gates quis dinheiro guardado pra pagar um ano de salários.\n\nO livro A Psicologia Financeira chama isso de margem de erro.\n\nE cuidado com a dívida.\n\nEla deixa pouco espaço pro plano dar errado.\n\nE quase sempre dá errado em algum ponto.\n\nSegue a página pra ver mais livros assim: @livronalousa",
