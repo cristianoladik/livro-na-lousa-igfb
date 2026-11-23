@@ -2805,7 +2805,7 @@
       "id": "story-20261123-c7e3603658",
       "data": "2026-11-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 07 - O que e se aposentar.mp4",
         "sha256": "c7e360365882217cf73067e6852c8822a20c7af51f67dde0eabb08e0bafe14e5",
@@ -2815,7 +2815,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-c7e3603658-Dinheiro-Segredos-07---O-que-e-se-aposentar.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c7e3603658-Dinheiro-Segredos-07---O-que-e-se-aposentar.mp4",
@@ -2824,13 +2824,30 @@
             "duracao_segundos": 29.417
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18159770611518121",
+            "publish_iniciado_em": "2026-11-23T09:32:20-03:00",
+            "id": "18141402931647438",
+            "publicado_em": "2026-11-23T09:32:28-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "2978064825903479",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-23T09:32:35-03:00",
+            "post_id_candidato": "1165015869278511",
+            "finish_em": "2026-11-23T09:32:40-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjExNjUwMTU4NzI2MTE4NDQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1165015869278511",
+            "publicado_em": "2026-11-23T09:33:16-03:00"
+          },
+          "concluido_em": "2026-11-23T09:33:16-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-23T09:33:16-03:00"
     },
     {
       "id": "story-20261124-49759cabb4",
