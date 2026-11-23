@@ -8147,7 +8147,7 @@
       "id": "reel-20261123-1100-97d2d017cf",
       "data": "2026-11-23",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 17 - A pergunta da moeda.mp4",
         "sha256": "97d2d017cf77be9e6ae9d7b07c4cc64b46ceea1660aef0256c233d4ecb6dd3f0"
@@ -8160,12 +8160,17 @@
       },
       "instagram": {
         "legenda": "Uma moeda deixa alguém rico?\n\nNão.\n\nE duas?\n\nTambém não.\n\nEssa lição está no livro Hábitos Atômicos.\n\nPor isso o livro compara hábito com juro composto.\n\nEscolhe um hábito hoje e deixa o tempo fazer a conta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18132559387860171",
+        "publicado_em": "2026-11-23T11:28:51.332411-03:00"
       },
       "facebook": {
         "legenda": "Uma moeda deixa alguém rico?\n\nNão.\n\nE duas?\n\nTambém não.\n\nEssa lição está no livro Hábitos Atômicos.\n\nPor isso o livro compara hábito com juro composto.\n\nEscolhe um hábito hoje e deixa o tempo fazer a conta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "28569016079442966",
+        "publicado_em": "2026-11-23T11:29:01.486481-03:00"
+      },
+      "concluido_em": "2026-11-23T11:29:01.496878-03:00"
     },
     {
       "id": "reel-20261123-1400-f1b1351e70",
