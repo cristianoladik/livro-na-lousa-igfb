@@ -8117,7 +8117,7 @@
       "id": "reel-20261123-0800-f88978f3ee",
       "data": "2026-11-23",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 17 - A crenca do passado.mp4",
         "sha256": "f88978f3eece2c4cf96cf489f9ebeab0ee0ea6046228790f9d1dce366c9bfbeb"
@@ -8130,12 +8130,17 @@
       },
       "instagram": {
         "legenda": "Você perdeu dinheiro uma vez e jurou nunca mais investir?\n\nO livro Dinheiro, os Segredos de Quem Tem chama isso de crença do passado.\n\nE se o medo ainda for grande, começa numa aplicação de baixíssimo risco, como a poupança.\n\nSó não dorme no ponto: vai estudando opções melhores.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18393872458227483",
+        "publicado_em": "2026-11-23T09:31:05.323064-03:00"
       },
       "facebook": {
         "legenda": "Você perdeu dinheiro uma vez e jurou nunca mais investir?\n\nO livro Dinheiro, os Segredos de Quem Tem chama isso de crença do passado.\n\nE se o medo ainda for grande, começa numa aplicação de baixíssimo risco, como a poupança.\n\nSó não dorme no ponto: vai estudando opções melhores.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1768809744195587",
+        "publicado_em": "2026-11-23T09:31:14.920065-03:00"
+      },
+      "concluido_em": "2026-11-23T09:31:14.932221-03:00"
     },
     {
       "id": "reel-20261123-1100-97d2d017cf",
