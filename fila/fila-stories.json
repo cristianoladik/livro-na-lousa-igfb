@@ -2821,7 +2821,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-c7e3603658-Dinheiro-Segredos-07---O-que-e-se-aposentar.mp4",
             "sha256": "c7e360365882217cf73067e6852c8822a20c7af51f67dde0eabb08e0bafe14e5",
             "tamanho_bytes": 6191354,
-            "duracao_segundos": 29.417
+            "duracao_segundos": 29.417,
+            "removido_da_release_em": "2026-11-23T09:33:19.458554-03:00"
           },
           "instagram": {
             "status": "publicado",
