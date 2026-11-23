@@ -8207,7 +8207,7 @@
       "id": "reel-20261123-1700-505bf2ec4c",
       "data": "2026-11-23",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 17 - O incendio de King's Cross.mp4",
         "sha256": "505bf2ec4c962021744eeacb53a8432076b4dd7019a7827506d7bbd819fe33e4"
@@ -8220,18 +8220,23 @@
       },
       "instagram": {
         "legenda": "Um papel pegou fogo numa estação de metrô, e cada setor achou que não era problema dele.\n\nFoi em Londres, em mil novecentos e oitenta e sete, na estação King's Cross.\n\nEssa lição está no livro O Poder do Hábito.\n\nPro livro, muitos hábitos de uma empresa são tréguas entre grupos que disputam poder.\n\nPor isso um bom líder aproveita a crise pra trocar os hábitos ruins, antes que eles custem caro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18121699012781106",
+        "publicado_em": "2026-11-23T20:02:59.259120-03:00"
       },
       "facebook": {
         "legenda": "Um papel pegou fogo numa estação de metrô, e cada setor achou que não era problema dele.\n\nFoi em Londres, em mil novecentos e oitenta e sete, na estação King's Cross.\n\nEssa lição está no livro O Poder do Hábito.\n\nPro livro, muitos hábitos de uma empresa são tréguas entre grupos que disputam poder.\n\nPor isso um bom líder aproveita a crise pra trocar os hábitos ruins, antes que eles custem caro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1160401413123989",
+        "publicado_em": "2026-11-23T20:03:11.273878-03:00"
+      },
+      "concluido_em": "2026-11-23T20:03:11.286104-03:00"
     },
     {
       "id": "reel-20261123-2000-9be439ce89",
       "data": "2026-11-23",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 17 - Nada e de graca ingresso nao multa.mp4",
         "sha256": "9be439ce894129c3fcd61a96beb346e560c6344c126f55208a347107149ffe2f"
@@ -8244,12 +8249,17 @@
       },
       "instagram": {
         "legenda": "Tem três jeitos de ter um carro de cem mil reais.\n\nE um deles é roubar.\n\nOs outros dois: pagar o preço, ou comprar um usado mais barato.\n\nEssa lição está no livro A Psicologia Financeira.\n\nMulta é castigo.\n\nIngresso é o preço de entrar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18111393650346907",
+        "publicado_em": "2026-11-23T20:03:52.717504-03:00"
       },
       "facebook": {
         "legenda": "Tem três jeitos de ter um carro de cem mil reais.\n\nE um deles é roubar.\n\nOs outros dois: pagar o preço, ou comprar um usado mais barato.\n\nEssa lição está no livro A Psicologia Financeira.\n\nMulta é castigo.\n\nIngresso é o preço de entrar.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1674338327760299",
+        "publicado_em": "2026-11-23T20:04:00.483941-03:00"
+      },
+      "concluido_em": "2026-11-23T20:04:00.495816-03:00"
     },
     {
       "id": "reel-20261124-0800-82cb85c58b",
