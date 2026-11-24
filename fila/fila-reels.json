@@ -8387,7 +8387,7 @@
       "id": "reel-20261124-2000-13eaeb81f4",
       "data": "2026-11-24",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 18 - A agua do rio.mp4",
         "sha256": "13eaeb81f4e7eb5b368752ea5748e927cbd268358e82687b73df53bbe57042be"
@@ -8400,12 +8400,17 @@
       },
       "instagram": {
         "legenda": "O tempo é igual à água de um rio.\n\nA comparação tá no livro Dinheiro, os Segredos de Quem Tem.\n\nE quanto mais cedo começar, mais rico vai ficar.\n\nComo diz uma frase antiga: uma viagem de mil milhas começa com um simples passo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18108856901456634",
+        "publicado_em": "2026-11-24T20:27:23.035604-03:00"
       },
       "facebook": {
         "legenda": "O tempo é igual à água de um rio.\n\nA comparação tá no livro Dinheiro, os Segredos de Quem Tem.\n\nE quanto mais cedo começar, mais rico vai ficar.\n\nComo diz uma frase antiga: uma viagem de mil milhas começa com um simples passo.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1458676915782461",
+        "publicado_em": "2026-11-24T20:27:33.561621-03:00"
+      },
+      "concluido_em": "2026-11-24T20:27:33.573990-03:00"
     },
     {
       "id": "reel-20261125-0800-74863679f2",
