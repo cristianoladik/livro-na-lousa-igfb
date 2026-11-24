@@ -8297,7 +8297,7 @@
       "id": "reel-20261124-1100-358bc2c6d5",
       "data": "2026-11-24",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Mente Milionaria 17 - Patrimonio.mp4",
         "sha256": "358bc2c6d54fdfb95ef32ec98a368f848bc9f09e1453acba73f853221d451613"
@@ -8310,18 +8310,23 @@
       },
       "instagram": {
         "legenda": "Ganhar muito não é ser rico.\n\nTem uma conta que importa mais.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO salário é o que passa pela sua mão.\n\nO patrimônio é o que fica nela.\n\nO que importa não é quanto entra.\n\nÉ quanto fica.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17939605926409109",
+        "publicado_em": "2026-11-24T14:29:33.603411-03:00"
       },
       "facebook": {
         "legenda": "Ganhar muito não é ser rico.\n\nTem uma conta que importa mais.\n\nEssa lição está no livro Os Segredos da Mente Milionária.\n\nO salário é o que passa pela sua mão.\n\nO patrimônio é o que fica nela.\n\nO que importa não é quanto entra.\n\nÉ quanto fica.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4468350626740612",
+        "publicado_em": "2026-11-24T14:29:46.601721-03:00"
+      },
+      "concluido_em": "2026-11-24T14:29:46.682859-03:00"
     },
     {
       "id": "reel-20261124-1400-3e423da3fd",
       "data": "2026-11-24",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 17 - As 5 leis do ouro.mp4",
         "sha256": "3e423da3fdcd2efe17cfcfbd30f0353daedd5f4e328df9871247a73c3f867fa7"
@@ -8334,12 +8339,17 @@
       },
       "instagram": {
         "legenda": "Um saco de ouro ou uma placa com cinco leis do dinheiro.\n\nQual você escolhe?\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nDez anos depois, devolveu um saco de ouro pelo ouro.\n\nE mais dois sacos pela placa de sabedoria.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18123586729955636",
+        "publicado_em": "2026-11-24T14:30:48.592899-03:00"
       },
       "facebook": {
         "legenda": "Um saco de ouro ou uma placa com cinco leis do dinheiro.\n\nQual você escolhe?\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nDez anos depois, devolveu um saco de ouro pelo ouro.\n\nE mais dois sacos pela placa de sabedoria.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "4462016267446811",
+        "publicado_em": "2026-11-24T14:31:01.326480-03:00"
+      },
+      "concluido_em": "2026-11-24T14:31:01.336669-03:00"
     },
     {
       "id": "reel-20261124-1700-f78a6acaff",
