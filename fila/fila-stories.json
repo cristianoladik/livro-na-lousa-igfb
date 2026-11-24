@@ -2870,7 +2870,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-49759cabb4-Antifragil-08---John-e-George.mp4",
             "sha256": "49759cabb4c385f2363902575465fd6918f8eb0b483548321c149ec3123d8cfc",
             "tamanho_bytes": 5304507,
-            "duracao_segundos": 35.53
+            "duracao_segundos": 35.53,
+            "removido_da_release_em": "2026-11-24T09:32:23.453429-03:00"
           },
           "instagram": {
             "status": "publicado",
