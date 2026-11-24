@@ -8267,7 +8267,7 @@
       "id": "reel-20261124-0800-82cb85c58b",
       "data": "2026-11-24",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 17 - As 5 leis do ouro.mp4",
         "sha256": "82cb85c58bed9b3e6d323c66830b710da5708c5cc2d5b5ef2a5c30ed09f902c5"
@@ -8280,12 +8280,17 @@
       },
       "instagram": {
         "legenda": "Cinco leis do dinheiro de cem anos atrás que ainda valem.\n\nEstão no livro O Homem Mais Rico da Babilônia.\n\nFoi a quinta e a quarta lei, juntas.\n\nO dinheiro não some por azar.\n\nEle foge de quem não sabe onde tá colocando.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18147267919580801",
+        "publicado_em": "2026-11-24T08:41:43.777232-03:00"
       },
       "facebook": {
         "legenda": "Cinco leis do dinheiro de cem anos atrás que ainda valem.\n\nEstão no livro O Homem Mais Rico da Babilônia.\n\nFoi a quinta e a quarta lei, juntas.\n\nO dinheiro não some por azar.\n\nEle foge de quem não sabe onde tá colocando.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1537474381635272",
+        "publicado_em": "2026-11-24T08:41:52.220487-03:00"
+      },
+      "concluido_em": "2026-11-24T08:41:52.232899-03:00"
     },
     {
       "id": "reel-20261124-1100-358bc2c6d5",
