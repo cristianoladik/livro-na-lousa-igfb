@@ -2854,7 +2854,7 @@
       "id": "story-20261124-49759cabb4",
       "data": "2026-11-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Antifragil 08 - John e George.mp4",
         "sha256": "49759cabb4c385f2363902575465fd6918f8eb0b483548321c149ec3123d8cfc",
@@ -2864,7 +2864,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-49759cabb4-Antifragil-08---John-e-George.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-49759cabb4-Antifragil-08---John-e-George.mp4",
@@ -2873,13 +2873,30 @@
             "duracao_segundos": 35.53
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18159987592518121",
+            "publish_iniciado_em": "2026-11-24T09:31:22-03:00",
+            "id": "18135874606812923",
+            "publicado_em": "2026-11-24T09:31:32-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1547294797395150",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-24T09:31:39-03:00",
+            "post_id_candidato": "2197193824560519",
+            "finish_em": "2026-11-24T09:31:44-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjIxOTcxOTM4MzEyMjcxODU=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2197193824560519",
+            "publicado_em": "2026-11-24T09:32:20-03:00"
+          },
+          "concluido_em": "2026-11-24T09:32:20-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-24T09:32:20-03:00"
     },
     {
       "id": "story-20261125-7935e52fd2",
