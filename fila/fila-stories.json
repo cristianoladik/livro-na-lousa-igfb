@@ -2919,7 +2919,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7935e52fd2-Babilonia-08---Moeda-funcionaria.mp4",
             "sha256": "7935e52fd22496e53062ddf24de1b0abe3b2b479c010610b0d309c93b0000a26",
             "tamanho_bytes": 4982912,
-            "duracao_segundos": 31.54
+            "duracao_segundos": 31.54,
+            "removido_da_release_em": "2026-11-25T09:32:55.299813-03:00"
           },
           "instagram": {
             "status": "publicado",
