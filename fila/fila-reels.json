@@ -8417,7 +8417,7 @@
       "id": "reel-20261125-0800-74863679f2",
       "data": "2026-11-25",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 18 - Os tres circulos.mp4",
         "sha256": "74863679f27e6c1ac15fab06bfb32b8c4e2cd7f96adf7a34d7eea812c78593dd"
@@ -8430,12 +8430,17 @@
       },
       "instagram": {
         "legenda": "Desenha três círculos, um dentro do outro.\n\nEsse desenho é do livro Hábitos Atômicos.\n\nAnotar o gasto do dia é um voto em alguém que cuida do dinheiro.\n\nNão precisa ganhar de lavada.\n\nBasta ter a maioria dos votos.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18027297389715015",
+        "publicado_em": "2026-11-25T09:30:59.049012-03:00"
       },
       "facebook": {
         "legenda": "Desenha três círculos, um dentro do outro.\n\nEsse desenho é do livro Hábitos Atômicos.\n\nAnotar o gasto do dia é um voto em alguém que cuida do dinheiro.\n\nNão precisa ganhar de lavada.\n\nBasta ter a maioria dos votos.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1199253846008459",
+        "publicado_em": "2026-11-25T09:31:10.694666-03:00"
+      },
+      "concluido_em": "2026-11-25T09:31:10.707709-03:00"
     },
     {
       "id": "reel-20261125-1100-a135669b00",
