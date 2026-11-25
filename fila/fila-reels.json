@@ -8537,7 +8537,7 @@
       "id": "reel-20261125-2000-c042aea97f",
       "data": "2026-11-25",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m00 - Babilonia 18 - O escravo que gostava de trabalhar.mp4",
         "sha256": "c042aea97fc3334f630e3d401b052e4c691314618982e181fef4172896c13a4c"
@@ -8550,12 +8550,17 @@
       },
       "instagram": {
         "legenda": "Um escravo mudou de vida com o que quase todo mundo odeia.\n\nO trabalho.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE ainda fez dele sócio.\n\nQuem trata o trabalho como amigo cresce com ele.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18034407392685863",
+        "publicado_em": "2026-11-25T20:02:57.042093-03:00"
       },
       "facebook": {
         "legenda": "Um escravo mudou de vida com o que quase todo mundo odeia.\n\nO trabalho.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nE ainda fez dele sócio.\n\nQuem trata o trabalho como amigo cresce com ele.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1144294581686447",
+        "publicado_em": "2026-11-25T20:03:07.365178-03:00"
+      },
+      "concluido_em": "2026-11-25T20:03:07.376723-03:00"
     },
     {
       "id": "reel-20261126-0800-b7550100b9",
