@@ -8477,7 +8477,7 @@
       "id": "reel-20261125-1400-c09c3dbd8b",
       "data": "2026-11-25",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Poder do Habito 18 - A Target e a gravidez.mp4",
         "sha256": "c09c3dbd8babc90062d4b3b7c1b9315eacff1c4ed312ba385b2ea1c4a07d7e05"
@@ -8490,12 +8490,17 @@
       },
       "instagram": {
         "legenda": "Um pai reclamou numa loja porque a filha, ainda na escola, recebia cupom de roupa de bebê.\n\nDias depois, pediu desculpas.\n\nEla estava grávida.\n\nEssa lição está no livro O Poder do Hábito.\n\nDepois, a Target passou a misturar o anúncio de bebê com anúncio de cortador de grama.\n\nParecendo aleatório, ninguém se assustava.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18141888700724152",
+        "publicado_em": "2026-11-25T14:04:46.681650-03:00"
       },
       "facebook": {
         "legenda": "Um pai reclamou numa loja porque a filha, ainda na escola, recebia cupom de roupa de bebê.\n\nDias depois, pediu desculpas.\n\nEla estava grávida.\n\nEssa lição está no livro O Poder do Hábito.\n\nDepois, a Target passou a misturar o anúncio de bebê com anúncio de cortador de grama.\n\nParecendo aleatório, ninguém se assustava.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "994229269948739",
+        "publicado_em": "2026-11-25T14:04:57.674490-03:00"
+      },
+      "concluido_em": "2026-11-25T14:04:57.682940-03:00"
     },
     {
       "id": "reel-20261125-1700-d2a1b47c83",
