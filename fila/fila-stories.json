@@ -2903,7 +2903,7 @@
       "id": "story-20261125-7935e52fd2",
       "data": "2026-11-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Babilonia 08 - Moeda funcionaria.mp4",
         "sha256": "7935e52fd22496e53062ddf24de1b0abe3b2b479c010610b0d309c93b0000a26",
@@ -2913,7 +2913,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-7935e52fd2-Babilonia-08---Moeda-funcionaria.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-7935e52fd2-Babilonia-08---Moeda-funcionaria.mp4",
@@ -2922,13 +2922,30 @@
             "duracao_segundos": 31.54
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18160203097518121",
+            "publish_iniciado_em": "2026-11-25T09:31:57-03:00",
+            "id": "18154381390559497",
+            "publicado_em": "2026-11-25T09:32:04-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1889521712226349",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-25T09:32:12-03:00",
+            "post_id_candidato": "1196054459512191",
+            "finish_em": "2026-11-25T09:32:15-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjExOTYwNTQ0NjI4NDU1MjQ=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1196054459512191",
+            "publicado_em": "2026-11-25T09:32:52-03:00"
+          },
+          "concluido_em": "2026-11-25T09:32:52-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-25T09:32:52-03:00"
     },
     {
       "id": "story-20261126-bd82b72198",
