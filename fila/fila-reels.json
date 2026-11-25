@@ -8507,7 +8507,7 @@
       "id": "reel-20261125-1700-d2a1b47c83",
       "data": "2026-11-25",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 18 - Voce e eu cada um no seu jogo.mp4",
         "sha256": "d2a1b47c83513876b8adad50305b9117933a6f52af32551aaf32d1acab785d70"
@@ -8520,12 +8520,17 @@
       },
       "instagram": {
         "legenda": "Tem gente que paga um preço absurdo numa ação.\n\nE pro jogo dela, faz sentido.\n\nO livro A Psicologia Financeira explica.\n\nUm escritor que trabalha em casa, não.\n\nSaiba qual é o seu jogo, e não pegue dica de quem joga outro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18237045112326194",
+        "publicado_em": "2026-11-25T17:50:16.775888-03:00"
       },
       "facebook": {
         "legenda": "Tem gente que paga um preço absurdo numa ação.\n\nE pro jogo dela, faz sentido.\n\nO livro A Psicologia Financeira explica.\n\nUm escritor que trabalha em casa, não.\n\nSaiba qual é o seu jogo, e não pegue dica de quem joga outro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2361860781258387",
+        "publicado_em": "2026-11-25T17:50:26.753914-03:00"
+      },
+      "concluido_em": "2026-11-25T17:50:26.763800-03:00"
     },
     {
       "id": "reel-20261125-2000-c042aea97f",
