@@ -8627,7 +8627,7 @@
       "id": "reel-20261126-1400-403f267afe",
       "data": "2026-11-26",
       "horario": "14:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 19 - Cinquenta reais por mes.mp4",
         "sha256": "403f267afef2d13c235d6b42ac89b6d5755737a8dc630e43ec862a2259cd399e"
@@ -8640,18 +8640,23 @@
       },
       "instagram": {
         "legenda": "Cinquenta reais por mês podem virar quase cinquenta mil.\n\nA conta parte de uma ideia do livro Dinheiro, os Segredos de Quem Tem.\n\nNos segundos dez anos, cresceu muito mais que nos primeiros.\n\nRiqueza não vem do quanto se ganha, vem do quanto se gasta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18052119515632576",
+        "publicado_em": "2026-11-26T17:42:25.250644-03:00"
       },
       "facebook": {
         "legenda": "Cinquenta reais por mês podem virar quase cinquenta mil.\n\nA conta parte de uma ideia do livro Dinheiro, os Segredos de Quem Tem.\n\nNos segundos dez anos, cresceu muito mais que nos primeiros.\n\nRiqueza não vem do quanto se ganha, vem do quanto se gasta.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "947836398265590",
+        "publicado_em": "2026-11-26T17:42:33.196771-03:00"
+      },
+      "concluido_em": "2026-11-26T17:42:33.207426-03:00"
     },
     {
       "id": "reel-20261126-1700-c96de47abe",
       "data": "2026-11-26",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 19 - A pedra e o martelo.mp4",
         "sha256": "c96de47abe85f36ea301dcb1f45b9e08b529265cdec2b0a504b0182e94725d79"
@@ -8664,12 +8669,17 @@
       },
       "instagram": {
         "legenda": "Ele bate cem vezes na pedra e não vê nem uma rachadura.\n\nNa batida seguinte, ela se parte em duas.\n\nEssa lição está no livro Hábitos Atômicos.\n\nCom o cubo de gelo é igual.\n\nO grau que derrete o gelo não é mais forte que os outros.\n\nÉ só o último.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18135583760494394",
+        "publicado_em": "2026-11-26T17:43:12.712992-03:00"
       },
       "facebook": {
         "legenda": "Ele bate cem vezes na pedra e não vê nem uma rachadura.\n\nNa batida seguinte, ela se parte em duas.\n\nEssa lição está no livro Hábitos Atômicos.\n\nCom o cubo de gelo é igual.\n\nO grau que derrete o gelo não é mais forte que os outros.\n\nÉ só o último.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1866730994337081",
+        "publicado_em": "2026-11-26T17:43:21.394313-03:00"
+      },
+      "concluido_em": "2026-11-26T17:43:21.404776-03:00"
     },
     {
       "id": "reel-20261126-2000-3dad933f30",
