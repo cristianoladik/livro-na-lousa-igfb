@@ -2952,7 +2952,7 @@
       "id": "story-20261126-bd82b72198",
       "data": "2026-11-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Casais Inteligentes 08 - Poupador com gastador.mp4",
         "sha256": "bd82b7219859373eb0da6e91dc0f24cc98e045d093c9216edfb5a6c50be30837",
@@ -2962,7 +2962,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-bd82b72198-Casais-Inteligentes-08---Poupador-com-gastador.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-bd82b72198-Casais-Inteligentes-08---Poupador-com-gastador.mp4",
@@ -2971,13 +2971,30 @@
             "duracao_segundos": 34.208
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18160400806518121",
+            "publish_iniciado_em": "2026-11-26T09:32:35-03:00",
+            "id": "18122729261103427",
+            "publicado_em": "2026-11-26T09:32:44-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "3394203960789894",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-26T09:32:51-03:00",
+            "post_id_candidato": "1560841839184018",
+            "finish_em": "2026-11-26T09:32:55-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE1NjA4NDE4NDI1MTczNTE=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1560841839184018",
+            "publicado_em": "2026-11-26T09:33:32-03:00"
+          },
+          "concluido_em": "2026-11-26T09:33:32-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-26T09:33:32-03:00"
     },
     {
       "id": "story-20261127-89a7e15df9",
