@@ -8687,7 +8687,7 @@
       "id": "reel-20261126-2000-3dad933f30",
       "data": "2026-11-26",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Mente Milionaria 19 - Dinheiro que trabalha.mp4",
         "sha256": "3dad933f302895f7011dc8b02514737b9e792099a4475574f87dc3a15817b2bf"
@@ -8700,12 +8700,17 @@
       },
       "instagram": {
         "legenda": "Cada real que você guarda pode virar um funcionário seu.\n\nÉ isso que o livro Os Segredos da Mente Milionária ensina: a maioria trabalha duro pelo dinheiro, mas quem enriquece faz o dinheiro trabalhar por ele, até enquanto dorme.\n\nQuando o rendimento paga as contas, isso tem nome: liberdade financeira.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18017014598761366",
+        "publicado_em": "2026-11-26T20:55:22.308531-03:00"
       },
       "facebook": {
         "legenda": "Cada real que você guarda pode virar um funcionário seu.\n\nÉ isso que o livro Os Segredos da Mente Milionária ensina: a maioria trabalha duro pelo dinheiro, mas quem enriquece faz o dinheiro trabalhar por ele, até enquanto dorme.\n\nQuando o rendimento paga as contas, isso tem nome: liberdade financeira.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2469351440559767",
+        "publicado_em": "2026-11-26T20:55:29.966607-03:00"
+      },
+      "concluido_em": "2026-11-26T20:55:29.978778-03:00"
     },
     {
       "id": "reel-20261127-0800-dcca8739f2",
