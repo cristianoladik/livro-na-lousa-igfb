@@ -8597,7 +8597,7 @@
       "id": "reel-20261126-1100-242b691418",
       "data": "2026-11-26",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Tamanho 1m30 - Babilonia 18 - O escravo que gostava de trabalhar.mp4",
         "sha256": "242b69141871b307e02e0eac3eb8d46df776f21f461cf0c2cd9f64bc56004859"
@@ -8610,12 +8610,17 @@
       },
       "instagram": {
         "legenda": "Um homem rico cruzava o deserto com uma caravana carregada.\n\nNinguém imaginava que um dia ele foi escravo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nUm dia, o Arad Gula comprou a liberdade dele e levou ele como sócio.\n\nQuem trata o trabalho como amigo cresce com ele.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17909428500599434",
+        "publicado_em": "2026-11-26T12:19:24.966044-03:00"
       },
       "facebook": {
         "legenda": "Um homem rico cruzava o deserto com uma caravana carregada.\n\nNinguém imaginava que um dia ele foi escravo.\n\nEssa lição está no livro O Homem Mais Rico da Babilônia.\n\nUm dia, o Arad Gula comprou a liberdade dele e levou ele como sócio.\n\nQuem trata o trabalho como amigo cresce com ele.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1087495984318648",
+        "publicado_em": "2026-11-26T12:19:34.858135-03:00"
+      },
+      "concluido_em": "2026-11-26T12:19:34.865907-03:00"
     },
     {
       "id": "reel-20261126-1400-403f267afe",
