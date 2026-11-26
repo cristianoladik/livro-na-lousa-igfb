@@ -2968,7 +2968,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-bd82b72198-Casais-Inteligentes-08---Poupador-com-gastador.mp4",
             "sha256": "bd82b7219859373eb0da6e91dc0f24cc98e045d093c9216edfb5a6c50be30837",
             "tamanho_bytes": 6259448,
-            "duracao_segundos": 34.208
+            "duracao_segundos": 34.208,
+            "removido_da_release_em": "2026-11-26T09:33:34.655581-03:00"
           },
           "instagram": {
             "status": "publicado",
