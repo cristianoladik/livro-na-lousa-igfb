@@ -3001,7 +3001,7 @@
       "id": "story-20261127-89a7e15df9",
       "data": "2026-11-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Credito Vale Mais 08 - Imovel nao sobe pra sempre.mp4",
         "sha256": "89a7e15df9b04da7dde57c4c23e2caf108c36fa26380477a84d6da119d0acd69",
@@ -3011,7 +3011,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-89a7e15df9-Credito-Vale-Mais-08---Imovel-nao-sobe-pra-sempre.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-89a7e15df9-Credito-Vale-Mais-08---Imovel-nao-sobe-pra-sempre.mp4",
@@ -3020,13 +3020,30 @@
             "duracao_segundos": 30.87
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18160610017518121",
+            "publish_iniciado_em": "2026-11-27T09:32:10-03:00",
+            "id": "18046123139681624",
+            "publicado_em": "2026-11-27T09:32:18-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "1657554025777568",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-27T09:32:27-03:00",
+            "post_id_candidato": "2590795724760746",
+            "finish_em": "2026-11-27T09:32:31-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjI1OTA3OTU3MjgwOTQwNzk=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "2590795724760746",
+            "publicado_em": "2026-11-27T09:33:08-03:00"
+          },
+          "concluido_em": "2026-11-27T09:33:08-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-27T09:33:08-03:00"
     },
     {
       "id": "story-20261128-f10ca313c7",
