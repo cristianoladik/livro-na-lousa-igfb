@@ -8837,7 +8837,7 @@
       "id": "reel-20261127-2000-966cbb14a0",
       "data": "2026-11-27",
       "horario": "20:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 20 - A formula da riqueza.mp4",
         "sha256": "966cbb14a088b1072ad1b151cd75074fd8826e2f0de3a187b880cf279de62ed4"
@@ -8850,12 +8850,17 @@
       },
       "instagram": {
         "legenda": "Rico não é quem ganha muito.\n\nRico é quem recebe mais do que consome.\n\nA frase é antiga, de um escritor francês antigo.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nAté juntar um capital que te pague, todo ano, a renda que você quer.\n\nO salário é parte do plano, mas não é o emprego que te deixa rico.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "17965114704255454",
+        "publicado_em": "2026-11-27T20:46:23.934485-03:00"
       },
       "facebook": {
         "legenda": "Rico não é quem ganha muito.\n\nRico é quem recebe mais do que consome.\n\nA frase é antiga, de um escritor francês antigo.\n\nEssa lição está no livro Dinheiro: Os Segredos de Quem Tem.\n\nAté juntar um capital que te pague, todo ano, a renda que você quer.\n\nO salário é parte do plano, mas não é o emprego que te deixa rico.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1120033407466181",
+        "publicado_em": "2026-11-27T20:46:32.618148-03:00"
+      },
+      "concluido_em": "2026-11-27T20:46:32.628389-03:00"
     },
     {
       "id": "reel-20261128-0800-36bf2b8aba",
