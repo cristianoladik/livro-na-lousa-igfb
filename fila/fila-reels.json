@@ -8747,7 +8747,7 @@
       "id": "reel-20261127-1100-73e85c7d02",
       "data": "2026-11-27",
       "horario": "11:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Psicologia Financeira 19 - O alienigena em Nova York.mp4",
         "sha256": "73e85c7d023e9fdfd02dbb6f66e15831f7452fdb59a0872ed7a9372ba966c222"
@@ -8760,12 +8760,17 @@
       },
       "instagram": {
         "legenda": "Imagina um alienígena olhando Nova York no fim de dois mil e sete.\n\nEle vai embora e volta no fim de dois mil e nove.\n\nEssa lição está no livro A Psicologia Financeira.\n\nPor isso, desconfie de quem promete prever o mercado.\n\nNinguém sabe, e quem precisa acreditar vira presa fácil.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18122313130787892",
+        "publicado_em": "2026-11-27T12:51:14.123982-03:00"
       },
       "facebook": {
         "legenda": "Imagina um alienígena olhando Nova York no fim de dois mil e sete.\n\nEle vai embora e volta no fim de dois mil e nove.\n\nEssa lição está no livro A Psicologia Financeira.\n\nPor isso, desconfie de quem promete prever o mercado.\n\nNinguém sabe, e quem precisa acreditar vira presa fácil.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "1151411914296987",
+        "publicado_em": "2026-11-27T12:51:25.370969-03:00"
+      },
+      "concluido_em": "2026-11-27T12:51:25.383549-03:00"
     },
     {
       "id": "reel-20261127-1400-7a78d8ddfb",
