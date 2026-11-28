@@ -3066,7 +3066,8 @@
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f10ca313c7-Dinheiro-Segredos-08---O-Milionario-Mora-ao-Lado.mp4",
             "sha256": "f10ca313c798053d79a3156675eb060f0a58a5dc27b0421b753a2a1faa9775d5",
             "tamanho_bytes": 7008088,
-            "duracao_segundos": 30.958
+            "duracao_segundos": 30.958,
+            "removido_da_release_em": "2026-11-28T09:33:00.933112-03:00"
           },
           "instagram": {
             "status": "publicado",
