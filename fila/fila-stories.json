@@ -3050,7 +3050,7 @@
       "id": "story-20261128-f10ca313c7",
       "data": "2026-11-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Dinheiro Segredos 08 - O Milionario Mora ao Lado.mp4",
         "sha256": "f10ca313c798053d79a3156675eb060f0a58a5dc27b0421b753a2a1faa9775d5",
@@ -3060,7 +3060,7 @@
       "partes": [
         {
           "ordem": 1,
-          "status": "pendente",
+          "status": "concluido",
           "midia": {
             "asset": "story-f10ca313c7-Dinheiro-Segredos-08---O-Milionario-Mora-ao-Lado.mp4",
             "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/story-f10ca313c7-Dinheiro-Segredos-08---O-Milionario-Mora-ao-Lado.mp4",
@@ -3069,13 +3069,30 @@
             "duracao_segundos": 30.958
           },
           "instagram": {
-            "status": "pendente"
+            "status": "publicado",
+            "tentativas": 1,
+            "container_id": "18160802251518121",
+            "publish_iniciado_em": "2026-11-28T09:32:07-03:00",
+            "id": "18399264280164855",
+            "publicado_em": "2026-11-28T09:32:14-03:00"
           },
           "facebook": {
-            "status": "pendente"
-          }
+            "status": "publicado",
+            "tentativas": 1,
+            "video_id": "29289706880688873",
+            "finish_tentativas": 1,
+            "finish_iniciado_em": "2026-11-28T09:32:20-03:00",
+            "post_id_candidato": "1827759608166517",
+            "finish_em": "2026-11-28T09:32:23-03:00",
+            "url": "https://facebook.com/stories/122108430009482946/UzpfSVNDOjE4Mjc3NTk2MTE0OTk4NTA=/?view_single=1",
+            "id_tipo": "post_id",
+            "id": "1827759608166517",
+            "publicado_em": "2026-11-28T09:32:58-03:00"
+          },
+          "concluido_em": "2026-11-28T09:32:58-03:00"
         }
-      ]
+      ],
+      "concluido_em": "2026-11-28T09:32:58-03:00"
     },
     {
       "id": "story-20261129-87730e4b40",
