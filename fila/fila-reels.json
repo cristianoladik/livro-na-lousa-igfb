@@ -8906,7 +8906,8 @@
         "asset": "reel-3ae171bca3-Mente-Milionaria-20---Os-6-potes.mp4",
         "url_publica": "https://github.com/cristianoladik/livro-na-lousa-igfb/releases/download/fila-instagram-facebook/reel-3ae171bca3-Mente-Milionaria-20---Os-6-potes.mp4",
         "sha256": "3ae171bca315e13a4c7799bab49109453f3f8720aa1a7d8dd5dd86c4ae073fc4",
-        "tamanho_bytes": 7653235
+        "tamanho_bytes": 7653235,
+        "removido_da_release_em": "2026-11-28T11:04:11.984632-03:00"
       },
       "instagram": {
         "legenda": "Entraram dois mil reais?\n\nO livro Os Segredos da Mente Milionária ensina a dividir em seis potes: necessidades, liberdade financeira, compras maiores, educação, diversão e doação.\n\nO pote da liberdade você só investe e nunca gasta, usando apenas o que ele rende.\n\nParece muito, mas pode começar com um real por pote.\n\nSegue a página pra ver mais livros assim: @livronalousa",
