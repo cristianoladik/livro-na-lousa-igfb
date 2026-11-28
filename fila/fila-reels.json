@@ -8867,7 +8867,7 @@
       "id": "reel-20261128-0800-36bf2b8aba",
       "data": "2026-11-28",
       "horario": "08:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "Habitos Atomicos 20 - O ciclo do habito.mp4",
         "sha256": "36bf2b8aba098977c9515bb37bd69b9e1e57fb5a7ff9d1a14c0c24ff4c8fd7e1"
@@ -8880,12 +8880,17 @@
       },
       "instagram": {
         "legenda": "O seu celular vibra e você pega sem nem pensar.\n\nO livro Hábitos Atômicos explica o que acontece aí.\n\nTorne óbvio, torne atraente, torne fácil e torne satisfatório.\n\nPro hábito ruim, é só inverter as quatro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
+        "status": "publicado",
+        "id": "18217525051365036",
+        "publicado_em": "2026-11-28T09:31:12.926958-03:00"
       },
       "facebook": {
         "legenda": "O seu celular vibra e você pega sem nem pensar.\n\nO livro Hábitos Atômicos explica o que acontece aí.\n\nTorne óbvio, torne atraente, torne fácil e torne satisfatório.\n\nPro hábito ruim, é só inverter as quatro.\n\nSegue a página pra ver mais livros assim: @livronalousa",
-        "status": "pendente"
-      }
+        "status": "publicado",
+        "id": "2678700662551622",
+        "publicado_em": "2026-11-28T09:31:21.691889-03:00"
+      },
+      "concluido_em": "2026-11-28T09:31:21.702619-03:00"
     },
     {
       "id": "reel-20261128-1100-3ae171bca3",
